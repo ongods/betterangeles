@@ -1,19 +1,31 @@
-# Business & Livelihood Category Pages
-# This file contains all the pages/services available under the Business & Livelihood category
-
 pages:
-  - name: "Apply for barangay clearance and mayor's business permits"
+  - name: 'Apply for barangay clearance and mayor’s business permits'
     slug: 'apply-for-barangay-clearance-and-mayors-business-permits'
-    description: "Step-by-step guide to applying for barangay clearance and mayor's business permits for your business."
-    
+    description: 'Prepare a new business permit application for the Angeles City Business Permit and Licensing Division.'
   - name: 'Renew permits and pay local business taxes'
     slug: 'renew-permits-and-pay-local-business-taxes'
-    description: 'Information about renewing business permits and paying local business taxes to your local government.'
-    
+    description: 'Use the Angeles City renewal checklist and the published BPLD/BOSS assessment procedure.'
   - name: 'Rent stalls in public markets'
     slug: 'rent-stalls-in-public-markets'
-    description: 'How to rent stalls in local government public markets for your business.'
-    
+    description: 'Ask about market stall availability and rental requirements in Angeles City.'
   - name: 'Join trade fairs, business expos, or tourism promotions'
     slug: 'join-trade-fairs-business-expos-or-tourism-promotions'
-    description: 'Participate in local trade fairs, business expos, and tourism promotion activities.'
+    description: 'Find official Angeles tourism references and the permit guides relevant to local events.'
+  - name: 'Download the business permit application form'
+    slug: 'download-business-permit-application-form'
+    description: 'Access the saved Angeles City application form for a new permit, renewal, or amendment.'
+  - name: 'Request zoning compliance for a business permit'
+    slug: 'request-business-zoning-compliance'
+    description: 'Check the published location and zoning requirements for an Angeles City business permit.'
+  - name: 'Apply for a sanitary permit'
+    slug: 'apply-for-sanitary-permit'
+    description: 'Follow the sanitation permit procedure included in Angeles City’s business permit process.'
+  - name: 'Apply for signage, event, and miscellaneous permits'
+    slug: 'apply-for-signage-event-and-miscellaneous-permits'
+    description: 'Find the published permit requirements for advertising displays, motorcades, performances, and other activities in Angeles City.'
+  - name: 'Apply for a Mayor’s permit for public transport'
+    slug: 'apply-for-public-transport-mayors-permit'
+    description: 'Prepare the local permit requirements for tricycles for hire, public utility jeepneys, school services, and mini-buses.'
+  - name: 'Barangay directory'
+    slug: 'find-your-angeles-city-barangay'
+    description: 'Browse the 33 barangays listed on the Angeles City Government website in the August 9, 2026 source snapshot.'

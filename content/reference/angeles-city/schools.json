@@ -1,0 +1,1146 @@
+[
+  {
+    "school_id": "107022",
+    "name": "Abelardo G. Tinio ES",
+    "submission_status": "Submitted",
+    "project_count": 3,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "a39f9a4b3ee6cbf0fa81bf254482f8e280a4e757cfa25697a7e062758aaf9ee4",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "a39f9a4b3ee6cbf0fa81bf254482f8e280a4e757cfa25697a7e062758aaf9ee4"
+      }
+    ]
+  },
+  {
+    "school_id": "107023",
+    "name": "Angeles Elementary School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "ddbcebb9e051f777719c723950dfca1b96e0c25625aaf29ff77a10717e91dd4f",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "ddbcebb9e051f777719c723950dfca1b96e0c25625aaf29ff77a10717e91dd4f"
+      }
+    ]
+  },
+  {
+    "school_id": "107024",
+    "name": "Belen Homesite ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "d7ded273565afc512fc00d49995deaebb2c82a782caffbb5d029147532e5fd68",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "d7ded273565afc512fc00d49995deaebb2c82a782caffbb5d029147532e5fd68"
+      }
+    ]
+  },
+  {
+    "school_id": "107025",
+    "name": "Cutud ES",
+    "submission_status": "Submitted",
+    "project_count": 2,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "5f6f57fc9959ae13076ee6055c4a1c59bcdf9158d565bf3ac807157218168d3b",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "5f6f57fc9959ae13076ee6055c4a1c59bcdf9158d565bf3ac807157218168d3b"
+      }
+    ]
+  },
+  {
+    "school_id": "107027",
+    "name": "Dr. Clemente N. Dayrit Sr. Elem. School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "b83bcac48e3cb7a2522a7803430f1528a77603bce574e347e26547831124050a",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "b83bcac48e3cb7a2522a7803430f1528a77603bce574e347e26547831124050a"
+      }
+    ]
+  },
+  {
+    "school_id": "107029",
+    "name": "EPZA Resettlement ES",
+    "submission_status": "Submitted",
+    "project_count": 1,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "058838905fe1ac7e508d54664cd5f127650b2f153166daaf736c44541349aa79",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "058838905fe1ac7e508d54664cd5f127650b2f153166daaf736c44541349aa79"
+      }
+    ]
+  },
+  {
+    "school_id": "107030",
+    "name": "Mining Elementary School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "8a90f622f5bdb8375ad2d3204069ff7b1559b5fe14c3ad6eaada74cbe4afd07f",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "8a90f622f5bdb8375ad2d3204069ff7b1559b5fe14c3ad6eaada74cbe4afd07f"
+      }
+    ]
+  },
+  {
+    "school_id": "107031",
+    "name": "Jose P. Dizon ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "78c8c66bb3329cfc4dddc354fd065a545315fc3c51e74b41fea681efba65869d",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "78c8c66bb3329cfc4dddc354fd065a545315fc3c51e74b41fea681efba65869d"
+      }
+    ]
+  },
+  {
+    "school_id": "107032",
+    "name": "Pineda-Gutierrez ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "b2dec15f5084fbd3a6e5ef67740ee788fde72b08ba5c48533e61ea3f30c457b6",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "b2dec15f5084fbd3a6e5ef67740ee788fde72b08ba5c48533e61ea3f30c457b6"
+      }
+    ]
+  },
+  {
+    "school_id": "107033",
+    "name": "Pulung Cacutud ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "7afc0884a8bdaf42caea671ca1e2330fcc245b62bbe118c85159c59c321bf71f",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "7afc0884a8bdaf42caea671ca1e2330fcc245b62bbe118c85159c59c321bf71f"
+      }
+    ]
+  },
+  {
+    "school_id": "107034",
+    "name": "Pulungbulo ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "c3151050dae1e2fa7ebecb86d8ec6bf18f30c8596dcbea6d4820a457e44fc576",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "c3151050dae1e2fa7ebecb86d8ec6bf18f30c8596dcbea6d4820a457e44fc576"
+      }
+    ]
+  },
+  {
+    "school_id": "107035",
+    "name": "Salapungan ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "8f327f8bf8257533208b57cd054bccbbea020c51d4608f4d2e04fa313e05cf4e",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "8f327f8bf8257533208b57cd054bccbbea020c51d4608f4d2e04fa313e05cf4e"
+      }
+    ]
+  },
+  {
+    "school_id": "107036",
+    "name": "San Ignacio ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "96af8c46ac51d75e809e7405e7ed89e8e62a99fa5a196c339b4d968cf3dc3786",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "96af8c46ac51d75e809e7405e7ed89e8e62a99fa5a196c339b4d968cf3dc3786"
+      }
+    ]
+  },
+  {
+    "school_id": "107037",
+    "name": "Sapalibutad ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "f60f28c097d74b4ed940f27f89ec0e2bbfda7c689e723a0bc8a1657d91fa9398",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "f60f28c097d74b4ed940f27f89ec0e2bbfda7c689e723a0bc8a1657d91fa9398"
+      }
+    ]
+  },
+  {
+    "school_id": "107038",
+    "name": "Alberto G. Pabalan Elementary School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "6c55b2df314aa40dc4d9300aa52ebbb1136a17637e8120a5d4c0b62d3f947358",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "6c55b2df314aa40dc4d9300aa52ebbb1136a17637e8120a5d4c0b62d3f947358"
+      }
+    ]
+  },
+  {
+    "school_id": "107040",
+    "name": "Anunas Elementary School (Formerly Edilberto M. Ganzon ES)",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "2de12e8ae63dd153f0a31069c07ed131332cf212fa81bfded083bf7d3317cdad",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "2de12e8ae63dd153f0a31069c07ed131332cf212fa81bfded083bf7d3317cdad"
+      }
+    ]
+  },
+  {
+    "school_id": "107041",
+    "name": "Gueco Balibago ES",
+    "submission_status": "Submitted",
+    "project_count": 3,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "a7d6d56f5a3a6e97fb3f86f95094cfb2d25b1ceca397b25d7171b73caa6217ce",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "a7d6d56f5a3a6e97fb3f86f95094cfb2d25b1ceca397b25d7171b73caa6217ce"
+      }
+    ]
+  },
+  {
+    "school_id": "107043",
+    "name": "Marisol Bliss ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "7d729d8d4d9dd8f8769a8bd7b5d4c02c5a1c534757d011edb40b56c3fc972b69",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "7d729d8d4d9dd8f8769a8bd7b5d4c02c5a1c534757d011edb40b56c3fc972b69"
+      }
+    ]
+  },
+  {
+    "school_id": "107044",
+    "name": "Sapang Bato ES",
+    "submission_status": "Submitted",
+    "project_count": 2,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "1bc1c8ba944c3c62f5862839b569cb557b1e3036271ffae7eb5d9a9134591b48",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "1bc1c8ba944c3c62f5862839b569cb557b1e3036271ffae7eb5d9a9134591b48"
+      }
+    ]
+  },
+  {
+    "school_id": "107046",
+    "name": "Sitio Pader ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "8df59f8c7fb54ee223bc6297704c526ee6c333a1f0083b1b60d0cd7339bde071",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "8df59f8c7fb54ee223bc6297704c526ee6c333a1f0083b1b60d0cd7339bde071"
+      }
+    ]
+  },
+  {
+    "school_id": "107048",
+    "name": "Sta. Teresita Elementary School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "8c4586ccd015f2795463a9cd84a7a8c9c2f6c921506d2605fa98d47f7c6e4d34",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "8c4586ccd015f2795463a9cd84a7a8c9c2f6c921506d2605fa98d47f7c6e4d34"
+      }
+    ]
+  },
+  {
+    "school_id": "107049",
+    "name": "Tacondo ES",
+    "submission_status": "Submitted",
+    "project_count": 1,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "221e807d7723f3a165d4e9c4143f19e593f3229401b22a0713536c9eca1b06ca",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "221e807d7723f3a165d4e9c4143f19e593f3229401b22a0713536c9eca1b06ca"
+      }
+    ]
+  },
+  {
+    "school_id": "107050",
+    "name": "Teodoro P. Tinio ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "f229b48b7e21b773a8bdb72f519a6893ced71ff63486aa1ccecf3f1eaad9457f",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "f229b48b7e21b773a8bdb72f519a6893ced71ff63486aa1ccecf3f1eaad9457f"
+      }
+    ]
+  },
+  {
+    "school_id": "107051",
+    "name": "Virgen Delos Remedios Elementary School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "3fa9e80892ee30442a67d42745cfb95a1572a78415e5fe561b64ec452f0e8083",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "3fa9e80892ee30442a67d42745cfb95a1572a78415e5fe561b64ec452f0e8083"
+      }
+    ]
+  },
+  {
+    "school_id": "107052",
+    "name": "Apung Guidang Nepomuceno Elementary School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "fcc45430ed55dd89da665de047ce4c48076930738414ddf7b605e7661e1ee521",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "fcc45430ed55dd89da665de047ce4c48076930738414ddf7b605e7661e1ee521"
+      }
+    ]
+  },
+  {
+    "school_id": "107053",
+    "name": "Cuayan Elementary School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "10ff53056b347d209b5cb4e4c4988b604896dd8a1777fd32537d2d61856ee7fc",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "10ff53056b347d209b5cb4e4c4988b604896dd8a1777fd32537d2d61856ee7fc"
+      }
+    ]
+  },
+  {
+    "school_id": "107054",
+    "name": "Cutcut Elementary School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "504019600f4316fd702a69fdf4838e7239b91337df9a93e2302b02b857369352",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "504019600f4316fd702a69fdf4838e7239b91337df9a93e2302b02b857369352"
+      }
+    ]
+  },
+  {
+    "school_id": "107055",
+    "name": "Don Pepe Henson Memorial School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "bbc6561e81ef7995b64f6301ed432ad4d5f159c68abc0300a7d9ae269a5f1145",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "bbc6561e81ef7995b64f6301ed432ad4d5f159c68abc0300a7d9ae269a5f1145"
+      }
+    ]
+  },
+  {
+    "school_id": "107057",
+    "name": "Lourdes Northwest ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "66f47a7cda514b969c4af02aa818e3352182ecbc01d955142b233096736ea01f",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "66f47a7cda514b969c4af02aa818e3352182ecbc01d955142b233096736ea01f"
+      }
+    ]
+  },
+  {
+    "school_id": "107058",
+    "name": "M.Nepomuceno ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "cea2a189a4a854b2ed63872f07d1eb24b6b8b5002bc520f987fcf3b4aaa5a113",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "cea2a189a4a854b2ed63872f07d1eb24b6b8b5002bc520f987fcf3b4aaa5a113"
+      }
+    ]
+  },
+  {
+    "school_id": "107059",
+    "name": "Pampang ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "510b595d325a5176b0d7ffdcb09d4137b521660b6d3f4c67655c08dc51e344b1",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "510b595d325a5176b0d7ffdcb09d4137b521660b6d3f4c67655c08dc51e344b1"
+      }
+    ]
+  },
+  {
+    "school_id": "107061",
+    "name": "Sto. Rosario ES",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "6879eb810354ac83203082b3fb4365772500194dde264ed65cbf7a491fa298c7",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "6879eb810354ac83203082b3fb4365772500194dde264ed65cbf7a491fa298c7"
+      }
+    ]
+  },
+  {
+    "school_id": "161001",
+    "name": "Air Force City Elementary School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "bd91a64ee479281ca6e1361d745e5a76ee83ae1a5252183188abb4922632e1a2",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "bd91a64ee479281ca6e1361d745e5a76ee83ae1a5252183188abb4922632e1a2"
+      }
+    ]
+  },
+  {
+    "school_id": "301038",
+    "name": "Angeles City Nat'l. Trade School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "1cf9b0c3a39d78c012a5695bc3612f3e8b1365e4cabd4499773ab273591a0559",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "1cf9b0c3a39d78c012a5695bc3612f3e8b1365e4cabd4499773ab273591a0559"
+      }
+    ]
+  },
+  {
+    "school_id": "301039",
+    "name": "Angeles City NHS",
+    "submission_status": "Submitted",
+    "project_count": 1,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "d2ca705359b87a3646306383cb0af87d652ec18729642851d7992f30c16d66ca",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "d2ca705359b87a3646306383cb0af87d652ec18729642851d7992f30c16d66ca"
+      }
+    ]
+  },
+  {
+    "school_id": "301040",
+    "name": "Francisco G. Nepomuceno Mem. HS",
+    "submission_status": "Submitted",
+    "project_count": 3,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "799f43af77b8f755cdcb9c71dcfa80745f1bf79e3da60c058345f862761e43b0",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "799f43af77b8f755cdcb9c71dcfa80745f1bf79e3da60c058345f862761e43b0"
+      }
+    ]
+  },
+  {
+    "school_id": "301042",
+    "name": "Bonifacio V. Romero HS",
+    "submission_status": "Submitted",
+    "project_count": 1,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "0856e83f34752f38db79ad24a600fb194ea4694f938c56713b577a763e27c343",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "0856e83f34752f38db79ad24a600fb194ea4694f938c56713b577a763e27c343"
+      }
+    ]
+  },
+  {
+    "school_id": "301043",
+    "name": "Sapang Bato National High School",
+    "submission_status": "Submitted",
+    "project_count": 3,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "b21c7a23120b37d9c13ed0dddef6182eace4d822c195a73946c82d6a2fc4002c",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "b21c7a23120b37d9c13ed0dddef6182eace4d822c195a73946c82d6a2fc4002c"
+      }
+    ]
+  },
+  {
+    "school_id": "305554",
+    "name": "DR. CLEMENTE N. DAYRIT SR. MEMORIAL HIGH SCHOOL",
+    "submission_status": "Submitted",
+    "project_count": 3,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "266065a8f638ee8b6525cfef8062692c5725a07617ed195238903c9cbb406c9e",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "266065a8f638ee8b6525cfef8062692c5725a07617ed195238903c9cbb406c9e"
+      }
+    ]
+  },
+  {
+    "school_id": "307201",
+    "name": "Rafael L. Lazatin Mem. HS",
+    "submission_status": "Submitted",
+    "project_count": 3,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "abb6c7e351fc81c4b8f513b9c471f7036f735c0e698d3a570dda2089321c4b85",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "abb6c7e351fc81c4b8f513b9c471f7036f735c0e698d3a570dda2089321c4b85"
+      }
+    ]
+  },
+  {
+    "school_id": "307202",
+    "name": "Angeles City Science HS",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "bbb96261e051c8d2219ac2d876f766da166ad0466e9de12ded1342e2c724e768",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "bbb96261e051c8d2219ac2d876f766da166ad0466e9de12ded1342e2c724e768"
+      }
+    ]
+  },
+  {
+    "school_id": "307203",
+    "name": "Claro M. Recto ICT High School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "b4bffe503c009c609fb36fc9726fc3b4af5d69e4e0d3a0b29f6822857e240fe4",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "b4bffe503c009c609fb36fc9726fc3b4af5d69e4e0d3a0b29f6822857e240fe4"
+      }
+    ]
+  },
+  {
+    "school_id": "345279",
+    "name": "Angeles City Senior High School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "361312ac5c04273aa86d43b5833e45ee28b5548d277dd270bb19aaddb881988c",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "361312ac5c04273aa86d43b5833e45ee28b5548d277dd270bb19aaddb881988c"
+      }
+    ]
+  },
+  {
+    "school_id": "500129",
+    "name": "Gov. Rafael L. Lazatin IS",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "0b2c7f47da98a9849100aca1dc15ad9e1c4c7623bf9667d3825d71f87ce657f1",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "0b2c7f47da98a9849100aca1dc15ad9e1c4c7623bf9667d3825d71f87ce657f1"
+      }
+    ]
+  },
+  {
+    "school_id": "500130",
+    "name": "Northville 15 Integrated school",
+    "submission_status": "Submitted",
+    "project_count": 3,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "d49713bb9b59c3799f10350305763daa13d1d0917047e7f265cb538500713d19",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "d49713bb9b59c3799f10350305763daa13d1d0917047e7f265cb538500713d19"
+      }
+    ]
+  },
+  {
+    "school_id": "500131",
+    "name": "Amsic IS",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "7391c900c147ae0599b5d3681cb1b255d4ab7c6fd35fd5652c173b92d5ee4b87",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "7391c900c147ae0599b5d3681cb1b255d4ab7c6fd35fd5652c173b92d5ee4b87"
+      }
+    ]
+  },
+  {
+    "school_id": "500132",
+    "name": "Malabanias IS",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "4a4eaa2df41f14927c6e51ac7c703b85894fb532bcd8f1e51691d66a3480bc11",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "4a4eaa2df41f14927c6e51ac7c703b85894fb532bcd8f1e51691d66a3480bc11"
+      }
+    ]
+  },
+  {
+    "school_id": "500133",
+    "name": "Sto. Domingo Integrated School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "75fe49a115bd6ef63b5af7f550411769155bb36401d1c8a1c1478eff48ccf338",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "75fe49a115bd6ef63b5af7f550411769155bb36401d1c8a1c1478eff48ccf338"
+      }
+    ]
+  },
+  {
+    "school_id": "500766",
+    "name": "Sitio Target Integrated School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "cda0764c01200717e029b9e9053a0e888d4f51917d1bf4dada5a7c76f5e03c2d",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "cda0764c01200717e029b9e9053a0e888d4f51917d1bf4dada5a7c76f5e03c2d"
+      }
+    ]
+  },
+  {
+    "school_id": "501022",
+    "name": "Don Ambrocio Mendiola Integrated School",
+    "submission_status": "Submitted",
+    "project_count": 1,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+    "scraped_at": "2026-08-09T08:19:01.684431+00:00",
+    "source_id": "deped_schools_page_1",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "fa7f2426717da7ba5b38e82493637d1840a770719a628dcde9543caa43602e62",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_1",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City",
+        "retrieved_at": "2026-08-09T08:19:01.684431+00:00",
+        "priority": 100,
+        "content_hash": "fa7f2426717da7ba5b38e82493637d1840a770719a628dcde9543caa43602e62"
+      }
+    ]
+  },
+  {
+    "school_id": "502468",
+    "name": "Leoncia Village Integrated School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City?page=2",
+    "scraped_at": "2026-08-09T08:19:03.735564+00:00",
+    "source_id": "deped_schools_page_2",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "42c019b4d1d05bd83c36056e8ca1794ce9074136e3a4a65f2c8b69e23177f68c",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_2",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City?page=2",
+        "retrieved_at": "2026-08-09T08:19:03.735564+00:00",
+        "priority": 100,
+        "content_hash": "42c019b4d1d05bd83c36056e8ca1794ce9074136e3a4a65f2c8b69e23177f68c"
+      }
+    ]
+  },
+  {
+    "school_id": "502867",
+    "name": "Enrica Sandico Integrated School",
+    "submission_status": "Submitted",
+    "project_count": 0,
+    "source_url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City?page=2",
+    "scraped_at": "2026-08-09T08:19:03.735564+00:00",
+    "source_id": "deped_schools_page_2",
+    "source_publisher": "Department of Education",
+    "source_priority": 100,
+    "content_hash": "d3a6d464b236e2143507633b8c9d0c7ccd3891323f75cc8214a647ab495f58c2",
+    "sources": [
+      {
+        "source_id": "deped_schools_page_2",
+        "publisher": "Department of Education",
+        "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City?page=2",
+        "retrieved_at": "2026-08-09T08:19:03.735564+00:00",
+        "priority": 100,
+        "content_hash": "d3a6d464b236e2143507633b8c9d0c7ccd3891323f75cc8214a647ab495f58c2"
+      }
+    ]
+  }
+]

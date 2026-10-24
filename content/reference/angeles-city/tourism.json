@@ -1,0 +1,86 @@
+[
+  {
+    "name": "HRPC",
+    "detail_url": "https://tourism.angelescity.gov.ph/hrpc-3/",
+    "image_url": "https://i0.wp.com/tourism.angelescity.gov.ph/wp-content/uploads/2025/04/HRPC.jpg?fit=900%2C600&ssl=1",
+    "source_url": "https://tourism.angelescity.gov.ph/tourist-spot/",
+    "scraped_at": "2026-08-09T08:18:54.538336+00:00",
+    "source_id": "angeles_tourism",
+    "source_publisher": "Angeles City Tourism Office",
+    "source_priority": 100,
+    "content_hash": "0bbe7f260306f3aeaa587741135da4566dd0fea1ca11c4aa2f898295ab0298f2",
+    "sources": [
+      {
+        "source_id": "angeles_tourism",
+        "publisher": "Angeles City Tourism Office",
+        "url": "https://tourism.angelescity.gov.ph/tourist-spot/",
+        "retrieved_at": "2026-08-09T08:18:54.538336+00:00",
+        "priority": 100,
+        "content_hash": "0bbe7f260306f3aeaa587741135da4566dd0fea1ca11c4aa2f898295ab0298f2"
+      }
+    ]
+  },
+  {
+    "name": "Museo ning angeles",
+    "detail_url": "https://tourism.angelescity.gov.ph/museo-ning-angeles/",
+    "image_url": "https://i0.wp.com/tourism.angelescity.gov.ph/wp-content/uploads/2025/04/Museo-ning-angeles.jpg?fit=900%2C600&ssl=1",
+    "source_url": "https://tourism.angelescity.gov.ph/tourist-spot/",
+    "scraped_at": "2026-08-09T08:18:54.538336+00:00",
+    "source_id": "angeles_tourism",
+    "source_publisher": "Angeles City Tourism Office",
+    "source_priority": 100,
+    "content_hash": "734c8ad3683096ffd49d45ed1ea99cb372a6ce41fc566f4f1765765de90df9fc",
+    "sources": [
+      {
+        "source_id": "angeles_tourism",
+        "publisher": "Angeles City Tourism Office",
+        "url": "https://tourism.angelescity.gov.ph/tourist-spot/",
+        "retrieved_at": "2026-08-09T08:18:54.538336+00:00",
+        "priority": 100,
+        "content_hash": "734c8ad3683096ffd49d45ed1ea99cb372a6ce41fc566f4f1765765de90df9fc"
+      }
+    ]
+  },
+  {
+    "name": "Apu Shrine",
+    "detail_url": "https://tourism.angelescity.gov.ph/apu-shrine-2/",
+    "image_url": "https://i0.wp.com/tourism.angelescity.gov.ph/wp-content/uploads/2025/04/Apu-Shrine.jpg?fit=900%2C600&ssl=1",
+    "source_url": "https://tourism.angelescity.gov.ph/tourist-spot/",
+    "scraped_at": "2026-08-09T08:18:54.538336+00:00",
+    "source_id": "angeles_tourism",
+    "source_publisher": "Angeles City Tourism Office",
+    "source_priority": 100,
+    "content_hash": "d39989cc3a27e501e5839bbf8e1a73a2eda119f10810809951f9169d01437d34",
+    "sources": [
+      {
+        "source_id": "angeles_tourism",
+        "publisher": "Angeles City Tourism Office",
+        "url": "https://tourism.angelescity.gov.ph/tourist-spot/",
+        "retrieved_at": "2026-08-09T08:18:54.538336+00:00",
+        "priority": 100,
+        "content_hash": "d39989cc3a27e501e5839bbf8e1a73a2eda119f10810809951f9169d01437d34"
+      }
+    ]
+  },
+  {
+    "name": "MANSION DE DON FLORENTINO PAMINTUAN",
+    "detail_url": "https://tourism.angelescity.gov.ph/mansion-de-don-florentino-pamintuan/",
+    "image_url": "https://i0.wp.com/tourism.angelescity.gov.ph/wp-content/uploads/2025/04/MANSION-DE-DON-FLORENTINO-PAMINTUAN.jpg?fit=900%2C600&ssl=1",
+    "source_url": "https://tourism.angelescity.gov.ph/tourist-spot/",
+    "scraped_at": "2026-08-09T08:18:54.538336+00:00",
+    "source_id": "angeles_tourism",
+    "source_publisher": "Angeles City Tourism Office",
+    "source_priority": 100,
+    "content_hash": "0495d5437d56cf2fc860b892c28c4468037845cbe177fbe52cf00ecd457e3c81",
+    "sources": [
+      {
+        "source_id": "angeles_tourism",
+        "publisher": "Angeles City Tourism Office",
+        "url": "https://tourism.angelescity.gov.ph/tourist-spot/",
+        "retrieved_at": "2026-08-09T08:18:54.538336+00:00",
+        "priority": 100,
+        "content_hash": "0495d5437d56cf2fc860b892c28c4468037845cbe177fbe52cf00ecd457e3c81"
+      }
+    ]
+  }
+]

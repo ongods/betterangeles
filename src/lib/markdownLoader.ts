@@ -37,28 +37,38 @@ export async function loadMarkdownContent(
   categoryType: 'service' | 'government'
 ): Promise<MarkdownContent> {
   try {
-    const dir = categoryType === 'government' ? 'government' : 'services';
-
     // Try to load companion JSON for template data
     let data: Record<string, unknown> = {};
     try {
-      const jsonModule = await import(
-        `../../content/${dir}/${categorySlug}/${documentSlug}.json`
-      );
+      const jsonModule =
+        categoryType === 'government'
+          ? await import(
+              `../../content/government/${categorySlug}/${documentSlug}.json`
+            )
+          : await import(
+              `../../content/services/${categorySlug}/${documentSlug}.json`
+            );
       data = jsonModule.default;
     } catch {
       // No companion JSON — that's fine
     }
 
-    const module = await import(
-      `../../content/${dir}/${categorySlug}/${documentSlug}.md?raw`
-    );
+    const module =
+      categoryType === 'government'
+        ? await import(
+            `../../content/government/${categorySlug}/${documentSlug}.md?raw`
+          )
+        : await import(
+            `../../content/services/${categorySlug}/${documentSlug}.md?raw`
+          );
     const content = interpolate(module.default, data);
 
     const titleMatch = content.match(/^#\s+(.+)$/m);
     const title = titleMatch ? titleMatch[1] : undefined;
 
-    const descriptionMatch = content.match(/^#\s+.+$\n\n(.+?)(?:\n\n|$)/s);
+    const descriptionMatch = content.match(
+      /^#\s+[^\r\n]+\r?\n\r?\n(.+?)(?:\r?\n\r?\n|$)/s
+    );
     const description = descriptionMatch
       ? descriptionMatch[1].replace(/^>\s*/, '').trim()
       : undefined;

@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Amos B. Rivera",
+    "position": "Presiding Officer",
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Arvin M. Suller",
+    "position": "City Councilor",
+    "number": 1,
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Joan Crystal D. Aguas",
+    "position": "City Councilor",
+    "number": 2,
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Marino D. Bañola",
+    "position": "City Councilor",
+    "number": 3,
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Maricel Morales-Agoncillo",
+    "position": "City Councilor",
+    "number": 4,
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Edgardo D.G. Pamintuan Jr.",
+    "position": "City Councilor",
+    "number": 5,
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Aaron L. Pineda",
+    "position": "City Councilor",
+    "number": 6,
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Michelle M. Bonifacio",
+    "position": "City Councilor",
+    "number": 7,
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Alexander P. Indiongco",
+    "position": "City Councilor",
+    "number": 8,
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Jeselle Ann Dayrit",
+    "position": "City Councilor",
+    "number": 9,
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Raco Paolo S. Del Rosario",
+    "position": "City Councilor",
+    "number": 10,
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Danilo Nacu",
+    "position": "ABC President",
+    "organization": "Asosasyon ng mga Kapitan ng Barangay",
+    "source_file": "ac-government.yaml"
+  },
+  {
+    "name": "Richard Dela Cruz-Gaza Jr.",
+    "position": "SK Federation President",
+    "organization": "Sangguniang Kabataan Federation",
+    "source_file": "ac-government.yaml"
+  }
+]

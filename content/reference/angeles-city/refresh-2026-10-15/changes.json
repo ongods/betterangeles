@@ -1,0 +1,79 @@
+{
+  "reviewed_on": "2026-10-15",
+  "checked_source_count": 141,
+  "updated_service_records": [
+    {
+      "record": "issuance-of-business-permit-in-bpld",
+      "old_document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-business-permit.pdf",
+      "new_document_url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf",
+      "new_document_sha256": "f10a0ee563f63583080905350ad5e57ff67bc4b96a62650f98c90a2c5a2b6150",
+      "content_pages": [
+        "content/services/business/apply-for-barangay-clearance-and-mayors-business-permits.md",
+        "content/services/business/renew-permits-and-pay-local-business-taxes.md"
+      ]
+    },
+    {
+      "record": "business-permit-form",
+      "old_document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/BUSINESS-PERMIT-FORM.pdf",
+      "new_document_url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/BPLD-ABP-001-Rev-33.pdf",
+      "new_document_sha256": "4747100fb59580e0a08ed2e5182147f92cd61e35f08080b21c0b8d0be8b8534c",
+      "content_pages": [
+        "content/services/business/apply-for-barangay-clearance-and-mayors-business-permits.md",
+        "content/services/business/renew-permits-and-pay-local-business-taxes.md",
+        "content/services/business/download-business-permit-application-form.md"
+      ]
+    }
+  ],
+  "retained_service_records": 37,
+  "new_news_records": 42,
+  "new_event_records": 12,
+  "unavailable_august_document_urls": 47,
+  "preserved_august_document_downloads": 47,
+  "council_name_discrepancy": {
+    "saved_name": "Aaron L. Pineda",
+    "published_name": "Jezreel Aaron Pineda",
+    "action": "retain both labels; no officeholder change inferred"
+  },
+  "retained_unlisted_council_records": [
+    "Danilo Nacu",
+    "Richard Dela Cruz-Gaza Jr."
+  ],
+  "unchanged_datasets": ["barangays", "schools", "tourism"],
+  "changed_existing_files": [
+    "content/services/business/apply-for-barangay-clearance-and-mayors-business-permits.md",
+    "content/services/business/apply-for-public-transport-mayors-permit.md",
+    "content/services/business/apply-for-sanitary-permit.md",
+    "content/services/business/download-business-permit-application-form.md",
+    "content/services/business/join-trade-fairs-business-expos-or-tourism-promotions.md",
+    "content/services/business/renew-permits-and-pay-local-business-taxes.md",
+    "content/services/business/request-business-zoning-compliance.md",
+    "content/services/civil-documents/apply-for-marriage-license.md",
+    "content/services/civil-documents/register-birth-certificate.md",
+    "content/services/civil-documents/register-death-certificate.md",
+    "content/services/civil-documents/register-marriage-certificate.md",
+    "content/services/civil-documents/request-certified-civil-registry-documents.md",
+    "content/services/education/access-educational-support-programs-from-the-lgu.md",
+    "content/services/health-services/access-maternal-care-and-child-immunization.md",
+    "content/services/health-services/apply-for-worker-health-certificate-cards.md",
+    "content/services/health-services/get-free-check-ups-basic-medicines-and-vaccines.md",
+    "content/services/housing-land-use/apply-for-occupancy-permit.md",
+    "content/services/housing-land-use/request-annual-building-inspection-certificate.md",
+    "content/services/housing-land-use/request-electrical-inspection-certificate.md",
+    "content/services/housing-land-use/request-zoning-land-use-or-building-permits.md",
+    "content/services/social-welfare/apply-for-medical-burial-or-educational-financial-assistance.md",
+    "content/services/social-welfare/apply-for-senior-citizen-solo-parent-or-pwd-assistance.md",
+    "content/services/social-welfare/get-family-and-community-welfare-support.md",
+    "content/services/taxes-fees/get-community-tax-certificate-cedula.md",
+    "content/services/taxes-fees/pay-real-property-tax.md",
+    "content/services/taxes-fees/pay-transfer-tax-and-request-certificate.md",
+    "content/services/taxes-fees/request-certified-tax-declaration.md",
+    "content/services/taxes-fees/request-property-assessment-certification.md",
+    "content/government/departments/executive.json",
+    "content/government/departments/executive.md",
+    "content/government/departments/index.yaml"
+  ],
+  "new_government_pages": [
+    "content/government/departments/legislative.md",
+    "content/government/departments/office-schedules.md"
+  ]
+}

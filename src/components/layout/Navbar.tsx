@@ -35,7 +35,9 @@ const Navbar: React.FC = () => {
   };
 
   const changeLanguage = (newLanguage: LanguageType) => {
-    i18n.changeLanguage(newLanguage);
+    i18n.changeLanguage(newLanguage).catch(error => {
+      console.error('Failed to change language:', error);
+    });
   };
 
   return (

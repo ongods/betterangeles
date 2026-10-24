@@ -25,6 +25,9 @@ i18n
       order: ['localStorage', 'navigator', 'htmlTag'],
       caches: ['localStorage'],
     },
+  })
+  .catch(error => {
+    console.error('Failed to initialize translations:', error);
   });
 
 export default i18n;

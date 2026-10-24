@@ -1,0 +1,648 @@
+{
+  "schema_version": 1,
+  "qa_date": "2026-10-15",
+  "qa_scope": "Fidelity of transferred content to the supplied August 2026 snapshots, with council records replaced from the supplied ac-government.yaml. This is not verification of current government rates, office arrangements, or availability.",
+  "qa_status": "passed",
+  "snapshot_record_count": 146,
+  "datasets": [
+    {
+      "name": "barangays",
+      "record_count": 33,
+      "source_json_sha256": "e42faec251aadbf51b3bab2048360da679f7b76e224c1a4144596195626588a8",
+      "records_sha256": "d698c8b6246bdfbba2b9946b4c516b23f91015b258cd0c2dd15ebac1c2bce733"
+    },
+    {
+      "name": "council",
+      "record_count": 13,
+      "records_sha256": "3017eca89f304692408eb18340bd11c43715eabba572f1c5820159058b6ee69c",
+      "source_file": "ac-government.yaml",
+      "source_yaml_sha256": "5fc55fe8b4ae53de944ee7b0883296d8b6df8bd2f1fa1ff7306bc6e1fb569dbb"
+    },
+    {
+      "name": "news",
+      "record_count": 5,
+      "source_json_sha256": "ae0f991bfe710cd6b368f6128959b3c19e1553215816d84276aea10c8046f898",
+      "records_sha256": "01b9f9aeb960413f1e9d0180ab5334a494da1c760111bfb5f239a4e0764d2250"
+    },
+    {
+      "name": "schools",
+      "record_count": 52,
+      "source_json_sha256": "8b55b450b67a604d281a39322f7eb20f6aaead98e9a7828fb0300191e6191062",
+      "records_sha256": "4d76c72a7e473b5208b628be4333f91e4376f113891a23146a5ae9ba35c021e9"
+    },
+    {
+      "name": "tourism",
+      "record_count": 4,
+      "source_json_sha256": "c916f05ca9617345651cd9d765e8521d656698f93835cce357631a424ce7e657",
+      "records_sha256": "c129c821064d77a5efd7476c0b8f334870ffccc708dec253da26fb43a8718d9d"
+    },
+    {
+      "name": "services",
+      "record_count": 39,
+      "source_json_sha256": "16eee65f2c868acffe2a0692f403797780124dd12c3c2a363699473da2395ad8",
+      "records_sha256": "9e56d705db7c979231f8d6a75f4524032cc4d0e682fe6c043136385517224f9c"
+    }
+  ],
+  "source_document_count": 47,
+  "documents": [
+    {
+      "filename": "001-registration-of-birth-certificate-on-time-registration.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/registration-of-birth-on-time.pdf",
+      "download_url": "/documents/angeles-services/001-registration-of-birth-certificate-on-time-registration.pdf",
+      "original_sha256": "062a7a709235bc2dd72b54080e424e26d2fbb98324b62d9515e8bc13f50cd388",
+      "download_sha256": "b42114e519b2ca7f6c6290194fc986683e9840bd11b39e3fcd59a8f1f8d73d9e",
+      "page_count": 1,
+      "qa_page_image_errors": [1.9018]
+    },
+    {
+      "filename": "002-registration-of-death-certificate-on-time-registration.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/registration-of-death-on-time.pdf",
+      "download_url": "/documents/angeles-services/002-registration-of-death-certificate-on-time-registration.pdf",
+      "original_sha256": "16767a9f884794902a2a295f081780e4d469d395605778c353faa7aa23c3c240",
+      "download_sha256": "69523983c0c043c2d946fcade5814933e75108c0a8e375ac00e81cd648482e53",
+      "page_count": 1,
+      "qa_page_image_errors": [0.776]
+    },
+    {
+      "filename": "003-registration-of-mariage-certificate-on-time-registration.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/registration-of-marriage-on-time.pdf",
+      "download_url": "/documents/angeles-services/003-registration-of-mariage-certificate-on-time-registration.pdf",
+      "original_sha256": "3c573111e080349940216ce9e01f28cc49c24f0ac6fa06a5548a9e8238de675b",
+      "download_sha256": "4e16c861dff6a15a2cac04939a72767b1da9f8775ed60189e0a315634844fa42",
+      "page_count": 1,
+      "qa_page_image_errors": [0.7191]
+    },
+    {
+      "filename": "004-issuance-of-certified-true-copy-of-birth-marriage-death-and-other-registry-documents.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/issuance-of-certified-copy-of-birth-others.pdf",
+      "download_url": "/documents/angeles-services/004-issuance-of-certified-true-copy-of-birth-marriage-death-and-other-registry-documents.pdf",
+      "original_sha256": "9f4aa187ce2fd169940ed0c4eb4ebb604de4d6975a0e02fbc0054dc6c19613cb",
+      "download_sha256": "ab02f4267dc1cd118b6d7d1d7e544ae21bcb167c04707f34ec20f1cd6e9cd4f3",
+      "page_count": 1,
+      "qa_page_image_errors": [0.7838]
+    },
+    {
+      "filename": "005-issuance-of-marriage-license.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/issuance-of-marriage-license.pdf",
+      "download_url": "/documents/angeles-services/005-issuance-of-marriage-license.pdf",
+      "original_sha256": "ae9515bd13951ca6d65baebb50d444bfdcf823fa357f9b0e3cc655c4727ac31e",
+      "download_sha256": "9601b23487a901266328c1487e856622eb8e8374e71c0cc120b1152aa5f65f8d",
+      "page_count": 1,
+      "qa_page_image_errors": [0.7937]
+    },
+    {
+      "filename": "006-delayed-registration-of-birth-certificate.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/delayed-registration-of-birth.pdf",
+      "download_url": "/documents/angeles-services/006-delayed-registration-of-birth-certificate.pdf",
+      "original_sha256": "b95681e096a357faf391525f2c9d76ce677ed14f050127979c7879635357f6d5",
+      "download_sha256": "9562130e255c90f57ce5fb19af68526076875de64787450860d93d0001f25bcd",
+      "page_count": 1,
+      "qa_page_image_errors": [1.6794]
+    },
+    {
+      "filename": "007-delayed-registration-of-mariage-certificate.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/delayed-registration-of-marriage.pdf",
+      "download_url": "/documents/angeles-services/007-delayed-registration-of-mariage-certificate.pdf",
+      "original_sha256": "3ef6388b2f22330b3f01be962b61a53e9d4f43a3d15bcdcfbd374013ed66a116",
+      "download_sha256": "f22c609b8fe4c0b98a4043f982b5a5daff1b8a5c2b554cad06b2b32850830554",
+      "page_count": 1,
+      "qa_page_image_errors": [0.7488]
+    },
+    {
+      "filename": "008-delayed-registration-of-death-certificate.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/delayed-registration-of-death.pdf",
+      "download_url": "/documents/angeles-services/008-delayed-registration-of-death-certificate.pdf",
+      "original_sha256": "9811f7d84001133712a9c5bb3fdfae141f79afd95140699f6dd9610fc6ef2b48",
+      "download_sha256": "c417cf36491745992614b47839ea8efe86924ee5dea191f64c2a5618ea997f25",
+      "page_count": 1,
+      "qa_page_image_errors": [0.7043]
+    },
+    {
+      "filename": "009-consultation-services-in-rural-health-centers.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/health_services_programs/consultation-services.pdf",
+      "download_url": "/documents/angeles-services/009-consultation-services-in-rural-health-centers.pdf",
+      "original_sha256": "2a203fd34edbf7e4c8c453b2ddffecd6e16f450db71f1d8efe3f39f6765128c8",
+      "download_sha256": "4603229fa2b150f4599557e8258f0079443af203bbd562538ac8f493f9e2b9d0",
+      "page_count": 1,
+      "qa_page_image_errors": [0.6427]
+    },
+    {
+      "filename": "010-immunization-services-in-rural-health-centers.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/health_services_programs/immunization-services.pdf",
+      "download_url": "/documents/angeles-services/010-immunization-services-in-rural-health-centers.pdf",
+      "original_sha256": "d22ffe650245946329f06650cad5ceae5ebeed5c14847f0c1a09c662f23d3b3c",
+      "download_sha256": "943388c383a306a595397401cf06f995daa42791ff3f1aed8ff53389e658208c",
+      "page_count": 1,
+      "qa_page_image_errors": [0.7751]
+    },
+    {
+      "filename": "011-maternal-health-care-in-rural-health-centers.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/health_services_programs/maternal-health-care.pdf",
+      "download_url": "/documents/angeles-services/011-maternal-health-care-in-rural-health-centers.pdf",
+      "original_sha256": "c6c5384cca7c33f2c73178d8838195d0615583091ab3d679cce32a463ee21518",
+      "download_sha256": "bdd0b6cc9cc89e8f5f9b460f6b2be55abb6fba842004837005fea48d72719ff9",
+      "page_count": 1,
+      "qa_page_image_errors": [0.6492]
+    },
+    {
+      "filename": "012-issuance-of-business-permit-in-bpld.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-business-permit.pdf",
+      "download_url": "/documents/angeles-services/012-issuance-of-business-permit-in-bpld.pdf",
+      "original_sha256": "79b83347d442757505505854210db77ba83705f085822c02aed91fba2ea47962",
+      "download_sha256": "718108d8d97d778dd7a14e0b62527a4538af5f9f5537d78fa72c0f44807b6d4c",
+      "page_count": 1,
+      "qa_page_image_errors": [1.6641]
+    },
+    {
+      "filename": "002-issuance-of-business-permit-in-bpld.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-BUSINESS-PERMIT.pdf",
+      "download_url": "/documents/angeles-services/002-issuance-of-business-permit-in-bpld.pdf",
+      "original_sha256": "79b83347d442757505505854210db77ba83705f085822c02aed91fba2ea47962",
+      "download_sha256": "484e49daaa1664e51e195ea35685b6ed1650e6dea78d1f3d444bfa9dd892e0b2",
+      "page_count": 1,
+      "qa_page_image_errors": [1.6641]
+    },
+    {
+      "filename": "013-issuance-of-transfer-tax-certificate.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-transfer-tax-certificate.pdf",
+      "download_url": "/documents/angeles-services/013-issuance-of-transfer-tax-certificate.pdf",
+      "original_sha256": "106d5decaa7ae0fcaf4169da8b3bf6da6d5cb7e29012be56a6cb91eb58521dfa",
+      "download_sha256": "122977de0974f9278ca5583cd1636024f4bbc2a29ecaf9918b026c4038828e83",
+      "page_count": 1,
+      "qa_page_image_errors": [0.6933]
+    },
+    {
+      "filename": "014-issuance-of-white-green-health-certiticate-card.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-white-green-health-card.pdf",
+      "download_url": "/documents/angeles-services/014-issuance-of-white-green-health-certiticate-card.pdf",
+      "original_sha256": "ab97a1a7ccb3ac0d59834bf3c876bbe567100a763ae0e441ca8b8048868bb44d",
+      "download_sha256": "2801492879fb5e5472626f8e46a3b1e3b4c8a52ddbe36aae0a5810c0ae501461",
+      "page_count": 1,
+      "qa_page_image_errors": [0.7386]
+    },
+    {
+      "filename": "015-issuance-of-pink-health-certificate-card.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-pink-health-card.pdf",
+      "download_url": "/documents/angeles-services/015-issuance-of-pink-health-certificate-card.pdf",
+      "original_sha256": "fffb429dc7adac603c90e2870c46db1030f2356f732704ecbed7ca8060a93369",
+      "download_sha256": "ff6a148d537f0238fb7927467fdf2716c7d81ed3b343aeaca5946f4ddd91ad7c",
+      "page_count": 1,
+      "qa_page_image_errors": [0.7317]
+    },
+    {
+      "filename": "016-issuance-of-sanitary-permit-with-inspection.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-sanitation-with-inspection.pdf",
+      "download_url": "/documents/angeles-services/016-issuance-of-sanitary-permit-with-inspection.pdf",
+      "original_sha256": "79e761293540cf86feb9e37a877bf8281464aee811e4df18dd864f1765637dff",
+      "download_sha256": "79232ac363568b4d54e3b2d3f967dea3a7de01ef610d3250ac5f7ac044d4864d",
+      "page_count": 1,
+      "qa_page_image_errors": [0.6438]
+    },
+    {
+      "filename": "017-issuance-of-sanitary-permit-without-inspection.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-sanitation-without-inspection.pdf",
+      "download_url": "/documents/angeles-services/017-issuance-of-sanitary-permit-without-inspection.pdf",
+      "original_sha256": "0a885b72f8ac7e9c4999a56c36128b04832a6d4a3c02d25761f6870ac245d491",
+      "download_sha256": "086061c070707615a5786a9a21d794b5a657c5949257743f9cbb52728ecd8fb8",
+      "page_count": 1,
+      "qa_page_image_errors": [0.5706]
+    },
+    {
+      "filename": "018-issuance-of-building-permit.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-building-permit.pdf",
+      "download_url": "/documents/angeles-services/018-issuance-of-building-permit.pdf",
+      "original_sha256": "751dd57a05cf7b1e13d98294f8ab261f71bc4eefde01208b41ad320ee1412f47",
+      "download_sha256": "4e8e47fc0752f90a04969754334ac5930a5c2ff76c815d40565f23b99e63ab8c",
+      "page_count": 1,
+      "qa_page_image_errors": [1.1059]
+    },
+    {
+      "filename": "011-issuance-of-building-permit.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/engineering_permit/ISSUANCE-OF-BUILDING-PERMIT.pdf",
+      "download_url": "/documents/angeles-services/011-issuance-of-building-permit.pdf",
+      "original_sha256": "b893b2cb47e306942a37974f994bebc7ff2ffe5eea7125436fdf33bd97347e40",
+      "download_sha256": "e9887d86c6364c66767abbe1c3c05306d47494a3fca6c99f8dabdded5a3efaab",
+      "page_count": 1,
+      "qa_page_image_errors": [0.4959]
+    },
+    {
+      "filename": "019-issuance-of-occupancy-permit.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-occupancy-permit.pdf",
+      "download_url": "/documents/angeles-services/019-issuance-of-occupancy-permit.pdf",
+      "original_sha256": "4f4edc597af03fa5c9d2e59837d89fcef26dfd8c56815fa3162ac2c41f774190",
+      "download_sha256": "ca415457112cf12e0a544dd89c1f4c07fffc050b2127138b9dfd1c7aaabe32d7",
+      "page_count": 1,
+      "qa_page_image_errors": [1.126]
+    },
+    {
+      "filename": "013-issuance-of-occupancy-permit.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/engineering_permit/ISSUANCE-OF-OCCUPANCY-PERMIT.pdf",
+      "download_url": "/documents/angeles-services/013-issuance-of-occupancy-permit.pdf",
+      "original_sha256": "cb35edef94c2344fccb4847212bf0b8efd73c6497b6844c6e148781213a9fc70",
+      "download_sha256": "01b58f6899a0563406366b122c94b5a0349c703ee3530c8c7da9271afd896770",
+      "page_count": 1,
+      "qa_page_image_errors": [0.388]
+    },
+    {
+      "filename": "020-issuance-of-certificate-of-annual-inspection.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-certificate-of-annual-inspection.pdf",
+      "download_url": "/documents/angeles-services/020-issuance-of-certificate-of-annual-inspection.pdf",
+      "original_sha256": "ed5cb201cac4cc1c700a1c54b27d2d9a84fbdfef4f0600571716f20900941965",
+      "download_sha256": "887194a73f1427daa01be220092a0ddf5e930978c731412e92f740651ec7d75c",
+      "page_count": 1,
+      "qa_page_image_errors": [0.9164]
+    },
+    {
+      "filename": "010-issuance-of-certificate-of-annual-inspection.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/engineering_permit/ISSUANCE-OF-ANNUAL-INSPECTION.pdf",
+      "download_url": "/documents/angeles-services/010-issuance-of-certificate-of-annual-inspection.pdf",
+      "original_sha256": "8db5c3bc40486e3f1f77ca7d0b9f2a4b2fb8680b3202561042ac8c179c913255",
+      "download_sha256": "24fa4081ac1a0da6f1380481aa8ed86a847806ee223d6ed1fb76eb749dbc9c5c",
+      "page_count": 1,
+      "qa_page_image_errors": [0.3836]
+    },
+    {
+      "filename": "021-issuance-of-certificate-of-electrical-inspection.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-certificate-of-electrical-inspection.pdf",
+      "download_url": "/documents/angeles-services/021-issuance-of-certificate-of-electrical-inspection.pdf",
+      "original_sha256": "fe223924482731c3a2fd4fe042fb0fd8be06211d595710685912da6498863889",
+      "download_sha256": "696fcf5c120ac0921b4229be337738d152298e65a9c9e15e6c89d6be6499a73b",
+      "page_count": 1,
+      "qa_page_image_errors": [0.9248]
+    },
+    {
+      "filename": "012-issuance-of-certificate-of-electrical-inspection.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/engineering_permit/ISSUANCE-OF-ELECTRICAL-INSPECTION.pdf",
+      "download_url": "/documents/angeles-services/012-issuance-of-certificate-of-electrical-inspection.pdf",
+      "original_sha256": "e12d2edd90dc46812f4b9dc1e873fd40ad5cff3650afd1759d43068fdc229e77",
+      "download_sha256": "12b93897ce6788acf2947156b292aae7a9de9e85975a893be30dfc04df05963d",
+      "page_count": 1,
+      "qa_page_image_errors": [0.3511]
+    },
+    {
+      "filename": "022-issuance-of-certificate-of-zoning-compliance-for-building-permit.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-certificate-of-zoning-compliance.pdf",
+      "download_url": "/documents/angeles-services/022-issuance-of-certificate-of-zoning-compliance-for-building-permit.pdf",
+      "original_sha256": "73f3313ce7009fb3319b00d7177f0a6f85516caf22bec22f69e84e45e95d7b4e",
+      "download_sha256": "8d545a9b385426f5f6d4e2aa1df8f2dbcb9a4d3dd6268f7b7bf044151e2e1480",
+      "page_count": 1,
+      "qa_page_image_errors": [1.429]
+    },
+    {
+      "filename": "023-issuance-of-zoning-compliance-for-building-permit.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-zoning-compliance.pdf",
+      "download_url": "/documents/angeles-services/023-issuance-of-zoning-compliance-for-building-permit.pdf",
+      "original_sha256": "a5f1abd288de9345665ab4a7bb6a8156d8a43f865103b1d7c8741244ef16300a",
+      "download_sha256": "a4c9d120b7b5810e1c91c94de381437aa7fc039ed65ed2006d812778c271276d",
+      "page_count": 1,
+      "qa_page_image_errors": [1.3297]
+    },
+    {
+      "filename": "024-issuance-of-mayor-s-permit-for-motorized-tricyle-for-hire-and-public-utility-jeenpey.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-MCH.pdf",
+      "download_url": "/documents/angeles-services/024-issuance-of-mayor-s-permit-for-motorized-tricyle-for-hire-and-public-utility-jeenpey.pdf",
+      "original_sha256": "c3510248e318b7ee1b402999789178563f4c34e2d66fc2b78276108ef537da96",
+      "download_sha256": "0d66fc5f8d208fa05622bd18c7b029f8040a67bf4ca16e2571e76e7ffce822f6",
+      "page_count": 1,
+      "qa_page_image_errors": [1.1933]
+    },
+    {
+      "filename": "025-assessment-for-financial-assistance-medical-burial-educational.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/assessment-for-financial-assistance.pdf",
+      "download_url": "/documents/angeles-services/025-assessment-for-financial-assistance-medical-burial-educational.pdf",
+      "original_sha256": "81fa850eb8d2c0ca2b13949ad440cccf29c58659a8425f0dc0303b3408b40871",
+      "download_sha256": "98da2f7a9b12e0ae2c774f0e282b3a07f9dd727cc7fb91ff1829a9fee206a350",
+      "page_count": 1,
+      "qa_page_image_errors": [0.379]
+    },
+    {
+      "filename": "026-pre-marriage-counseling.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/pre-marriage-counseling.pdf",
+      "download_url": "/documents/angeles-services/026-pre-marriage-counseling.pdf",
+      "original_sha256": "dc334814737ecb84967d82a8109fee71453b5b9ba42fb77509ae086829de4b1f",
+      "download_sha256": "26cbec8c1ba06e0a3f7d1b598932543e5a42c87c8104333ce81ef51617abb098",
+      "page_count": 1,
+      "qa_page_image_errors": [1.0146]
+    },
+    {
+      "filename": "027-issuance-of-social-case-study-reports-and-referral-letters.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/issuance-of-social-case-study.pdf",
+      "download_url": "/documents/angeles-services/027-issuance-of-social-case-study-reports-and-referral-letters.pdf",
+      "original_sha256": "9c86df9f189fd7935a78d3ed8adc4e5aab1a67ea8caa2f0b4e8ccb96ad052811",
+      "download_sha256": "89c04c879aca015ee94cfb8d8b1da23627bc4b89395f1284a91a081753db0376",
+      "page_count": 1,
+      "qa_page_image_errors": [0.463]
+    },
+    {
+      "filename": "028-issuance-of-senior-citizen-id-card.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/issuance-of-senior-citizen-id.pdf",
+      "download_url": "/documents/angeles-services/028-issuance-of-senior-citizen-id-card.pdf",
+      "original_sha256": "ec750c00f6be351e394f4facf49ee3b7241a23a9cebecd570abd1c2921f7a50f",
+      "download_sha256": "53f446aae15e89843ffdef11f7d78f4d05bd6ac01943ee036126b9409772b627",
+      "page_count": 1,
+      "qa_page_image_errors": [0.9043]
+    },
+    {
+      "filename": "029-issuance-of-real-property-tax-order-of-payment.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-real-property-tax-order-of-payment.pdf",
+      "download_url": "/documents/angeles-services/029-issuance-of-real-property-tax-order-of-payment.pdf",
+      "original_sha256": "f1d0fa94a13062b885dc531b7b872fb2e8544397bc9330934481ec4bef630f16",
+      "download_sha256": "536c761001ef301df157f6aeae72edbd830bc03bad3146b724e1379cd7b5cfa8",
+      "page_count": 1,
+      "qa_page_image_errors": [0.8413]
+    },
+    {
+      "filename": "009-issuance-of-real-property-tax-order-of-payment.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/real_property_tax/ISSUANCE-OF-RPTOP.pdf",
+      "download_url": "/documents/angeles-services/009-issuance-of-real-property-tax-order-of-payment.pdf",
+      "original_sha256": "01a2cad81609267d9d0ac848730211033cdb309549ffc983bbb0208b58e032b9",
+      "download_sha256": "1ea6b8a2715610145a614e0634b83e1af14f009f0f03d9b79d83f0e05020e6df",
+      "page_count": 1,
+      "qa_page_image_errors": [0.8401]
+    },
+    {
+      "filename": "030-issuance-of-certified-true-copy-of-tax-declaration.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-certified-true-copy-of-tax-declaration.pdf",
+      "download_url": "/documents/angeles-services/030-issuance-of-certified-true-copy-of-tax-declaration.pdf",
+      "original_sha256": "137ab978664d518fe6da476751e2a8b38d74090b4cea5ea449028c00d5ee727d",
+      "download_sha256": "0bf526af2381ab4b16b9c50b3ee87ec87df4bd360b03fbad3dcf9f3023068dca",
+      "page_count": 1,
+      "qa_page_image_errors": [0.8491]
+    },
+    {
+      "filename": "008-issuance-of-certified-true-copy-of-tax-declaration.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/real_property_tax/ISSUANCE-OF-CTC.pdf",
+      "download_url": "/documents/angeles-services/008-issuance-of-certified-true-copy-of-tax-declaration.pdf",
+      "original_sha256": "1c873de24fb8cfcb925108efc9f540b6baa24332782194245e65628dbdaad97e",
+      "download_sha256": "2ada6ecf70b14b63ae89419088ec46ff9a3c5aef712a8b625c17bd4b0ba2e468",
+      "page_count": 1,
+      "qa_page_image_errors": [0.8527]
+    },
+    {
+      "filename": "031-issuance-of-any-assessment-certification.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-any-assessment-certification.pdf",
+      "download_url": "/documents/angeles-services/031-issuance-of-any-assessment-certification.pdf",
+      "original_sha256": "046c20e3348e91beb238061ce31a07575d53c63e574a05944a1e6f55c8311fb1",
+      "download_sha256": "41434983ee9f030392b1d13686a056f6f048b59da2eaeaf3b606921f4d0aa3f7",
+      "page_count": 1,
+      "qa_page_image_errors": [0.9507]
+    },
+    {
+      "filename": "007-issuance-of-any-assessment-certification.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/real_property_tax/ISSUANCE-OF-ASSESSMENT.pdf",
+      "download_url": "/documents/angeles-services/007-issuance-of-any-assessment-certification.pdf",
+      "original_sha256": "afb84ad06218779e8fe0c8441d52860f5767ef12f0f4c5f2eab3e41d3425d5aa",
+      "download_sha256": "3fe760587b6ad5756050315654c9a9f0a88e61b97985c5f0e1beb1d2594ac75f",
+      "page_count": 1,
+      "qa_page_image_errors": [0.9551]
+    },
+    {
+      "filename": "032-payment-of-real-property-tax.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/payment-of-real-property-tax.pdf",
+      "download_url": "/documents/angeles-services/032-payment-of-real-property-tax.pdf",
+      "original_sha256": "efbdfdfc923e41530302b4cb6ddb41295936eaa6ede0c034fe0379ca8e202996",
+      "download_sha256": "ab0d15fa21d98069e4644f5337887c64c57e52f22a304b66a254839d952fccf8",
+      "page_count": 1,
+      "qa_page_image_errors": [1.0824]
+    },
+    {
+      "filename": "033-issuance-of-community-tax-certificate.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-community-tax-certificate.pdf",
+      "download_url": "/documents/angeles-services/033-issuance-of-community-tax-certificate.pdf",
+      "original_sha256": "e8e51fc64a725683c2d4b36ffdbdd392066a995c67b022070cc576eae530f9d3",
+      "download_sha256": "30617adf9bbc56bb2e7884c1fff9f790d6eb056a1fd47dcd2529cbfd23fca1cd",
+      "page_count": 1,
+      "qa_page_image_errors": [1.0716]
+    },
+    {
+      "filename": "034-payment-of-transfer-tax-and-issuance-of-transfer-tax-certificate.pdf",
+      "source_id": "angeles_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/payment-of-transfer-tax-and-issuance-of-transfer-tax-certificate.pdf",
+      "download_url": "/documents/angeles-services/034-payment-of-transfer-tax-and-issuance-of-transfer-tax-certificate.pdf",
+      "original_sha256": "bcce328f84d275be26c6a445e1c0778a9790277ba78a36448ada2c37543813cc",
+      "download_sha256": "3a04098b75f9a290f362d248523bc8c8a52acb7785d27ebf5569a17401e77c41",
+      "page_count": 1,
+      "qa_page_image_errors": [0.6833]
+    },
+    {
+      "filename": "001-business-permit-form.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/BUSINESS-PERMIT-FORM.pdf",
+      "download_url": "/documents/angeles-services/001-business-permit-form.pdf",
+      "original_sha256": "0687dbb83bd564089edfb8bc8ddae7b150d792a78f8f1aea27d657886dbf2dac",
+      "download_sha256": "0687dbb83bd564089edfb8bc8ddae7b150d792a78f8f1aea27d657886dbf2dac",
+      "page_count": 2,
+      "qa_page_image_errors": [0, 0]
+    },
+    {
+      "filename": "003-issuance-of-miscellaneous-permit-billboards-signboards-advertisements-banners-streamers.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-1.pdf",
+      "download_url": "/documents/angeles-services/003-issuance-of-miscellaneous-permit-billboards-signboards-advertisements-banners-streamers.pdf",
+      "original_sha256": "2ae9c2cd872799e33303f3442ee0ea4a42bf75fa3f2f438b120d7d20747c6119",
+      "download_sha256": "eeaa9efce78dec1de64033b72b4bbfbe2b8d262ff7872a50e99bd1a6f9b7a67d",
+      "page_count": 1,
+      "qa_page_image_errors": [1.4663]
+    },
+    {
+      "filename": "004-issuance-of-miscellaneous-permit-motorcade-religious-cultural-civic-government-activities.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-2.pdf",
+      "download_url": "/documents/angeles-services/004-issuance-of-miscellaneous-permit-motorcade-religious-cultural-civic-government-activities.pdf",
+      "original_sha256": "957bd7bd94bb86f40134e278afe533a3bdbc0aa16738aa22230bf96a55436f78",
+      "download_sha256": "f0db6b72bcb26e1e0dc30819a160a5ec0d92dc80cde216bc51f6ec9cf080d52b",
+      "page_count": 1,
+      "qa_page_image_errors": [1.3186]
+    },
+    {
+      "filename": "005-issuance-of-miscellaneous-permit-transport-of-property-carnival-circus-cockfight-boxing-match-victory-party.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-3.pdf",
+      "download_url": "/documents/angeles-services/005-issuance-of-miscellaneous-permit-transport-of-property-carnival-circus-cockfight-boxing-match-victory-party.pdf",
+      "original_sha256": "7684dde98c2eca94ed57c0f890d30a717d128e89e1c9933951d8133bf3a557ca",
+      "download_sha256": "415b80cfd80530423b00eb4143d76b8612692e135e7a1fc6f304f705ff0ee4c3",
+      "page_count": 1,
+      "qa_page_image_errors": [1.0855]
+    },
+    {
+      "filename": "006-issuance-of-miscellaneous-permit-variety-show-concert.pdf",
+      "source_id": "angeles_business_services",
+      "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-4.pdf",
+      "download_url": "/documents/angeles-services/006-issuance-of-miscellaneous-permit-variety-show-concert.pdf",
+      "original_sha256": "a25e997ff2701022881fefe2a448d1fe2433ea9501154fbe4c05ad68f2ee0925",
+      "download_sha256": "04fe3db4934f83a332c09350342485893d9f50e225b33c2335665b8f09d01233",
+      "page_count": 1,
+      "qa_page_image_errors": [1.5251]
+    }
+  ],
+  "qa_checks": {
+    "source_services_reviewed": 39,
+    "source_pdf_publications_reviewed": 47,
+    "source_image_sections_ocr_read": 89,
+    "original_artifact_checksums_verified": 94,
+    "site_pages": 42,
+    "structured_directory_comparison": "passed",
+    "runtime_metadata_and_links": "passed",
+    "build": "passed",
+    "lint": "passed_for_changed_typescript",
+    "local_links_verified": 98,
+    "lf_and_crlf_metadata_pages_verified": 42
+  },
+  "qa_corrections": [
+    "Removed unsupported free-medicine claims from the health page title and listings.",
+    "Preserved the senior-ID six-month residency condition without restricting it to dual citizens.",
+    "Corrected delayed-death documentation to the source wording: official receipt of certification from the funeral parlor.",
+    "Preserved both death-registration deadlines as an unresolved source ambiguity.",
+    "Restored home visits as listed steps in welfare assistance and referral procedures.",
+    "Separated the renewal workflow from new-business application language and noted the form/charter checklist differences.",
+    "Flagged the source typo Concert in the variety-show neighborhood/administrator requirement instead of silently interpreting it as consent.",
+    "Flagged the source ambiguity between single and unmarried parent fee categories.",
+    "Fixed first-paragraph metadata extraction and synchronized service listings with page descriptions."
+  ],
+  "known_source_gaps": [
+    {
+      "category": "social-welfare",
+      "slug": "receive-relief-goods-or-cash-aid-during-disasters",
+      "name": "Receive relief goods or cash aid during disasters"
+    },
+    {
+      "category": "social-welfare",
+      "slug": "join-livelihood-or-skills-training-programs",
+      "name": "Join livelihood or skills training programs"
+    },
+    {
+      "category": "agriculture-fisheries",
+      "slug": "ask-for-free-seeds-seedlings-fertilizers-or-fingerlings",
+      "name": "Ask for free seeds, seedlings, fertilizers, or fingerlings"
+    },
+    {
+      "category": "agriculture-fisheries",
+      "slug": "get-veterinary-services-for-livestock",
+      "name": "Get veterinary services for livestock"
+    },
+    {
+      "category": "agriculture-fisheries",
+      "slug": "attend-farming-or-fishing-training",
+      "name": "Attend farming or fishing training"
+    },
+    {
+      "category": "agriculture-fisheries",
+      "slug": "borrow-farm-tools-or-equipment-from-the-lgu",
+      "name": "Borrow farm tools or equipment from the LGU"
+    },
+    {
+      "category": "infrastructure-public-works",
+      "slug": "report-damaged-roads-bridges-or-drainage",
+      "name": "Report damaged roads, bridges, or drainage"
+    },
+    {
+      "category": "infrastructure-public-works",
+      "slug": "request-access-to-barangay-water-supply-systems",
+      "name": "Request access to barangay water supply systems"
+    },
+    {
+      "category": "infrastructure-public-works",
+      "slug": "use-public-facilities-like-gyms-barangay-halls-or-multipurpose-centers",
+      "name": "Use public facilities like gyms, barangay halls, or multipurpose centers"
+    },
+    {
+      "category": "infrastructure-public-works",
+      "slug": "rent-stalls-in-public-markets-or-use-lgu-managed-cemeteries",
+      "name": "Rent stalls in public markets or use LGU-managed cemeteries"
+    },
+    {
+      "category": "environment",
+      "slug": "join-clean-up-drives-and-tree-planting-activities",
+      "name": "Join clean-up drives and tree planting activities"
+    },
+    {
+      "category": "environment",
+      "slug": "report-illegal-logging-quarrying-or-fishing",
+      "name": "Report illegal logging, quarrying, or fishing"
+    },
+    {
+      "category": "disaster-preparedness",
+      "slug": "join-disaster-drills-and-evacuation-planning",
+      "name": "Join disaster drills and evacuation planning"
+    },
+    {
+      "category": "disaster-preparedness",
+      "slug": "learn-about-emergency-response-procedures-and-evacuation-routes",
+      "name": "Learn about emergency response procedures and evacuation routes"
+    },
+    {
+      "category": "disaster-preparedness",
+      "slug": "access-disaster-preparedness-information-and-early-warning-systems",
+      "name": "Access disaster preparedness information and early warning systems"
+    },
+    {
+      "category": "housing-land-use",
+      "slug": "apply-for-socialized-housing-or-relocation-projects",
+      "name": "Apply for socialized housing or relocation projects"
+    },
+    {
+      "category": "housing-land-use",
+      "slug": "ask-about-available-relocation-sites-in-case-of-demolition",
+      "name": "Ask about available relocation sites in case of demolition"
+    }
+  ],
+  "unrelated_existing_content_issues": [
+    "Government executive companion data still describes Lapu-Lapu City.",
+    "The legislative page remains a placeholder. These were not part of the Angeles service transfer."
+  ],
+  "cleanup": {
+    "status": "completed",
+    "target": "content/data",
+    "redundant_file_count": 141,
+    "redundant_bytes": 604114055,
+    "retained": [
+      "Six canonical snapshot datasets with source provenance in content/reference/angeles-city",
+      "47 verified PDF downloads in public/documents/angeles-services",
+      "42 authored service pages and their source citations",
+      "CONTENT-SOURCE-REVIEW.md"
+    ],
+    "removed_file_count": 141,
+    "removed_bytes": 604114055
+  }
+}

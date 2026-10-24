@@ -1,159 +1,39 @@
-# Participate in Local Trade Fairs, Business Expos, and Tourism Promotion Activities — Lapu-Lapu City
+# Join trade fairs, business expos, or tourism promotions — Angeles City
 
-Showcase your products and services, meet buyers, and boost your brand by joining **city- and region-led trade fairs, business expos, and tourism promotions**.
+Find official Angeles tourism references and the permit guides relevant to local events.
 
----
+## Event participation
 
-## Who Can Join
+Check the [Angeles City Tourism Office](https://tourism.angelescity.gov.ph/), [city events calendar](https://angelescity.gov.ph/events/), and [city announcements](https://angelescity.gov.ph/news/) for current participation calls. Ask the organizer about event dates, eligibility, stall or booth availability, charges, and required documents. The reviewed sources do not publish an open trade-fair application, booth-fee schedule, or subsidy program.
 
-- **MSMEs** (sole proprietors, partnerships, corporations, cooperatives)
-- **Tourism enterprises** (accommodations, tour operators/guides, transport, attractions, events, MICE suppliers)
-- **Cultural creators** (handicrafts, fashion, food, wellness, creative tech)
-- **LGU-accredited community groups** (livelihood associations, women/youth groups)
+## Events listed on October 15, 2026
 
-**Priority is often given** to registered local businesses, OTOP-branded products, startups with export potential, and tourism enterprises aligned with the city’s events calendar.
+- [Tigtigan Terakan Keng Dalan Festival (TTKD 2026)](https://angelescity.gov.ph/event/tigtigan-terakan-keng-dalan-festival-ttkd-2026/): **October 23–24, 2026**, at MacArthur Highway, Balibago / Quad Jr, Nepo Center, as listed by the city. The page describes food, music, and cultural street activities.
+- [Apung Mamacalulu](https://angelescity.gov.ph/event/apung-mamacalulu/): **October 30, 2026**, with Mass at **5:30 p.m.** and procession at **6:30 p.m.** The reviewed event page does not specify a venue.
 
----
+These are dated event listings, not confirmation that vendor applications are open. Recheck the calendar before attending or making arrangements.
 
-## Event Types You’ll See
+## Local tourism references
 
-- **City/Barangay Trade Fairs** – usually tied to festivals, holidays, and civic celebrations
-- **Business Expos & Startup Showcases** – buyers’ meets, B2B networking, product launches
-- **Tourism Promotion Activities** – travel marts, familiarization (Fam) tours, festivals, MICE activations
-- **Sector-Specific Bazaars** – food & beverage, fashion & crafts, wellness & health, marine/leisure
+The Tourism Office's attraction list captured on **August 9, 2026**, and checked again on **October 15, 2026**, still includes the same four destinations:
 
----
+- [HRPC](https://tourism.angelescity.gov.ph/hrpc-3/)
+- [Museo ning angeles](https://tourism.angelescity.gov.ph/museo-ning-angeles/)
+- [Apu Shrine](https://tourism.angelescity.gov.ph/apu-shrine-2/)
+- [MANSION DE DON FLORENTINO PAMINTUAN](https://tourism.angelescity.gov.ph/mansion-de-don-florentino-pamintuan/)
 
-## How to Participate (Step-by-Step)
+Use these official pages for background when proposing tourism-related activities; arrange access and any permissions with the venue. The source does not establish opening hours, ticket prices, or authorization to hold events there.
 
-1. **Prepare eligibility documents**
-   - DTI/SEC/CDA registration, BIR 2303
-   - Mayor’s/Business Permit (current year)
-   - Tourism accreditation/registration (if applicable)
-   - Product compliance (FDA/LTO/CPR for food & cosmetics; IPOPHL for trademarks if any)
+## Organizing an event
 
-2. **Enroll or pre-register**
-   - Submit an **Application/Intent Form** with business profile, product list, booth needs, and preferred dates.
-   - For tourism activities, provide **tour packages/rates**, photos, and accreditation details.
+If your activity involves advertising displays, motorcades, public performances, or similar activities, consult the [signage, event, and miscellaneous permit guide](/services/business/apply-for-signage-event-and-miscellaneous-permits). Confirm the applicable permits with BPLD before committing to a venue or date.
 
-3. **Assessment & confirmation**
-   - Organizers screen for fit (quality, safety, branding, capacity).
-   - Once accepted, pay **booth fees** (if any) and sign guidelines.
+## Manila FAME participation — October 15–17, 2026
 
-4. **Pre-event readiness**
-   - **Collateral:** banners, price cards, brochures, QR codes, calling cards
-   - **Packaging & labeling:** compliant, barcoded if possible, clear allergens/ingredients
-   - **Booth ops:** staffing schedule, POS/cashless, receipts, sampler policy
-   - **Logistics:** delivery, storage, cold chain (for perishables)
+The city [announces local participation in Manila FAME 2026](https://angelescity.gov.ph/%f0%9d%90%86%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%a7%f0%9d%90%a0-%f0%9d%90%9a%f0%9d%90%ad-%f0%9d%90%8b%f0%9d%90%a2%f0%9d%90%a4%f0%9d%90%a1%f0%9d%90%9a-%f0%9d%90%a7%f0%9d%90%a0-%f0%9d%90%80/) at **World Trade Center Metro Manila, Hall D**, with the Economic Development and Investment Promotions Office and local exhibitors **Pidayit by Phillip Torres, DFS Manufacturing, and 1551 Furniture Shop**. This is a dated participation announcement; it does not publish an application or booth allocation for additional exhibitors.
 
-5. **Event days**
-   - Arrive early for ingress; follow booth rules, safety, and waste management.
-   - Capture leads (name, company, email, WhatsApp/FB), offer show promos.
+## Source
 
-6. **Post-event follow-up (within 72 hours)**
-   - Send thank-you notes/price lists, confirm orders, schedule product trials or site visits.
-   - Record metrics (see KPI list below) and plan reorders.
+[Angeles City Tourism Office — Tourist spots](https://tourism.angelescity.gov.ph/tourist-spot/), retrieved August 9, 2026.
 
----
-
-## Typical Requirements Checklist
-
-- [ ] Government IDs of owner/representative
-- [ ] DTI/SEC/CDA, BIR 2303, current **Mayor’s/Business Permit**
-- [ ] Barangay/City clearance (if requested)
-- [ ] **Product compliance** (FDA for food/cosmetics; HALAL/organic if claimed)
-- [ ] Tourism accreditation/registration (if a tourism enterprise)
-- [ ] Public liability insurance (recommended for large expos)
-- [ ] Booth layout & electrical needs (watts/amps), extension cords, PPE for ingress
-- [ ] Cashless payments (GCash/PayMaya/bank QR), receipt book or e-receipts
-
----
-
-## Program Benefits You Can Tap
-
-- **Subsidized booth fees** for local MSMEs or accredited tourism enterprises
-- **Product development & mentoring** (branding, packaging, costing, export-readiness)
-- **Market matching** (B2B buyer programs, hotel/retail/online marketplace onboarding)
-- **Media exposure** (LGU press, social media spotlights, tourism campaigns)
-
----
-
-## Cost Planning (Sample)
-
-| Item               | Budget Hint                              |
-| ------------------ | ---------------------------------------- |
-| Booth fee (if any) | ₱0–₱15,000 (depends on event)            |
-| Build/branding     | ₱1,000–₱10,000 (tarps, standees, lights) |
-| Samples/giveaways  | 2–5% of target sales                     |
-| Staff & logistics  | Transport, meals, ingress/egress         |
-| Contingency        | 10% of total budget                      |
-
----
-
-## On-Site Sales & Branding Tips
-
-- Price clearly (bundle sets for quick buys; offer **show-only promos**).
-- Use a simple **lead capture** sheet or QR form.
-- Display a **brand story card** (origin, materials, sustainability, community impact).
-- Encourage **reviews** and **UGC** (QR to FB/IG/TikTok, hashtag).
-- Bring **backup stock** and a **reorder form**.
-
----
-
-## KPIs to Track
-
-- **Foot traffic** and **conversion rate**
-- **Average order value (AOV)** and **gross margin**
-- **Leads captured** and **B2B meetings booked**
-- **Repeat orders** within 30/60/90 days
-- **Media/social reach** and follower growth
-
----
-
-## Where to Watch for Calls & Schedules (Lapu-Lapu / Cebu)
-
-- **Lapu-Lapu City**: City Information Office, Business Permits & Licensing Office (BOSS announcements), City Tourism & Cultural Affairs
-- **Negosyo Center / MSME Office**: product dev, fairs, OTOP activities
-- **Tourism Bodies**: city/regional tourism offices for travel marts, festivals, Fam tours, MICE events
-- **Chambers & Associations**: local chamber of commerce, hotel/resort associations, exporters’ groups
-- **Schools & Malls**: seasonal bazaars, startup fairs, internship & career expos
-
----
-
-# Key Local Contacts — Lapu-Lapu City
-
-Use these offices when coordinating for **trade fairs, business expos, permits, and tourism promotion activities**.
-
----
-
-| Office / Role                                                                 | Address / Location                                    | Contact Number  | Email / Other Contact Info                                                                                                                                   |
-| ----------------------------------------------------------------------------- | ----------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Business Permit & Licensing Office (BPLO)**                                 | City Hall Main Building, Lapu-Lapu Government Complex | (032) 340-0004  | —                                                                                                                                                            |
-| **PESO Lapu-Lapu City** (Student Employment, Local Promotions)                | Pajo, Lapu-Lapu City, Cebu 6015                       | (032) 340-8264  | Facebook: [PESO Lapu-Lapu City](https://ph.locale.online/peso-lapu-lapu-city-47947610.html)                                                                  |
-| **City Information Office / Treasurer’s Office**                              | Lapu-Lapu City Hall / Hoops Dome during events        | (032) 340-1615  | Updates: [Official Facebook Page](https://www.facebook.com/photo.php?fbid=122128211810564979&id=61566949391179&set=a.122105111324564979)                     |
-| **Lapu-Lapu City Tourism Office**                                             | City Government / Tourism Department                  | +63 32 495-5593 | Email: llctourism.inquiry@gmail.com • [Instagram Location Page](https://www.instagram.com/explore/locations/2149053888682923/lapu-lapu-city-tourism-office/) |
-| **City-Wide Trade Fair / Renewal Venue** (used for permit renewals and expos) | Hoops Dome, Barangay Gun-ob                           | —               | News: [SunStar — Biz Permit Renewals at Hoops Dome](https://www.sunstar.com.ph/cebu/lapu-launches-new-system-for-biz-permit-renewals)                        |
-
----
-
-✅ Tip: Save these contacts and follow their **Facebook pages** — most trade fair and expo announcements in Lapu-Lapu are posted there first.
-
----
-
-## Sample Email to Join an Event
-
-> **Subject:** Participation Inquiry – [Your Brand] for [Event Name/Date]  
-> Hello [Organizer Name],  
-> We’re a Lapu-Lapu–based [business type] offering [brief product/service]. We’d like to apply for a booth at **[Event Name]** on **[Date]**.  
-> **Attachments:** Business registration, product list/prices, photos, compliance (FDA/accreditation).  
-> **Needs:** [table + 1 outlet + 500W], ingress day-before preferred.  
-> Thank you and we look forward to promoting Lapu-Lapu products/tourism at your event.  
-> **Contact:** [Name, Mobile, Email, Links]
-
----
-
-## Safety & Compliance
-
-- Follow **fire safety**, **ingress/egress**, and **electrical load** limits.
-- For food: secure **permits**, maintain **temperature control**, and practice **safe sampling**.
-- Respect IP: don’t use copyrighted music/images without permission; avoid counterfeit or misbranded goods.
+[Angeles City events calendar](https://angelescity.gov.ph/events/) and the event pages linked above, retrieved October 15, 2026.

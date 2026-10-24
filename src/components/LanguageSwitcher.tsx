@@ -10,7 +10,9 @@ export default function LanguageSwitcher() {
   const { i18n } = useTranslation();
 
   const changeLanguage = (languageCode: string) => {
-    i18n.changeLanguage(languageCode);
+    i18n.changeLanguage(languageCode).catch(error => {
+      console.error('Failed to change language:', error);
+    });
   };
 
   return (

@@ -19,3 +19,6 @@ coverage
 package-lock.json
 yarn.lock
 pnpm-lock.yaml
+
+# Saved source evidence and review snapshots must retain their original bytes.
+content/reference/

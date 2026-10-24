@@ -1,65 +1,60 @@
-# How to Set Up a Business Partnership
+# Apply for barangay clearance and mayor’s business permits — Angeles City
 
-## Step 1: Register with SEC
+Prepare a new business permit application for the Angeles City Business Permit and Licensing Division.
 
-**Prepare documents:**
+> Updated October 15, 2026 using the city's current eBPLS charter and revision 33 application form. The August documents remain available below as historical references.
 
-- Partnership name (check via [SEC eSPARC](https://espac.sec.gov.ph/))
-- Notarized Articles of Partnership
-- IDs/TINs of partners, office address, capital structure
+## Where to apply
 
-**File online** through [SEC eSPARC](https://espac.sec.gov.ph/) and pay fees.
+Apply through [Angeles City eBPLS](https://cityofangeles.ph/bpls/), linked from the [official city homepage](https://angelescity.gov.ph/). The Business Permit and Licensing Division (BPLD) handles the application through the Business One-Stop Shop (BOSS).
 
-**Output:** SEC Certificate of Recording + Approved Business Name
+The August charter listed BPLD on the ground floor of City Hall. Its Monday–Friday hours have not been reconfirmed: the city now publishes a compressed workweek advisory. Check the [current city announcements](https://angelescity.gov.ph/news/) before an in-person visit.
 
-## Step 2: Apply for Business Permit
+## New business requirements
 
-Go to **Lapu-Lapu City BPLO** (Business Permit and Licensing Office).
+- Completed eApplication Form.
+- Proof of business registration or legal personality: DTI, SEC, or CDA, as applicable.
+- Business capitalization as the basis for computing taxes, fees, and charges.
+- Occupancy permit for the constructed building; the paper form specifies newly constructed buildings.
+- BFP certification, added to the new-business checklist in revision 33 of the paper form.
+- Barangay clearance. The paper form makes this conditional on an occupancy permit not being required; the online charter lists it separately.
+- Lease contract if you rent the premises.
+- Community Tax Certificate (cedula).
 
-**Requirements:**
+Use the [current Business Permit Application Form](/services/business/download-business-permit-application-form), **revision 33, dated October 1, 2025**, when a paper form is requested. Mark **New**. The form's printed date is distinct from its October 2026 upload path.
 
-- Unified Application Form
-- SEC Certificate of Registration + Articles of Partnership
-- Occupancy Permit (if owner) OR Lease Contract (if renting)
-- Community Tax Certificate (CTC)
+Additional requirements depend on the business classification. Confirm the applicable checklist with BPLD, including the difference between the form and charter's barangay-clearance wording.
 
-Apply in person or online via [Lapu-Lapu Online Business Permit Portal](https://businesspermit.lapulapucity.gov.ph/).
+For barangay clearance, use the [Angeles City barangay directory](/services/business/find-your-angeles-city-barangay) to locate the barangay where the business operates. The scraped directory does not specify clearance fees or application requirements; confirm these with that barangay.
 
-> Note: Inspections may include zoning, sanitary, and fire safety checks.
+## Application steps
 
-## Step 3: Register with BIR
+1. Register in eBPLS and activate your account using the email prompt.
+2. Select **New Business Application** and complete items 1–3.
+3. Upload scanned requirements in item 4, select pickup or delivery of the original permit, and submit.
+4. Monitor your registered email and upload any additional documents requested.
+5. Check the billing statement in the portal. Follow its redirect to **Landbank Link.BizPortal** to pay the assessed amount.
+6. Print the electronic business permit after approval and follow the selected pickup or delivery arrangement for the originals.
 
-File at the **BIR Revenue District Office (RDO)** where your office is located.
+## Fees and processing
 
-- Fill out [BIR Form 1903](https://www.bir.gov.ph/images/1903%20Jan%202024.pdf)
-- Submit SEC Certificate + Articles of Partnership + valid IDs
-- Pay registration fee + Documentary Stamp Tax (DST)
+The current online charter publishes **three working days**, provided payment is made within that period. Fees depend on assessed capital or gross receipts and the city's tax ordinance; obtain the portal's assessment. Issued permits remain subject to post-audit inspection or verification. Use your registered email for transaction concerns and follow-up, as required by the charter's zero-contact policy.
 
-**Within 30 days of receiving BIR Certificate:**
+### What changed from the August copy?
 
-- Apply for Authority to Print Receipts (Form 1906) OR enroll in e-invoicing
-- Register your Books of Accounts
+The August walk-in charter estimated **two days** for new applications subject to inspection. That estimate describes the older process; use the current three-working-day estimate for eBPLS. The old paper form was **revision 30, dated September 1, 2023**.
 
-## Step 4: Register as Employer (if hiring)
+Related services: [business zoning clearance](/services/business/request-business-zoning-compliance), [sanitary permits](/services/business/apply-for-sanitary-permit), and [building permits](/services/housing-land-use/request-zoning-land-use-or-building-permits).
 
-Enroll with:
+## Sources
 
-- [SSS](https://www.sss.gov.ph/)
-- [PhilHealth](https://www.philhealth.gov.ph/)
-- [Pag-IBIG](https://www.pagibigfund.gov.ph/)
+- Current eBPLS charter: [saved PDF](/documents/angeles-updates-2026-10-15/eBPLS-Citizen-Charter.pdf) · [official PDF](https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf) · [source page](https://angelescity.gov.ph/citizens-charter/), retrieved October 15, 2026.
+- Current revision 33 form: [saved PDF](/documents/angeles-updates-2026-10-15/BPLD-ABP-001-Rev-33.pdf) · [official PDF](https://angelescity.gov.ph/wp-content/uploads/2026/10/BPLD-ABP-001-Rev-33.pdf), retrieved October 15, 2026.
 
-## Process Flow
+### Archived August 2026 sources
 
-1. SEC name check + register via [SEC eSPARC](https://espac.sec.gov.ph/)
-2. Secure Barangay Certification + site/lease documents
-3. Apply for Business Permit at [Lapu-Lapu BPLO](https://businesspermit.lapulapucity.gov.ph/)
-4. File BIR Form 1903 → apply ATP → register books
+- Issuance of Business Permit in BPLD: [saved PDF](/documents/angeles-services/012-issuance-of-business-permit-in-bpld.pdf) · [official PDF](https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-business-permit.pdf) · [source page](https://www.angelescity.gov.ph/citizen_charter)
+- Alternate official publication: [saved PDF](/documents/angeles-services/002-issuance-of-business-permit-in-bpld.pdf) · [official PDF](https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-BUSINESS-PERMIT.pdf)
+- Business Permit Form: [saved PDF](/documents/angeles-services/001-business-permit-form.pdf) · [official PDF](https://www.angelescity.gov.ph/assets/pdf/business/business_license/BUSINESS-PERMIT-FORM.pdf) · [source page](https://www.angelescity.gov.ph/business)
 
-## Document Checklist
-
-- [ ] SEC Articles of Partnership + SEC Certificate
-- [ ] Lease Contract OR Occupancy/Building docs
-- [ ] Lapu-Lapu BPLO Unified Application Form + CTC
-- [ ] BIR Form 1903, IDs, ATP/Books
-
-With these steps, your partnership in Lapu-Lapu City will be fully compliant and ready to operate!
+Saved charter copies are optimized for reading. Official source links and document provenance are retained for verification.

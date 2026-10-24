@@ -1,0 +1,266 @@
+[
+  {
+    "file": "content/services/agriculture-fisheries/index.yaml",
+    "sha256": "7ddcbebb08cbe11cb4be416d09837b0665aaf56474738ba51407ff99e2bd9a1e"
+  },
+  {
+    "file": "content/services/business/apply-for-barangay-clearance-and-mayors-business-permits.md",
+    "sha256": "5c11f7013e5bf4ef0c8d68df8f348cfb425854a1379d536487c5a39f4181a8ad"
+  },
+  {
+    "file": "content/services/business/apply-for-public-transport-mayors-permit.md",
+    "sha256": "0bb6664b9d9a132263d4258e08f36edfafd941dad902a729df97fb6ca08c9cfa"
+  },
+  {
+    "file": "content/services/business/apply-for-sanitary-permit.md",
+    "sha256": "e16f4045bdd763d76d511e048e3dcffd71c620315f6223d0bcbfecf22bef071d"
+  },
+  {
+    "file": "content/services/business/apply-for-signage-event-and-miscellaneous-permits.md",
+    "sha256": "b2db46d00a2f0d050c559b7994db7a9a97d9252462705137025eeee29574e58c"
+  },
+  {
+    "file": "content/services/business/download-business-permit-application-form.md",
+    "sha256": "669a31607d2e5c4bf8cd7e24fd1fc3ae013657064db687062ea2088006be3c7a"
+  },
+  {
+    "file": "content/services/business/find-your-angeles-city-barangay.md",
+    "sha256": "e8730c9fe9c0cd735c18123ae7593ad06a3895ac7f799be5360a117732ab95f6"
+  },
+  {
+    "file": "content/services/business/index.yaml",
+    "sha256": "df33bb09a81d61d7278eb76d09b89b5bf0fd73d194d51b0b9d5b9a1621df7201"
+  },
+  {
+    "file": "content/services/business/join-trade-fairs-business-expos-or-tourism-promotions.md",
+    "sha256": "50527efe413368baadd29813cf63455f6e7aee7b11695fd2988336a1b6c9561a"
+  },
+  {
+    "file": "content/services/business/renew-permits-and-pay-local-business-taxes.md",
+    "sha256": "3848b98c3c64a2512035471387ced2a3eb624924a41a23e56703be1456075c8e"
+  },
+  {
+    "file": "content/services/business/rent-stalls-in-public-markets.md",
+    "sha256": "84cb10a7c1f4e23e306827c8b5b814e922c32e6c4b73d7b913622c953fa3ffd1"
+  },
+  {
+    "file": "content/services/business/request-business-zoning-compliance.md",
+    "sha256": "743bdfd22c81822d6792af5653bc83c66e68953abfdf39dd941ab37e3352e947"
+  },
+  {
+    "file": "content/services/civil-documents/apply-for-marriage-license.md",
+    "sha256": "e28448ac6a3da3006bf883624616d2f45e6311eef9febbb8755414bb9b00748f"
+  },
+  {
+    "file": "content/services/civil-documents/index.yaml",
+    "sha256": "ff22b4914ae6cbb51b97abadff7c167b1e13620702a875e8a2cf275d8b76f5ea"
+  },
+  {
+    "file": "content/services/civil-documents/register-birth-certificate.md",
+    "sha256": "ef0e72e7cca44234a43d848b843126a73b1165034a1e955362fc59a34fe09ae8"
+  },
+  {
+    "file": "content/services/civil-documents/register-death-certificate.md",
+    "sha256": "bec5aaf673721c2357b5758bd4b7134e167e1ce66e976924ebdbe382bd6c0875"
+  },
+  {
+    "file": "content/services/civil-documents/register-marriage-certificate.md",
+    "sha256": "2af33effa3057f65eebb5b4b383b993ae0e3897450a6f879d12a74422b1143a2"
+  },
+  {
+    "file": "content/services/civil-documents/request-certified-civil-registry-documents.md",
+    "sha256": "ffa933859cda422e3638d9ad45f2286ffd0bd33e33cf8720956c18de054fdcc2"
+  },
+  {
+    "file": "content/services/disaster-preparedness/index.yaml",
+    "sha256": "ea68b268dbf9680d8c2e1ff1db1dc761e4ccaffe990be55b49ae8664066d9afe"
+  },
+  {
+    "file": "content/services/education/access-educational-support-programs-from-the-lgu.md",
+    "sha256": "866b3f1ccd59f196050869a8a0078ca898b3042fcc168bab104c69d338889fe8"
+  },
+  {
+    "file": "content/services/education/apply-for-local-scholarships.md",
+    "sha256": "53c34fd6337628b872daa6299294c223ad62b5de813a50ea1f887a0574107136"
+  },
+  {
+    "file": "content/services/education/enroll-children-in-lgu-daycare-or-preschool-programs.md",
+    "sha256": "043b3dcba5728b0574c47f44b1c734eee36ecb5c22acd6ba8d808c613e997b9a"
+  },
+  {
+    "file": "content/services/education/find-public-schools-in-angeles-city.md",
+    "sha256": "ad8e16dc9f16774e90dd76850126336dfacb4574d46d60356d92ce7b270e31d0"
+  },
+  {
+    "file": "content/services/education/index.yaml",
+    "sha256": "a12fdd78bb921ad07b9df3905370afbb75fa081ce5b080c2d742f29b9a6c133a"
+  },
+  {
+    "file": "content/services/education/learn-about-supplementary-activities-for-schools-in-your-area.md",
+    "sha256": "3fe9f94dc684bf4102cc9c86da1071399639eba2cd931e8f660a23df59730a33"
+  },
+  {
+    "file": "content/services/environment/index.yaml",
+    "sha256": "760b2c877f35f0bb5a7abdfdfb6669766937eb33373515410216c4db9c92eeb8"
+  },
+  {
+    "file": "content/services/garbage-waste-disposal/check-garbage-collection-schedules-and-request-pickup.md",
+    "sha256": "4947473ba70bd93edcb133417314ffc2bd56737f3896c4fc8c150318d796e886"
+  },
+  {
+    "file": "content/services/garbage-waste-disposal/index.yaml",
+    "sha256": "09adde014bd7059827b8757c5ae1c412e114efa857cc40427ff4d88fcb2f5061"
+  },
+  {
+    "file": "content/services/garbage-waste-disposal/learn-proper-waste-segregation-and-disposal-methods.md",
+    "sha256": "de010d605daa44dbc6a011d210aa77159727acca10b4ccc2e6ba4340e4f0fafe"
+  },
+  {
+    "file": "content/services/garbage-waste-disposal/report-illegal-dumping-or-waste-management-violations.md",
+    "sha256": "dc0bb18a68901226d4c05c515f37801a724bbd64d77e18c9012441a81c74f58c"
+  },
+  {
+    "file": "content/services/garbage-waste-disposal/request-special-waste-collection-hazardous-materials-electronics.md",
+    "sha256": "0619fa582564a5a3e5ce0ed2098b03f92eacc538b199eade042c1e77918f7a61"
+  },
+  {
+    "file": "content/services/health-services/access-maternal-care-and-child-immunization.md",
+    "sha256": "e99a4f64d016a6e038f6a1459de50018d3c9b6b97f9d57a4fa111cc56cae333f"
+  },
+  {
+    "file": "content/services/health-services/apply-for-worker-health-certificate-cards.md",
+    "sha256": "1b95e52599e147ef2171806524b5cf51084bf427d4030e9323d3eaca2a4b936f"
+  },
+  {
+    "file": "content/services/health-services/get-free-check-ups-basic-medicines-and-vaccines.md",
+    "sha256": "967aa448d40045906ffd702c585335b33340c7a395396f65020d16afdcfaa089"
+  },
+  {
+    "file": "content/services/health-services/go-to-the-local-hospital-for-treatment-or-confinement.md",
+    "sha256": "5a5dc578c437bbe0f059e53ba16426b7a67592604ef4b28a95b0cb948bba948a"
+  },
+  {
+    "file": "content/services/health-services/index.yaml",
+    "sha256": "21fc10e724f9b4de18c6b6ca2fbd58d19efd728013f122c027aa5369a4a91f46"
+  },
+  {
+    "file": "content/services/health-services/join-health-programs-nutrition-dengue-control-tb-treatment.md",
+    "sha256": "d89aaa920dc74544575cd0f461658e7954bc660433d58b5ab623ed2fa9ac75f3"
+  },
+  {
+    "file": "content/services/housing-land-use/apply-for-occupancy-permit.md",
+    "sha256": "36e91e3991ca073992d51c9814771c5a426cde86de27def6fc72dfab424eea2c"
+  },
+  {
+    "file": "content/services/housing-land-use/index.yaml",
+    "sha256": "6e265bff7f714803a7eb691ab6f5b024f4395c4b48076b17f6732b49dc9645c6"
+  },
+  {
+    "file": "content/services/housing-land-use/request-annual-building-inspection-certificate.md",
+    "sha256": "dad0cd41a52dc59f02646e6f364537564c1eebb01d0f8e72cb83e29ad9d4f544"
+  },
+  {
+    "file": "content/services/housing-land-use/request-electrical-inspection-certificate.md",
+    "sha256": "b2998c43d78e456213e39bc6e4c5b25b7da79e8db8ba511aefbeff4bfc3c24a6"
+  },
+  {
+    "file": "content/services/housing-land-use/request-zoning-land-use-or-building-permits.md",
+    "sha256": "1072211550e52e7becaf3f363586f0b616782e598c6986598dba26fdc78c632e"
+  },
+  {
+    "file": "content/services/infrastructure-public-works/index.yaml",
+    "sha256": "a2ca2b35aeef6c6e12a8e4829231fc38747c4741e989eff53529fdf94fba9015"
+  },
+  {
+    "file": "content/services/social-welfare/apply-for-medical-burial-or-educational-financial-assistance.md",
+    "sha256": "6f8cd574f2853a097b9235c8cbb0fec5fc7a89ebf427a43166b82b89df8399b3"
+  },
+  {
+    "file": "content/services/social-welfare/apply-for-senior-citizen-solo-parent-or-pwd-assistance.md",
+    "sha256": "b312c8a25518977f21d23f61823fc598aafe41dda0f7a11bcd7599ba883c88dc"
+  },
+  {
+    "file": "content/services/social-welfare/attend-pre-marriage-counseling.md",
+    "sha256": "325824de62bfd168141351846b13ddc3acf9266ea890d96392b0550b22a2013e"
+  },
+  {
+    "file": "content/services/social-welfare/get-family-and-community-welfare-support.md",
+    "sha256": "8ce95b89e8bff4a077a5e370e782747517a6ed310250d02a2f3830cb51e08c7a"
+  },
+  {
+    "file": "content/services/social-welfare/index.yaml",
+    "sha256": "45a40ea290c86bf69b5899584776d4b581ada1e303a9ffe9dba3ed4b6eb1d992"
+  },
+  {
+    "file": "content/services/taxes-fees/get-community-tax-certificate-cedula.md",
+    "sha256": "75605d6154b3a7921c8d2ccd063418a075c405c514a9165e966d55accaf2de71"
+  },
+  {
+    "file": "content/services/taxes-fees/index.yaml",
+    "sha256": "b8a7ea53fbc23ce61f1f33d423351238a8cc2357362d7539c2369f8faaf545cf"
+  },
+  {
+    "file": "content/services/taxes-fees/pay-real-property-tax.md",
+    "sha256": "729af6cd63d91453bbb8613952bbf71273069183c3680bd32401c81df5146dea"
+  },
+  {
+    "file": "content/services/taxes-fees/pay-transfer-tax-and-request-certificate.md",
+    "sha256": "ef05ec0a905534037c456f8b0fea6d7fb14976e82de846c5920d021d646129da"
+  },
+  {
+    "file": "content/services/taxes-fees/request-certified-tax-declaration.md",
+    "sha256": "5007e78f4b8cc6f17926842ca15af41562dec10fd3f7a79d2a77d77777ab43a0"
+  },
+  {
+    "file": "content/services/taxes-fees/request-property-assessment-certification.md",
+    "sha256": "32dfcc50e46c35131dd95e3f68b2882db8b96407652b3a1e102afd772861eafe"
+  },
+  {
+    "file": "content/government/departments/executive.json",
+    "sha256": "93d293d09e85d24470f4be4e63491d826d63bd653110fe6aab8aae33e5d520d6"
+  },
+  {
+    "file": "content/government/departments/executive.md",
+    "sha256": "7aa2c13b3acfc3ebc6f04602bbc4e895cb553ac9c9ac515921c265ee35fa8501"
+  },
+  {
+    "file": "content/government/departments/index.yaml",
+    "sha256": "2c4f1857b825d33d6ab6deb694d96e05d5e9c78d59ccf28ed37371bac7acca3e"
+  },
+  {
+    "file": "content/government/departments/legislative/index.yaml",
+    "sha256": "3965b1495e56f1360deb57118ee2b42af917212a5f2342a3d1219a6cd95d05bb"
+  },
+  {
+    "file": "content/reference/angeles-city/ac-government.yaml",
+    "sha256": "5fc55fe8b4ae53de944ee7b0883296d8b6df8bd2f1fa1ff7306bc6e1fb569dbb"
+  },
+  {
+    "file": "content/reference/angeles-city/barangays.json",
+    "sha256": "837b5e6f251b1766b22bbd8c191db0b73ae3d9fc67889e46db2dfd4010597388"
+  },
+  {
+    "file": "content/reference/angeles-city/council.json",
+    "sha256": "20e3755bd0d5ccf1ad0f85a5dad2ac60593489e9a6ae10dc01007244c9fbea08"
+  },
+  {
+    "file": "content/reference/angeles-city/news.json",
+    "sha256": "07a8f1e4c274b6cc04537cec6370a7ff6cdaef657692b50eb8445337a6085208"
+  },
+  {
+    "file": "content/reference/angeles-city/schools.json",
+    "sha256": "7abf5b13cb4846ad5cf67d6adce33a110ee8ad273145a969f6a6f561512cca1a"
+  },
+  {
+    "file": "content/reference/angeles-city/services.json",
+    "sha256": "197ca5b8a47d4db0b59a27935a09c6d70f4a6a93ba3475e71bc57b04d1b79932"
+  },
+  {
+    "file": "content/reference/angeles-city/source-manifest.json",
+    "sha256": "6485407619220d3b74b321c0c48046c94620a2e3d0a72b3ddf14787e6e9ece66"
+  },
+  {
+    "file": "content/reference/angeles-city/tourism.json",
+    "sha256": "6b0a7d7926df392704982a6f49349d68953171d44fb99c4ad33dfb2ecbdbeecd"
+  }
+]
