@@ -1,0 +1,49 @@
+city_government:
+  city_mayor:
+    name: 'Carmelo "Jon" Lazatin II'
+
+  sangguniang_panlungsod:
+    council_number: 20
+
+    presiding_officer:
+      name: "Amos B. Rivera"
+
+    city_councilors:
+      - number: 1
+        name: "Arvin M. Suller"
+
+      - number: 2
+        name: "Joan Crystal D. Aguas"
+
+      - number: 3
+        name: "Marino D. Bañola"
+
+      - number: 4
+        name: "Maricel Morales-Agoncillo"
+
+      - number: 5
+        name: "Edgardo D.G. Pamintuan Jr."
+
+      - number: 6
+        name: "Aaron L. Pineda"
+
+      - number: 7
+        name: "Michelle M. Bonifacio"
+
+      - number: 8
+        name: "Alexander P. Indiongco"
+
+      - number: 9
+        name: "Jeselle Ann Dayrit"
+
+      - number: 10
+        name: "Raco Paolo S. Del Rosario"
+
+    sectoral_representatives:
+      abc_president:
+        organization: "Asosasyon ng mga Kapitan ng Barangay"
+        name: "Danilo Nacu"
+
+      sk_federation_president:
+        organization: "Sangguniang Kabataan Federation"
+        name: "Richard Dela Cruz-Gaza Jr."

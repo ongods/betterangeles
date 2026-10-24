@@ -1,15 +1,19 @@
-# Housing & Land Use Category Pages
-# This file contains all the pages/services available under the Housing & Land Use category
-
 pages:
   - name: 'Apply for socialized housing or relocation projects'
     slug: 'apply-for-socialized-housing-or-relocation-projects'
     description: 'Information about applying for socialized housing and relocation projects from your local government.'
-    
   - name: 'Request zoning, land use, or building permits'
     slug: 'request-zoning-land-use-or-building-permits'
-    description: 'How to request zoning, land use, and building permits from your local government.'
-    
+    description: 'Prepare the construction zoning clearance and building permit documents published by Angeles City.'
   - name: 'Ask about available relocation sites in case of demolition'
     slug: 'ask-about-available-relocation-sites-in-case-of-demolition'
     description: 'Information about available relocation sites in case of demolition or displacement.'
+  - name: 'Apply for an occupancy permit'
+    slug: 'apply-for-occupancy-permit'
+    description: 'Prepare the completion documents and inspections for an Angeles City occupancy permit.'
+  - name: 'Request an annual inspection certificate'
+    slug: 'request-annual-building-inspection-certificate'
+    description: 'Apply for the annual inspection certificate for a commercial establishment in Angeles City.'
+  - name: 'Request an electrical inspection certificate'
+    slug: 'request-electrical-inspection-certificate'
+    description: 'Prepare the published requirements for an electrical connection without a certificate of occupancy.'

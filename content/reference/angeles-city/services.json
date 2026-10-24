@@ -1,0 +1,1539 @@
+[
+  {
+    "service_name": "Registration of Birth Certificate (On-Time Registration)",
+    "source_service_name": "Registration of Birth Certificate (On-Time Registration)",
+    "source_service_slug": "registration-of-birth-certificate-on-time-registration",
+    "source_category": "Birth Certificate & Other Civil Documents",
+    "source_category_slug": "birth-certificate-other-civil-documents",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/registration-of-birth-on-time.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "e20e50fc8fc7e10ade2c52cd09849c2ba8e934000fdc91608a8679f0713c4bac",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "e20e50fc8fc7e10ade2c52cd09849c2ba8e934000fdc91608a8679f0713c4bac",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/001-registration-of-birth-certificate-on-time-registration.pdf"
+    ],
+    "content_pages": [
+      "content/services/civil-documents/register-birth-certificate.md"
+    ],
+    "qa_checked_content_points": ["₱460", "30 days", "Admission"]
+  },
+  {
+    "service_name": "Registration of Death Certificate (On-Time Registration)",
+    "source_service_name": "Registration of Death Certificate (On-Time Registration)",
+    "source_service_slug": "registration-of-death-certificate-on-time-registration",
+    "source_category": "Birth Certificate & Other Civil Documents",
+    "source_category_slug": "birth-certificate-other-civil-documents",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/registration-of-death-on-time.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "872b57a2a6d247757cae32fce5088dc353e49bc2fc6463404ea01e7aa22c0c19",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "872b57a2a6d247757cae32fce5088dc353e49bc2fc6463404ea01e7aa22c0c19",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/002-registration-of-death-certificate-on-time-registration.pdf"
+    ],
+    "content_pages": [
+      "content/services/civil-documents/register-death-certificate.md"
+    ],
+    "qa_checked_content_points": ["48 hours", "30 days", "₱75", "₱500"]
+  },
+  {
+    "service_name": "Registration of Marriage Certificate (On-Time Registration)",
+    "source_service_name": "Registration of Mariage Certificate (On-Time Registration)",
+    "source_service_slug": "registration-of-mariage-certificate-on-time-registration",
+    "source_category": "Birth Certificate & Other Civil Documents",
+    "source_category_slug": "birth-certificate-other-civil-documents",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/registration-of-marriage-on-time.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "172bb161876a86ce0f7bca1d9643b600a61e83e5f7883b350edb21bd3d2e6000",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "172bb161876a86ce0f7bca1d9643b600a61e83e5f7883b350edb21bd3d2e6000",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/003-registration-of-mariage-certificate-on-time-registration.pdf"
+    ],
+    "content_pages": [
+      "content/services/civil-documents/register-marriage-certificate.md"
+    ],
+    "qa_checked_content_points": ["15 days", "MF 102", "10 minutes"]
+  },
+  {
+    "service_name": "Issuance of Certified True Copy of Birth, Marriage, Death and Other Registry Documents",
+    "source_service_name": "Issuance of Certified True Copy of Birth, Marriage, Death and Other Registry Documents",
+    "source_service_slug": "issuance-of-certified-true-copy-of-birth-marriage-death-and-other-registry-documents",
+    "source_category": "Birth Certificate & Other Civil Documents",
+    "source_category_slug": "birth-certificate-other-civil-documents",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/issuance-of-certified-copy-of-birth-others.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "3b3db81de4f3dbf10d1870c3051fd0deb8440782b09508b20077ec8ab6ffff13",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "3b3db81de4f3dbf10d1870c3051fd0deb8440782b09508b20077ec8ab6ffff13",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/004-issuance-of-certified-true-copy-of-birth-marriage-death-and-other-registry-documents.pdf"
+    ],
+    "content_pages": [
+      "content/services/civil-documents/request-certified-civil-registry-documents.md"
+    ],
+    "qa_checked_content_points": ["₱50", "valid identification", "20 minutes"]
+  },
+  {
+    "service_name": "Issuance of Marriage License",
+    "source_service_name": "Issuance of Marriage License",
+    "source_service_slug": "issuance-of-marriage-license",
+    "source_category": "Birth Certificate & Other Civil Documents",
+    "source_category_slug": "birth-certificate-other-civil-documents",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/issuance-of-marriage-license.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "7e7787ee16b8ad02923cb210f92a86f4bb6007a6a792e4bc957f2b15bb0e5195",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "7e7787ee16b8ad02923cb210f92a86f4bb6007a6a792e4bc957f2b15bb0e5195",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/005-issuance-of-marriage-license.pdf"
+    ],
+    "content_pages": [
+      "content/services/civil-documents/apply-for-marriage-license.md"
+    ],
+    "qa_checked_content_points": ["₱250", "120 days", "18–20", "21–24"]
+  },
+  {
+    "service_name": "Delayed Registration of Birth Certificate",
+    "source_service_name": "Delayed Registration of Birth Certificate",
+    "source_service_slug": "delayed-registration-of-birth-certificate",
+    "source_category": "Birth Certificate & Other Civil Documents",
+    "source_category_slug": "birth-certificate-other-civil-documents",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/delayed-registration-of-birth.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "b3e25db374578d58b0b873089b450d5e31934dc7f2ac9256a302aec2e9b51735",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "b3e25db374578d58b0b873089b450d5e31934dc7f2ac9256a302aec2e9b51735",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/006-delayed-registration-of-birth-certificate.pdf"
+    ],
+    "content_pages": [
+      "content/services/civil-documents/register-birth-certificate.md"
+    ],
+    "qa_checked_content_points": ["₱710", "₱250", "Form 137", "10-day"]
+  },
+  {
+    "service_name": "Delayed Registration of Marriage Certificate",
+    "source_service_name": "Delayed Registration of Mariage Certificate",
+    "source_service_slug": "delayed-registration-of-mariage-certificate",
+    "source_category": "Birth Certificate & Other Civil Documents",
+    "source_category_slug": "birth-certificate-other-civil-documents",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/delayed-registration-of-marriage.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "197549634200f049d8a1cd9144c00654af498dbc7ba04d4974ddd98a10cc2d8d",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "197549634200f049d8a1cd9144c00654af498dbc7ba04d4974ddd98a10cc2d8d",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/007-delayed-registration-of-mariage-certificate.pdf"
+    ],
+    "content_pages": [
+      "content/services/civil-documents/register-marriage-certificate.md"
+    ],
+    "qa_checked_content_points": ["four copies", "₱250", "PSA", "10 days"]
+  },
+  {
+    "service_name": "Delayed Registration of Death Certificate",
+    "source_service_name": "Delayed Registration of Death Certificate",
+    "source_service_slug": "delayed-registration-of-death-certificate",
+    "source_category": "Birth Certificate & Other Civil Documents",
+    "source_category_slug": "birth-certificate-other-civil-documents",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/delayed-registration-of-death.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "520f08de85ddf5e41fbda6a139f49fd253038e80508ff030c2504ca49a3ab5f0",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "520f08de85ddf5e41fbda6a139f49fd253038e80508ff030c2504ca49a3ab5f0",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/008-delayed-registration-of-death-certificate.pdf"
+    ],
+    "content_pages": [
+      "content/services/civil-documents/register-death-certificate.md"
+    ],
+    "qa_checked_content_points": [
+      "official receipt of certification",
+      "₱250",
+      "No Registration"
+    ]
+  },
+  {
+    "service_name": "Consultation Services in Rural Health Centers",
+    "source_service_name": "Consultation Services in Rural Health Centers",
+    "source_service_slug": "consultation-services-in-rural-health-centers",
+    "source_category": "Health Services & Programs",
+    "source_category_slug": "health-services-programs",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/health_services_programs/consultation-services.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "dc26db2588e1d721fee2c9e3f30353009ca02580a714521346a2eebd8c6911a7",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "dc26db2588e1d721fee2c9e3f30353009ca02580a714521346a2eebd8c6911a7",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/009-consultation-services-in-rural-health-centers.pdf"
+    ],
+    "content_pages": [
+      "content/services/health-services/get-free-check-ups-basic-medicines-and-vaccines.md"
+    ],
+    "qa_checked_content_points": [
+      "35 minutes",
+      "No documentary requirements",
+      "public health nurse"
+    ]
+  },
+  {
+    "service_name": "Immunization Services in Rural Health Centers",
+    "source_service_name": "Immunization Services in Rural Health Centers",
+    "source_service_slug": "immunization-services-in-rural-health-centers",
+    "source_category": "Health Services & Programs",
+    "source_category_slug": "health-services-programs",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/health_services_programs/immunization-services.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "05093b68e72b9658d59a702711945d2d6d8cdce4df65cc8e84322d75a51f31f5",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "05093b68e72b9658d59a702711945d2d6d8cdce4df65cc8e84322d75a51f31f5",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/010-immunization-services-in-rural-health-centers.pdf"
+    ],
+    "content_pages": [
+      "content/services/health-services/get-free-check-ups-basic-medicines-and-vaccines.md",
+      "content/services/health-services/access-maternal-care-and-child-immunization.md"
+    ],
+    "qa_checked_content_points": [
+      "25 minutes",
+      "Wednesdays",
+      "ECCD",
+      "second trimester"
+    ]
+  },
+  {
+    "service_name": "Maternal Health Care in Rural Health Centers",
+    "source_service_name": "Maternal Health Care in Rural Health Centers",
+    "source_service_slug": "maternal-health-care-in-rural-health-centers",
+    "source_category": "Health Services & Programs",
+    "source_category_slug": "health-services-programs",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/health_services_programs/maternal-health-care.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "a8bdb6085ef85680bacf314c4ac8780404464b654fbdf71745121510ee2428c9",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "a8bdb6085ef85680bacf314c4ac8780404464b654fbdf71745121510ee2428c9",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/011-maternal-health-care-in-rural-health-centers.pdf"
+    ],
+    "content_pages": [
+      "content/services/health-services/access-maternal-care-and-child-immunization.md"
+    ],
+    "qa_checked_content_points": ["30-minute", "Thursday", "lactating", "HBMR"]
+  },
+  {
+    "service_name": "Issuance of Business Permit in BPLD",
+    "source_service_name": "Issuance of Business Permit in BPLD",
+    "source_service_slug": "issuance-of-business-permit-in-bpld",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-business-permit.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "089871de57f734c5b7d4a438c8c21aa3b47f606878e3451e4c741e5946f22bee",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "089871de57f734c5b7d4a438c8c21aa3b47f606878e3451e4c741e5946f22bee",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      },
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "4fbf4422996f8cff87a2d27d10dc49dee40a55159d77158fa81b00fd333a6297",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/012-issuance-of-business-permit-in-bpld.pdf",
+      "/documents/angeles-services/002-issuance-of-business-permit-in-bpld.pdf"
+    ],
+    "content_pages": [
+      "content/services/business/apply-for-barangay-clearance-and-mayors-business-permits.md",
+      "content/services/business/renew-permits-and-pay-local-business-taxes.md"
+    ],
+    "qa_checked_content_points": ["BPLD", "two days", "one day", "gross sales"]
+  },
+  {
+    "service_name": "Issuance of Transfer Tax Certificate",
+    "source_service_name": "Issuance of Transfer Tax Certificate",
+    "source_service_slug": "issuance-of-transfer-tax-certificate",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-transfer-tax-certificate.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "1e05a0b2f21b5bcacce34be9d6abcd74b3f5e24a63dcfdba6c355ce6ff892bc8",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "1e05a0b2f21b5bcacce34be9d6abcd74b3f5e24a63dcfdba6c355ce6ff892bc8",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/013-issuance-of-transfer-tax-certificate.pdf"
+    ],
+    "content_pages": [
+      "content/services/taxes-fees/pay-transfer-tax-and-request-certificate.md"
+    ],
+    "qa_checked_content_points": [
+      "0.75%",
+      "₱50",
+      "one hour",
+      "documentary stamp"
+    ]
+  },
+  {
+    "service_name": "Issuance of White & Green Health Certificate/Card",
+    "source_service_name": "Issuance of White & Green Health Certiticate/Card",
+    "source_service_slug": "issuance-of-white-green-health-certiticate-card",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-white-green-health-card.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "25d86e2efd080cd0b3bf26c0ff586df733feb0b8db8211675482b15ba1a020bb",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "25d86e2efd080cd0b3bf26c0ff586df733feb0b8db8211675482b15ba1a020bb",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/014-issuance-of-white-green-health-certiticate-card.pdf"
+    ],
+    "content_pages": [
+      "content/services/health-services/apply-for-worker-health-certificate-cards.md"
+    ],
+    "qa_checked_content_points": ["₱200", "25 minutes", "six months", "1×1"]
+  },
+  {
+    "service_name": "Issuance of Pink Health Certificate/Card",
+    "source_service_name": "Issuance of Pink Health Certificate/Card",
+    "source_service_slug": "issuance-of-pink-health-certificate-card",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-pink-health-card.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "5c0803beb132d8032b79f59d2addf27662ea66f2e63219243f790cacba690b31",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "5c0803beb132d8032b79f59d2addf27662ea66f2e63219243f790cacba690b31",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/015-issuance-of-pink-health-certificate-card.pdf"
+    ],
+    "content_pages": [
+      "content/services/health-services/apply-for-worker-health-certificate-cards.md"
+    ],
+    "qa_checked_content_points": [
+      "₱300",
+      "50 minutes",
+      "Surla",
+      "Gram-staining",
+      "minors"
+    ]
+  },
+  {
+    "service_name": "Issuance of Sanitary Permit with Inspection",
+    "source_service_name": "Issuance of Sanitary Permit with Inspection",
+    "source_service_slug": "issuance-of-sanitary-permit-with-inspection",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-sanitation-with-inspection.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "3d077baa404306903b41f2993f7e7c1c56f943f179e5b3667b751b74a3c6cec2",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "3d077baa404306903b41f2993f7e7c1c56f943f179e5b3667b751b74a3c6cec2",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/016-issuance-of-sanitary-permit-with-inspection.pdf"
+    ],
+    "content_pages": ["content/services/business/apply-for-sanitary-permit.md"],
+    "qa_checked_content_points": [
+      "50%",
+      "five minutes",
+      "one day and 15 minutes"
+    ]
+  },
+  {
+    "service_name": "Issuance of Sanitary Permit without Inspection",
+    "source_service_name": "Issuance of Sanitary Permit without Inspection",
+    "source_service_slug": "issuance-of-sanitary-permit-without-inspection",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-sanitation-without-inspection.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "a9d303bcd3bd88cd6d870f5fde9f79c8cfeca2ed7bc95b5c6a99ecc95f909fad",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "a9d303bcd3bd88cd6d870f5fde9f79c8cfeca2ed7bc95b5c6a99ecc95f909fad",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/017-issuance-of-sanitary-permit-without-inspection.pdf"
+    ],
+    "content_pages": ["content/services/business/apply-for-sanitary-permit.md"],
+    "qa_checked_content_points": [
+      "50%",
+      "five minutes",
+      "one day and 15 minutes"
+    ]
+  },
+  {
+    "service_name": "Issuance of Building Permit",
+    "source_service_name": "Issuance of Building Permit",
+    "source_service_slug": "issuance-of-building-permit",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-building-permit.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "fb0cc9c47c97fdc868aee0f52b94f1836557791ea506f0081de993e42081350d",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "fb0cc9c47c97fdc868aee0f52b94f1836557791ea506f0081de993e42081350d",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      },
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "735c2aeda63cf1dce7258cf1099d2c5fbb3ac968af7960c9eba281b69d3337a8",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/018-issuance-of-building-permit.pdf",
+      "/documents/angeles-services/011-issuance-of-building-permit.pdf"
+    ],
+    "content_pages": [
+      "content/services/housing-land-use/request-zoning-land-use-or-building-permits.md"
+    ],
+    "qa_checked_content_points": [
+      "four hours and 35 minutes",
+      "structural analysis",
+      "soil testing",
+      "3-inch"
+    ]
+  },
+  {
+    "service_name": "Issuance of Occupancy Permit",
+    "source_service_name": "Issuance of Occupancy Permit",
+    "source_service_slug": "issuance-of-occupancy-permit",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-occupancy-permit.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "e7a997ca1c13abaff36142b44849c620749fa7116e1717d9b7927dd147a98e60",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "e7a997ca1c13abaff36142b44849c620749fa7116e1717d9b7927dd147a98e60",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      },
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "563f1b11da8bb8fc2fc91a6da886a564497538cdcf5332b2acf03985b11952fb",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/019-issuance-of-occupancy-permit.pdf",
+      "/documents/angeles-services/013-issuance-of-occupancy-permit.pdf"
+    ],
+    "content_pages": [
+      "content/services/housing-land-use/apply-for-occupancy-permit.md"
+    ],
+    "qa_checked_content_points": [
+      "four hours and 25 minutes",
+      "construction logbook",
+      "completion",
+      "supervision"
+    ]
+  },
+  {
+    "service_name": "Issuance of Certificate of Annual Inspection",
+    "source_service_name": "Issuance of Certificate of Annual Inspection",
+    "source_service_slug": "issuance-of-certificate-of-annual-inspection",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-certificate-of-annual-inspection.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "e360ac5e23210e23c6a5e31fc61d6676890cc6890c2a9e46b45b68b775f38035",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "e360ac5e23210e23c6a5e31fc61d6676890cc6890c2a9e46b45b68b775f38035",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      },
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "53718e6ef8fe82a25293b6b8ce29b64aa8c287f892428ececda69923ea3ffd3e",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/020-issuance-of-certificate-of-annual-inspection.pdf",
+      "/documents/angeles-services/010-issuance-of-certificate-of-annual-inspection.pdf"
+    ],
+    "content_pages": [
+      "content/services/housing-land-use/request-annual-building-inspection-certificate.md"
+    ],
+    "qa_checked_content_points": [
+      "three hours and 30 minutes",
+      "two working days",
+      "optional"
+    ]
+  },
+  {
+    "service_name": "Issuance of Certificate of Electrical Inspection",
+    "source_service_name": "Issuance of Certificate of Electrical Inspection",
+    "source_service_slug": "issuance-of-certificate-of-electrical-inspection",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-certificate-of-electrical-inspection.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "8109eddb7a854109364490c2c98142876231280c5f87e164a57f124149cb1920",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "8109eddb7a854109364490c2c98142876231280c5f87e164a57f124149cb1920",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      },
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "d8e5faf01726e664d2a9c71cefab48fe5f77eb2ccf02dbb359abcd3cbaa02f0a",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/021-issuance-of-certificate-of-electrical-inspection.pdf",
+      "/documents/angeles-services/012-issuance-of-certificate-of-electrical-inspection.pdf"
+    ],
+    "content_pages": [
+      "content/services/housing-land-use/request-electrical-inspection-certificate.md"
+    ],
+    "qa_checked_content_points": [
+      "three hours",
+      "two working days",
+      "Registered Electrical Engineer"
+    ]
+  },
+  {
+    "service_name": "Issuance of Certificate of Zoning Compliance for Building Permit",
+    "source_service_name": "Issuance of Certificate of Zoning Compliance for Building Permit",
+    "source_service_slug": "issuance-of-certificate-of-zoning-compliance-for-building-permit",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-certificate-of-zoning-compliance.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "315658a5979b30941c51feeec2a0206db4af0dbc2a4381de9cee1a5a6173c675",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "315658a5979b30941c51feeec2a0206db4af0dbc2a4381de9cee1a5a6173c675",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/022-issuance-of-certificate-of-zoning-compliance-for-building-permit.pdf"
+    ],
+    "content_pages": [
+      "content/services/housing-land-use/request-zoning-land-use-or-building-permits.md"
+    ],
+    "qa_checked_content_points": [
+      "one day, two hours, and 25 minutes",
+      "homeowners",
+      "Civil Aviation"
+    ]
+  },
+  {
+    "service_name": "Issuance of Zoning Compliance for Business Permit",
+    "source_service_name": "Issuance of Zoning Compliance for Building Permit",
+    "source_service_slug": "issuance-of-zoning-compliance-for-building-permit",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-zoning-compliance.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "4faf9e6832bbd4bdd9a2e237d137f0d86512bdcc19b27905c3a434c0a87a3818",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "4faf9e6832bbd4bdd9a2e237d137f0d86512bdcc19b27905c3a434c0a87a3818",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/023-issuance-of-zoning-compliance-for-building-permit.pdf"
+    ],
+    "content_pages": [
+      "content/services/business/request-business-zoning-compliance.md"
+    ],
+    "qa_checked_content_points": [
+      "₱180",
+      "10 minutes",
+      "one day, one hour, and 15 minutes",
+      "Sketch"
+    ],
+    "source_label_note": "The source record says building permit; the PDF heading and checklist describe business zoning compliance."
+  },
+  {
+    "service_name": "Issuance of Mayor's Permit for Motorized Tricycle for Hire and Public Utility Jeepney",
+    "source_service_name": "Issuance of Mayor's Permit for Motorized Tricyle for Hire and Public Utility Jeenpey",
+    "source_service_slug": "issuance-of-mayor-s-permit-for-motorized-tricyle-for-hire-and-public-utility-jeenpey",
+    "source_category": "Issuance of Permits, Clearances/Certificates",
+    "source_category_slug": "issuance-of-permits-clearances-certificates",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-MCH.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "262082458648c7d8ee636729ec325bfa1bbd1d09cd3d3c668ed4465d8368950d",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "262082458648c7d8ee636729ec325bfa1bbd1d09cd3d3c668ed4465d8368950d",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/024-issuance-of-mayor-s-permit-for-motorized-tricyle-for-hire-and-public-utility-jeenpey.pdf"
+    ],
+    "content_pages": [
+      "content/services/business/apply-for-public-transport-mayors-permit.md"
+    ],
+    "qa_checked_content_points": [
+      "₱100",
+      "₱80",
+      "₱60",
+      "₱20",
+      "30 minutes",
+      "LTFRB"
+    ]
+  },
+  {
+    "service_name": "Assessment for Financial Assistance (Medical/Burial/Educational)",
+    "source_service_name": "Assessment for Financial Assistance (Medical/Burial/Educational)",
+    "source_service_slug": "assessment-for-financial-assistance-medical-burial-educational",
+    "source_category": "Social Welfare Services",
+    "source_category_slug": "social-welfare-services",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/assessment-for-financial-assistance.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "fb53e5a804dfd25635601feb6590b05611440b54c56d3bf8cf64a95dff22b1af",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "fb53e5a804dfd25635601feb6590b05611440b54c56d3bf8cf64a95dff22b1af",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/025-assessment-for-financial-assistance-medical-burial-educational.pdf"
+    ],
+    "content_pages": [
+      "content/services/education/access-educational-support-programs-from-the-lgu.md",
+      "content/services/social-welfare/apply-for-medical-burial-or-educational-financial-assistance.md"
+    ],
+    "qa_checked_content_points": [
+      "within five days",
+      "no fee",
+      "enrollment",
+      "home-visit"
+    ]
+  },
+  {
+    "service_name": "Pre-Marriage Counseling",
+    "source_service_name": "Pre-Marriage Counseling",
+    "source_service_slug": "pre-marriage-counseling",
+    "source_category": "Social Welfare Services",
+    "source_category_slug": "social-welfare-services",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/pre-marriage-counseling.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "0bc185d3402c42b051c758f56d565558d4d86baa75cdc2a11a8c92f7217a9cd4",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "0bc185d3402c42b051c758f56d565558d4d86baa75cdc2a11a8c92f7217a9cd4",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/026-pre-marriage-counseling.pdf"
+    ],
+    "content_pages": [
+      "content/services/social-welfare/attend-pre-marriage-counseling.md"
+    ],
+    "qa_checked_content_points": [
+      "18–25",
+      "Friday",
+      "three-hour",
+      "Notice of Application"
+    ]
+  },
+  {
+    "service_name": "Issuance of Social Case Study Reports and Referral Letters",
+    "source_service_name": "Issuance of Social Case Study Reports and Referral Letters",
+    "source_service_slug": "issuance-of-social-case-study-reports-and-referral-letters",
+    "source_category": "Social Welfare Services",
+    "source_category_slug": "social-welfare-services",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/issuance-of-social-case-study.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "4862c05914abb3d2a4059e25dceaffdbfcbcfe147cbeb7f96640e673b40d4fd1",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "4862c05914abb3d2a4059e25dceaffdbfcbcfe147cbeb7f96640e673b40d4fd1",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/027-issuance-of-social-case-study-reports-and-referral-letters.pdf"
+    ],
+    "content_pages": [
+      "content/services/social-welfare/get-family-and-community-welfare-support.md"
+    ],
+    "qa_checked_content_points": [
+      "within five days",
+      "no fee",
+      "PAO",
+      "hospital pharmacy",
+      "home visit"
+    ]
+  },
+  {
+    "service_name": "Issuance of Senior Citizen ID Card",
+    "source_service_name": "Issuance of Senior Citizen ID Card",
+    "source_service_slug": "issuance-of-senior-citizen-id-card",
+    "source_category": "Social Welfare Services",
+    "source_category_slug": "social-welfare-services",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/issuance-of-senior-citizen-id.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "8582c7161f29ede84c84b3b03addcdac9f13ffe17ddf9b37ac7a8c8fa479a489",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "8582c7161f29ede84c84b3b03addcdac9f13ffe17ddf9b37ac7a8c8fa479a489",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/028-issuance-of-senior-citizen-id-card.pdf"
+    ],
+    "content_pages": [
+      "content/services/social-welfare/apply-for-senior-citizen-solo-parent-or-pwd-assistance.md"
+    ],
+    "qa_checked_content_points": ["60", "six-month", "2×2", "1×1", "30 minutes"]
+  },
+  {
+    "service_name": "Issuance of Real Property Tax Order of Payment",
+    "source_service_name": "Issuance of Real Property Tax Order of Payment",
+    "source_service_slug": "issuance-of-real-property-tax-order-of-payment",
+    "source_category": "Taxes & Fees",
+    "source_category_slug": "taxes-fees",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-real-property-tax-order-of-payment.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "30f5622c5248c3e7b24895913d497e7cc583b162a7e7c4574a94b7ee2f51f95a",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "30f5622c5248c3e7b24895913d497e7cc583b162a7e7c4574a94b7ee2f51f95a",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      },
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "800e9a72e5e0b3c23e40bcd6334fbe0a79b85307becc1da627c7ecfcda2018af",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/029-issuance-of-real-property-tax-order-of-payment.pdf",
+      "/documents/angeles-services/009-issuance-of-real-property-tax-order-of-payment.pdf"
+    ],
+    "content_pages": ["content/services/taxes-fees/pay-real-property-tax.md"],
+    "qa_checked_content_points": [
+      "10-minute",
+      "no fee",
+      "owner’s name",
+      "property location"
+    ]
+  },
+  {
+    "service_name": "Issuance of Certified True Copy of Tax Declaration",
+    "source_service_name": "Issuance of Certified True Copy of Tax Declaration",
+    "source_service_slug": "issuance-of-certified-true-copy-of-tax-declaration",
+    "source_category": "Taxes & Fees",
+    "source_category_slug": "taxes-fees",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-certified-true-copy-of-tax-declaration.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "63d497cd4e9b5e264fdf7405aaa934dc4294107db087952f66a22aa6f9f6e471",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "63d497cd4e9b5e264fdf7405aaa934dc4294107db087952f66a22aa6f9f6e471",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      },
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "ea5cc0fb46712e0f983ca32c30f47853c2cb4eb1539112739e60156ff581ed12",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/030-issuance-of-certified-true-copy-of-tax-declaration.pdf",
+      "/documents/angeles-services/008-issuance-of-certified-true-copy-of-tax-declaration.pdf"
+    ],
+    "content_pages": [
+      "content/services/taxes-fees/request-certified-tax-declaration.md"
+    ],
+    "qa_checked_content_points": ["₱50", "land title", "20 minutes"]
+  },
+  {
+    "service_name": "Issuance of Any Assessment Certification",
+    "source_service_name": "Issuance of Any Assessment Certification",
+    "source_service_slug": "issuance-of-any-assessment-certification",
+    "source_category": "Taxes & Fees",
+    "source_category_slug": "taxes-fees",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-any-assessment-certification.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "f5a7b342761f0e033af761c7932a3d787835b1de61da79ca7df4daa5f4424cef",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "f5a7b342761f0e033af761c7932a3d787835b1de61da79ca7df4daa5f4424cef",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      },
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "acf1fd4c88749e9d32adeb855c9395c8d37c5d2cd2f898d0de3dd7812a4c3909",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/031-issuance-of-any-assessment-certification.pdf",
+      "/documents/angeles-services/007-issuance-of-any-assessment-certification.pdf"
+    ],
+    "content_pages": [
+      "content/services/taxes-fees/request-property-assessment-certification.md"
+    ],
+    "qa_checked_content_points": [
+      "₱50",
+      "20 minutes",
+      "excludes a Certificate of No Improvements"
+    ]
+  },
+  {
+    "service_name": "Payment of Real Property Tax",
+    "source_service_name": "Payment of Real Property Tax",
+    "source_service_slug": "payment-of-real-property-tax",
+    "source_category": "Taxes & Fees",
+    "source_category_slug": "taxes-fees",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/payment-of-real-property-tax.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "fd45f6e9a180229138237239602b8423a2b6fa0d18bce695c8b1b54ca155aa9c",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "fd45f6e9a180229138237239602b8423a2b6fa0d18bce695c8b1b54ca155aa9c",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/032-payment-of-real-property-tax.pdf"
+    ],
+    "content_pages": ["content/services/taxes-fees/pay-real-property-tax.md"],
+    "qa_checked_content_points": [
+      "2%",
+      "1%",
+      "36 months",
+      "72%",
+      "30 minutes",
+      "50 minutes"
+    ]
+  },
+  {
+    "service_name": "Issuance of Community Tax Certificate",
+    "source_service_name": "Issuance of Community Tax Certificate",
+    "source_service_slug": "issuance-of-community-tax-certificate",
+    "source_category": "Taxes & Fees",
+    "source_category_slug": "taxes-fees",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-community-tax-certificate.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "706e6a7ce667a1730c53f6dc4e5d19f9c5f93edc36529f6603f33bca251fa7f2",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "706e6a7ce667a1730c53f6dc4e5d19f9c5f93edc36529f6603f33bca251fa7f2",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/033-issuance-of-community-tax-certificate.pdf"
+    ],
+    "content_pages": [
+      "content/services/taxes-fees/get-community-tax-certificate-cedula.md"
+    ],
+    "qa_checked_content_points": ["₱5", "₱500", "eight minutes", "10 minutes"]
+  },
+  {
+    "service_name": "Payment of Transfer Tax and Issuance of Transfer Tax Certificate",
+    "source_service_name": "Payment of Transfer Tax and Issuance of Transfer Tax Certificate",
+    "source_service_slug": "payment-of-transfer-tax-and-issuance-of-transfer-tax-certificate",
+    "source_category": "Taxes & Fees",
+    "source_category_slug": "taxes-fees",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/payment-of-transfer-tax-and-issuance-of-transfer-tax-certificate.pdf",
+    "source_url": "https://www.angelescity.gov.ph/citizen_charter",
+    "scraped_at": "2026-08-11T16:08:58.180402+00:00",
+    "source_id": "angeles_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "c4480407e13625afc49181f7643d42fde673d3c6e1fb4928b44cd57b85678610",
+    "sources": [
+      {
+        "source_id": "angeles_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/citizen_charter",
+        "retrieved_at": "2026-08-11T16:08:58.180402+00:00",
+        "priority": 100,
+        "content_hash": "c4480407e13625afc49181f7643d42fde673d3c6e1fb4928b44cd57b85678610",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/034-payment-of-transfer-tax-and-issuance-of-transfer-tax-certificate.pdf"
+    ],
+    "content_pages": [
+      "content/services/taxes-fees/pay-transfer-tax-and-request-certificate.md"
+    ],
+    "qa_checked_content_points": [
+      "0.75%",
+      "₱50",
+      "one hour",
+      "documentary stamp"
+    ]
+  },
+  {
+    "service_name": "Business Permit Form",
+    "source_service_name": "Business Permit Form",
+    "source_service_slug": "business-permit-form",
+    "source_category": "Business & Livelihood",
+    "source_category_slug": "business-livelihood",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/BUSINESS-PERMIT-FORM.pdf",
+    "source_url": "https://www.angelescity.gov.ph/business",
+    "scraped_at": "2026-08-11T16:11:20.918164+00:00",
+    "source_id": "angeles_business_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "da10677f073303a2bea15d1093bd1c30ba9f1d1fa033e5de461efdf6f837eff3",
+    "sources": [
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "da10677f073303a2bea15d1093bd1c30ba9f1d1fa033e5de461efdf6f837eff3",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": ["/documents/angeles-services/001-business-permit-form.pdf"],
+    "content_pages": [
+      "content/services/business/apply-for-barangay-clearance-and-mayors-business-permits.md",
+      "content/services/business/renew-permits-and-pay-local-business-taxes.md",
+      "content/services/business/download-business-permit-application-form.md"
+    ],
+    "qa_checked_content_points": [
+      "revision 30",
+      "September 1, 2023",
+      "semi-annual",
+      "quarterly",
+      "TIN"
+    ]
+  },
+  {
+    "service_name": "Issuance of Miscellaneous Permit (Billboards / Signboards / Advertisements / Banners / Streamers)",
+    "source_service_name": "Issuance of Miscellaneous Permit (Billboards / Signboards / Advertisements / Banners / Streamers)",
+    "source_service_slug": "issuance-of-miscellaneous-permit-billboards-signboards-advertisements-banners-streamers",
+    "source_category": "Business & Livelihood",
+    "source_category_slug": "business-livelihood",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-1.pdf",
+    "source_url": "https://www.angelescity.gov.ph/business",
+    "scraped_at": "2026-08-11T16:11:20.918164+00:00",
+    "source_id": "angeles_business_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "302466131be751a2199ca9b2c94dc075bbf9a25e01f44c20f1e46f761fcf7c1d",
+    "sources": [
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "302466131be751a2199ca9b2c94dc075bbf9a25e01f44c20f1e46f761fcf7c1d",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/003-issuance-of-miscellaneous-permit-billboards-signboards-advertisements-banners-streamers.pdf"
+    ],
+    "content_pages": [
+      "content/services/business/apply-for-signage-event-and-miscellaneous-permits.md"
+    ],
+    "qa_checked_content_points": [
+      "20–25 minutes",
+      "Content, size",
+      "display locations"
+    ]
+  },
+  {
+    "service_name": "Issuance of Miscellaneous Permit (Motorcade / Religious / Cultural / Civic / Government Activities)",
+    "source_service_name": "Issuance of Miscellaneous Permit (Motorcade / Religious / Cultural / Civic / Government Activities)",
+    "source_service_slug": "issuance-of-miscellaneous-permit-motorcade-religious-cultural-civic-government-activities",
+    "source_category": "Business & Livelihood",
+    "source_category_slug": "business-livelihood",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-2.pdf",
+    "source_url": "https://www.angelescity.gov.ph/business",
+    "scraped_at": "2026-08-11T16:11:20.918164+00:00",
+    "source_id": "angeles_business_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "99b8988621363feef918532bf0f0d986a5f2982110d7dddce7d295a65e8a0edf",
+    "sources": [
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "99b8988621363feef918532bf0f0d986a5f2982110d7dddce7d295a65e8a0edf",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/004-issuance-of-miscellaneous-permit-motorcade-religious-cultural-civic-government-activities.pdf"
+    ],
+    "content_pages": [
+      "content/services/business/apply-for-signage-event-and-miscellaneous-permits.md"
+    ],
+    "qa_checked_content_points": [
+      "20–25 minutes",
+      "Route or itinerary",
+      "rescheduling"
+    ]
+  },
+  {
+    "service_name": "Issuance of Miscellaneous Permit (Transport of Property / Carnival / Circus / Cockfight / Boxing Match / Victory Party)",
+    "source_service_name": "Issuance of Miscellaneous Permit (Transport of Property / Carnival / Circus / Cockfight / Boxing Match / Victory Party)",
+    "source_service_slug": "issuance-of-miscellaneous-permit-transport-of-property-carnival-circus-cockfight-boxing-match-victory-party",
+    "source_category": "Business & Livelihood",
+    "source_category_slug": "business-livelihood",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-3.pdf",
+    "source_url": "https://www.angelescity.gov.ph/business",
+    "scraped_at": "2026-08-11T16:11:20.918164+00:00",
+    "source_id": "angeles_business_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "3bd18a4e77a286b3b7549d67bb9969ad049fbf11b7d390edb18c329133baed07",
+    "sources": [
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "3bd18a4e77a286b3b7549d67bb9969ad049fbf11b7d390edb18c329133baed07",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/005-issuance-of-miscellaneous-permit-transport-of-property-carnival-circus-cockfight-boxing-match-victory-party.pdf"
+    ],
+    "content_pages": [
+      "content/services/business/apply-for-signage-event-and-miscellaneous-permits.md"
+    ],
+    "qa_checked_content_points": [
+      "20–25 minutes",
+      "contrivances",
+      "lease contract",
+      "Boxing"
+    ]
+  },
+  {
+    "service_name": "Issuance of Miscellaneous Permit (Variety Show / Concert)",
+    "source_service_name": "Issuance of Miscellaneous Permit (Variety Show / Concert)",
+    "source_service_slug": "issuance-of-miscellaneous-permit-variety-show-concert",
+    "source_category": "Business & Livelihood",
+    "source_category_slug": "business-livelihood",
+    "document_url": "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-4.pdf",
+    "source_url": "https://www.angelescity.gov.ph/business",
+    "scraped_at": "2026-08-11T16:11:20.918164+00:00",
+    "source_id": "angeles_business_services",
+    "source_publisher": "Angeles City Government",
+    "source_license": "Public domain unless otherwise stated",
+    "source_license_url": "https://www.angelescity.gov.ph/news",
+    "source_content_hash": "b849845db203fd36a2f4001a9ea0100e27624ba475a82fdb7a9084994881d482",
+    "sources": [
+      {
+        "source_id": "angeles_business_services",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/business",
+        "retrieved_at": "2026-08-11T16:11:20.918164+00:00",
+        "priority": 90,
+        "content_hash": "b849845db203fd36a2f4001a9ea0100e27624ba475a82fdb7a9084994881d482",
+        "license": "Public domain unless otherwise stated",
+        "license_url": "https://www.angelescity.gov.ph/news"
+      }
+    ],
+    "downloads": [
+      "/documents/angeles-services/006-issuance-of-miscellaneous-permit-variety-show-concert.pdf"
+    ],
+    "content_pages": [
+      "content/services/business/apply-for-signage-event-and-miscellaneous-permits.md"
+    ],
+    "qa_checked_content_points": [
+      "20–25 minutes",
+      "“Concert”",
+      "Statement of objective",
+      "schedule of activity"
+    ]
+  }
+]

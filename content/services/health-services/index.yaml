@@ -1,19 +1,16 @@
-# Health Services Category Pages
-# This file contains all the pages/services available under the Health Services category
-
 pages:
-  - name: 'Get free check-ups, basic medicines, and vaccines'
+  - name: 'Get free check-ups and vaccines, and ask about medicines'
     slug: 'get-free-check-ups-basic-medicines-and-vaccines'
-    description: 'Access free medical check-ups, basic medicines, and vaccination services provided by your local government.'
-    
+    description: 'Access the consultation and immunization services listed in Angeles City’s Citizen’s Charter.'
   - name: 'Access maternal care and child immunization'
     slug: 'access-maternal-care-and-child-immunization'
-    description: 'Information about maternal health services and child immunization programs available in your area.'
-    
+    description: 'Find the published maternal care and immunization procedures for Angeles City health centers.'
   - name: 'Go to the local hospital for treatment or confinement'
     slug: 'go-to-the-local-hospital-for-treatment-or-confinement'
-    description: 'Details about local hospital services, treatment options, and confinement procedures.'
-    
+    description: 'Find the documented Angeles City assessment and referral routes for medical assistance.'
   - name: 'Join health programs (nutrition, dengue control, TB treatment)'
     slug: 'join-health-programs-nutrition-dengue-control-tb-treatment'
-    description: 'Participate in various health programs including nutrition support, dengue control, and TB treatment initiatives.'
+    description: 'Ask Angeles City health staff about current nutrition, dengue-control, and TB program access.'
+  - name: 'Apply for worker health certificate cards'
+    slug: 'apply-for-worker-health-certificate-cards'
+    description: 'Prepare requirements for white, green, or pink health cards for workers in Angeles City.'

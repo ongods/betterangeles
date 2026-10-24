@@ -1,0 +1,23 @@
+{
+  "review_date": "2026-10-15",
+  "checks": {
+    "npm run qa:content -- --build": "passed: 42 service pages, LF/CRLF metadata, 105 service/download links, 146 baseline records and 47 archived PDFs",
+    "npm run lint": "passed",
+    "npm run build": "passed: TypeScript and Vite production build; existing large-bundle advisory remains",
+    "all local service, government and PDF links": "passed: 130 links",
+    "government pages": "passed: three listed pages, matching descriptions, resolved companion JSON, all present in build",
+    "new PDF hashes": "passed: both public and built downloads match the official source SHA-256 hashes",
+    "source evidence hashes": "passed: 87 successful compressed/uncompressed source files match response hashes",
+    "baseline preservation": "passed: all 66 baseline files still exist; 35 are unchanged; 31 changed files have byte-identical before copies",
+    "audit data excluded from build": "passed"
+  },
+  "retained_gaps": "17 pre-existing service drafts have no Markdown page and remain documented in the original source manifest.",
+  "source_coverage": {
+    "checked_urls": 141,
+    "original_pdf_urls_returning_404": 47,
+    "current_pdfs_saved": 2,
+    "newly_observed_news_articles": 42,
+    "readable_event_records": 12,
+    "school_dashboard": "Retained; separate DepEd source was outside the city-website review."
+  }
+}

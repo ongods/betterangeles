@@ -1,132 +1,55 @@
-# Renew Permits and Pay Local Business Taxes — Lapu-Lapu City
+# Renew permits and pay local business taxes — Angeles City
 
-Use this guide to renew your **Mayor’s/Business Permit** and **Local Business Taxes (LBT)** with the City Government.
+Use the Angeles City renewal checklist and the published BPLD/BOSS assessment procedure.
 
----
+> Updated October 15, 2026 using the current eBPLS charter and revision 33 application form. The August documents remain available below as historical references.
 
-## Who Must Renew
+## Where to apply
 
-- All businesses operating in Lapu-Lapu City: **sole proprietors, partnerships, corporations, NGOs, cooperatives, online sellers with local presence**, and professionals with a business office.
-- Renewal applies to **main office and each branch**.
+Apply through [Angeles City eBPLS](https://cityofangeles.ph/bpls/), linked from the [official city homepage](https://angelescity.gov.ph/). BPLD/BOSS remains the responsible office.
 
----
+The August charter placed BPLD on the ground floor of City Hall. Its Monday–Friday hours have not been reconfirmed; check the [current city announcements](https://angelescity.gov.ph/news/) for the compressed workweek and holiday arrangements before visiting.
 
-## When to Renew
+## Renewal requirements
 
-- **Annual renewal period:** **First 20 days of January** (as provided in the Local Government Code).
-- **Payments:** either **annually** or **quarterly** (1st qtr due during renewal; next quarters usually due on or before the **20th** day of April, July, and October).
-- Late filings incur **surcharges and interest**.
+The current online charter lists:
 
-> Tip: Prepare your documents **by December** so you can file in the first week of January.
+- Completed eApplication Form for renewal.
+- Barangay clearance.
+- Community Tax Certificate (cedula).
+- Fire Safety Inspection Certification; revision 33 of the paper form also lists BFP certification.
+- Tax-basis documents: BIR-registered businesses submit an income tax return or audited financial statement filed in the immediately preceding year, previous-year quarterly BIR-filed income tax/VAT/percentage-tax returns, or a certified breakdown of sales for businesses with branches. Small businesses submit the previous year's monthly breakdown of sales.
 
----
+Declare gross sales or receipts in the business activity section. The form instructs renewal applicants to complete the other-information section only when information has changed. It offers annual, semi-annual, and quarterly payment choices; confirm which arrangement BPLD permits for your account.
 
-## What You’ll Need (Typical Requirements)
+## Renewal steps
 
-**Business Information**
+1. Register in eBPLS, activate your account through email, and enter your **Business ID Number** to link your existing business.
+2. Complete item 1 of the renewal application and upload scanned requirements in item 4.
+3. Choose pickup or delivery of the original permit, then submit.
+4. Monitor your registered email and upload any additional documents requested.
+5. Check the portal's billing statement and follow its redirect to **Landbank Link.BizPortal** to pay.
+6. Print the electronic permit after approval and follow your pickup or delivery arrangement for the originals.
 
-- Prior year **Mayor’s/Business Permit** and **Official Receipts**.
-- **DTI/SEC/CDA** registration (whichever applies).
-- **BIR** Certificate of Registration (Form 2303) and **Authority to Print** (if any).
-- **Contract of Lease** / **Tax Declaration** / **Certificate of Occupancy** (as applicable).
-- **Valid IDs** of owner or authorized representative (+ **SPA** or Board Resolution if not the owner).
+## Fees, timing, and deadlines
 
-**Revenue/Tax Basis**
+The online charter publishes **three working days**, provided payment is made within that period. Fees depend on assessed gross receipts or capital and the city's tax ordinance. The current documents do not give a complete penalty schedule or annual renewal deadline. Follow up using your registered email, in accordance with the charter's zero-contact policy. Permits remain subject to post-audit inspection or verification.
 
-- **Sworn Declaration of Gross Sales/Receipts** for the **preceding year** (or **Audited FS**/**Accountant-certified** FS if applicable).
-- **Inventory list** (selected industries) and **machine/equipment list** (if applicable).
+### What changed from the August copy?
 
-**Regulatory Clearances** (city/BPLO may route you during assessment)
+The August walk-in charter estimated **one day** for renewal without inspection; this is historical and does not describe the current online timeline. The old form was **revision 30, dated September 1, 2023**. The current form is **revision 33, dated October 1, 2025**, and adds BFP certification to its renewal checklist.
 
-- **Barangay Clearance** (for business).
-- **Sanitary Permit** (Health).
-- **Fire Safety Inspection Certificate (FSIC)** (BFP).
-- **Environmental/Disposal Permits** (if required by the nature of business).
-- **Zoning/Occupancy** updates if there were renovations or transfers.
+Download the [business permit form](/services/business/download-business-permit-application-form). For a separate property-tax transaction, see [real property tax payment](/services/taxes-fees/pay-real-property-tax).
 
-> Note: Actual required clearances vary by business **nature, size, and risk category**. Bring your **previous permits** to guide the checker.
+## Sources
 
----
+- Current eBPLS charter: [saved PDF](/documents/angeles-updates-2026-10-15/eBPLS-Citizen-Charter.pdf) · [official PDF](https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf) · [source page](https://angelescity.gov.ph/citizens-charter/), retrieved October 15, 2026.
+- Current revision 33 form: [saved PDF](/documents/angeles-updates-2026-10-15/BPLD-ABP-001-Rev-33.pdf) · [official PDF](https://angelescity.gov.ph/wp-content/uploads/2026/10/BPLD-ABP-001-Rev-33.pdf), retrieved October 15, 2026.
 
-## Step-by-Step (Walk-In)
+### Archived August 2026 sources
 
-1. **Pre-screening / Queuing**
-   - Go to the **Business One-Stop Shop (BOSS)** during the renewal period.
-   - Get your queue number; submit last year’s permit and basic IDs for pre-check.
+- Issuance of Business Permit in BPLD: [saved PDF](/documents/angeles-services/012-issuance-of-business-permit-in-bpld.pdf) · [official PDF](https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-business-permit.pdf) · [source page](https://www.angelescity.gov.ph/citizen_charter)
+- Alternate official publication: [saved PDF](/documents/angeles-services/002-issuance-of-business-permit-in-bpld.pdf) · [official PDF](https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-BUSINESS-PERMIT.pdf)
+- Business Permit Form: [saved PDF](/documents/angeles-services/001-business-permit-form.pdf) · [official PDF](https://www.angelescity.gov.ph/assets/pdf/business/business_license/BUSINESS-PERMIT-FORM.pdf) · [source page](https://www.angelescity.gov.ph/business)
 
-2. **Application & Declaration**
-   - Fill out the **Business Renewal Form** and the **Sworn Declaration of Gross Sales/Receipts**.
-   - Declare any **changes** (business name, nature, capitalization, number of employees, floor area, machinery, location).
-
-3. **Regulatory Routing**
-   - The evaluator will route you (if needed) to: **Barangay**, **Sanitary/Health**, **Zoning**, **Environmental**, and **BFP** for assessment/inspection.
-
-4. **Assessment**
-   - **BPLO** computes **Local Business Tax**, **Regulatory Fees**, and **Other Charges** (signage, garbage, sanitary, etc.).
-   - Choose **Annual** or **Quarterly** payment.
-
-5. **Payment**
-   - Pay at the **City Treasurer’s** cashier or accredited payment options (if available).
-   - Receive **Official Receipt(s)**.
-
-6. **Releasing**
-   - Claim your **Mayor’s/Business Permit**, **FSIC/Sanitary**, **Stickers/Plates**, and **Occupational permits** (if issued with the pack).
-   - Post the permit and required notices **conspicuously** at your place of business.
-
----
-
-## (If Available) Online / Hybrid Filing
-
-- Some transactions may be done via the city’s **online business portal** or **pre-assessment** channels (if announced).
-- Prepare **scanned PDFs** of your documents (clear, legible; 1 file per requirement).
-- After online assessment, proceed to **payment** (e-payment or onsite) and **permit releasing** per instructions.
-
-> If unsure, confirm at the start of the renewal period if **online pre-filing** is open for your business type.
-
----
-
-## How Your Dues Are Computed
-
-- **Local Business Tax (LBT):** Based on **gross sales/receipts** of the prior year and your **business category** (rates and brackets per local tax ordinance).
-- **Regulatory/Service Fees:** e.g., **Sanitary**, **Zoning**, **Garbage**, **Signage**, **Occupational**, and **Fire** fees/clearances.
-- **Other Assessments:** May apply for **delivery vehicles**, **storage/stockrooms**, **machinery**, or **special permits**.
-
----
-
-## Penalties for Late Renewal
-
-- **Surcharge** (commonly up to **25%** of the tax due) **plus** **monthly interest** (commonly up to **2% per month**) until fully paid, subject to the city’s ordinance caps.
-- Possible **closure/tagging** and **inspection findings** if you continue operations without a valid permit.
-
----
-
-## Changes You Must Report
-
-- **Change of address**, **trade/brand name**, **ownership structure**, **business activity**, **floor area**, **machinery**, or **employee count**.
-- **Temporary closure** or **permanent cessation**:
-  - File a **Business Retirement** to stop tax accruals.
-  - Submit **inventory and last day of operation**, settle any **delinquencies**, and surrender old permits/plates.
-
----
-
-## Practical Tips
-
-- **Bring copies** of everything (and soft copies on a USB/phone).
-- If you had **renovations** or **new equipment**, bring **permits/invoices**—it speeds up Zoning/BFP review.
-- **Coordinate early** with your **lessor** for building-related documents (occupancy, fire compliance).
-- For **food/health businesses**, schedule **Sanitary inspections** early; ensure staff have updated **health cards** if required.
-- Keep a **renewal calendar**: Q2/Q3/Q4 due dates if you chose quarterly.
-
----
-
-## Quick Checklist (Print This)
-
-- [ ] Last year’s **Mayor’s/Business Permit** and **ORs**
-- [ ] **DTI/SEC/CDA** registration & **BIR 2303**
-- [ ] **Lease/Occupancy**/Tax Declaration (as applicable)
-- [ ] **Sworn Gross Sales/Receipts** (prev. year) / **FS**
-- [ ] **Barangay Clearance** (business)
-- [ ] **Sanitary** & **FSIC** (and other routed clearances)
-- [ ] **Valid ID** / **SPA or Board Resolution** for representative
-- [ ] Payment (cash/card) for **taxes & fees**
-- [ ] Collect **Permit**, **Stickers/Plates**, post on site
+Saved charter copies are optimized for reading. Official source links and document provenance are retained for verification.

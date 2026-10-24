@@ -1,19 +1,19 @@
-# Social Welfare Category Pages
-# This file contains all the pages/services available under the Social Welfare category
-
 pages:
   - name: 'Apply for senior citizen, solo parent, or PWD assistance'
     slug: 'apply-for-senior-citizen-solo-parent-or-pwd-assistance'
-    description: 'Information about applying for assistance programs for senior citizens, solo parents, and persons with disabilities.'
-    
+    description: 'Find the published senior citizen ID procedure and ask about other assistance programs in Angeles City.'
   - name: 'Receive relief goods or cash aid during disasters'
     slug: 'receive-relief-goods-or-cash-aid-during-disasters'
     description: 'How to access relief goods and cash assistance during natural disasters and emergencies.'
-    
   - name: 'Join livelihood or skills training programs'
     slug: 'join-livelihood-or-skills-training-programs'
     description: 'Participate in livelihood and skills training programs offered by your local government.'
-    
   - name: 'Get family and community welfare support'
     slug: 'get-family-and-community-welfare-support'
-    description: 'Access family and community welfare support services from your local government.'
+    description: 'Request an Angeles City social case study report or referral letter for assistance from another institution.'
+  - name: 'Apply for medical, burial, or educational financial assistance'
+    slug: 'apply-for-medical-burial-or-educational-financial-assistance'
+    description: 'Request a CSWDO assessment for medical, burial, or educational assistance in Angeles City.'
+  - name: 'Attend pre-marriage counseling'
+    slug: 'attend-pre-marriage-counseling'
+    description: 'Arrange the published pre-marriage counseling and responsible parenthood seminar for Angeles City applicants.'

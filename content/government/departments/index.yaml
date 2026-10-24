@@ -4,7 +4,10 @@
 pages:
   - name: 'Executive'
     slug: 'executive'
-    description: "Find out about your Mayor and Vice Mayor, including upcoming events, the Mayor's Community Assistance Program, mayoral history, and information about other historic roles in the local government unit."
+    description: 'Find the Angeles City mayor, vice mayor, and official sources for their programs.'
   - name: 'Legislative'
     slug: 'legislative'
-    description: 'As of the 2025–2028 term, the Sangguniang Panlungsod (City Council) of Lapu-Lapu City has 12 elected councilors, with the Vice Mayor as the presiding officer of the council.'
+    description: 'Compare the current Angeles City council labels with the saved local roster.'
+  - name: 'City Hall office schedules'
+    slug: 'office-schedules'
+    description: 'Check the city government workweek and the dated October 2026 office schedule advisory.'

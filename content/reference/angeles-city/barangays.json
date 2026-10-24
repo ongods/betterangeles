@@ -1,0 +1,662 @@
+[
+  {
+    "name": "Agapito del Rosario",
+    "detail_url": "https://www.angelescity.gov.ph/agapito_del_rosario",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "48661075b4c493f8eab171d625b0dd36a9df7a9b74ec5ab5ebff41db0f24d596",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "48661075b4c493f8eab171d625b0dd36a9df7a9b74ec5ab5ebff41db0f24d596"
+      }
+    ]
+  },
+  {
+    "name": "Amsic",
+    "detail_url": "https://www.angelescity.gov.ph/amsic",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "689f55f7a223c4d510f645f55ebfd1e6c6f4ac0232753e80d87fe6e93098f09b",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "689f55f7a223c4d510f645f55ebfd1e6c6f4ac0232753e80d87fe6e93098f09b"
+      }
+    ]
+  },
+  {
+    "name": "Anunas",
+    "detail_url": "https://www.angelescity.gov.ph/anunas",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "127a4921ed1a36b6fedd3b8c1bcf902c68a9624fd5bf6957d88af2fec0c46059",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "127a4921ed1a36b6fedd3b8c1bcf902c68a9624fd5bf6957d88af2fec0c46059"
+      }
+    ]
+  },
+  {
+    "name": "Balibago",
+    "detail_url": "https://www.angelescity.gov.ph/balibago",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "f16821e7bb8f5b827a9e435e427d2017fbc00497b731bd7890576bf054dcbf91",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "f16821e7bb8f5b827a9e435e427d2017fbc00497b731bd7890576bf054dcbf91"
+      }
+    ]
+  },
+  {
+    "name": "Capaya",
+    "detail_url": "https://www.angelescity.gov.ph/capaya",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "24a25878918bbf6006520a1e557825fc15924b4a493ce2ab72004ab633070c1c",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "24a25878918bbf6006520a1e557825fc15924b4a493ce2ab72004ab633070c1c"
+      }
+    ]
+  },
+  {
+    "name": "Claro M. Recto",
+    "detail_url": "https://www.angelescity.gov.ph/claro_m_recto",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "b137182150a0a247c2b443664e1000125f20a397a9cd67ac1266367c290a0317",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "b137182150a0a247c2b443664e1000125f20a397a9cd67ac1266367c290a0317"
+      }
+    ]
+  },
+  {
+    "name": "Cuayan",
+    "detail_url": "https://www.angelescity.gov.ph/cuayan",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "324931a2fa122174fc5eabbd9a93c102a2746b9716d1762f667a3665363d11a6",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "324931a2fa122174fc5eabbd9a93c102a2746b9716d1762f667a3665363d11a6"
+      }
+    ]
+  },
+  {
+    "name": "Cutcut",
+    "detail_url": "https://www.angelescity.gov.ph/cutcut",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "f0023e02db8cb64ecdb7be0843c540589fb4178c579fb46ce0d77a2f971941aa",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "f0023e02db8cb64ecdb7be0843c540589fb4178c579fb46ce0d77a2f971941aa"
+      }
+    ]
+  },
+  {
+    "name": "Cutud",
+    "detail_url": "https://www.angelescity.gov.ph/cutud",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "597ea5d555870160efff0b0762049d93528f456ec9086c8cf1e7c9407802122b",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "597ea5d555870160efff0b0762049d93528f456ec9086c8cf1e7c9407802122b"
+      }
+    ]
+  },
+  {
+    "name": "Lourdes North West",
+    "detail_url": "https://www.angelescity.gov.ph/lourdes_north_west",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "2e6e0c46dce933040d55b51da4ba96d11b7dc66a3867e75771136cc136ef9067",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "2e6e0c46dce933040d55b51da4ba96d11b7dc66a3867e75771136cc136ef9067"
+      }
+    ]
+  },
+  {
+    "name": "Lourdes Sur (Talimundoc)",
+    "detail_url": "https://www.angelescity.gov.ph/lourdes_sur",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "29d09c265b02fcb2eb25fd177e81c5953a55f7eb4bc98f599459304bec229f13",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "29d09c265b02fcb2eb25fd177e81c5953a55f7eb4bc98f599459304bec229f13"
+      }
+    ]
+  },
+  {
+    "name": "Lourdes Sur East",
+    "detail_url": "https://www.angelescity.gov.ph/lourdes_sur_east",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "709e35ed215ef8d7771fce3557efa1975b80d2a5f5d3e1c91fb9a43db8d9f2ce",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "709e35ed215ef8d7771fce3557efa1975b80d2a5f5d3e1c91fb9a43db8d9f2ce"
+      }
+    ]
+  },
+  {
+    "name": "Malabañas",
+    "detail_url": "https://www.angelescity.gov.ph/malabañas",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "335f75d7fabf4c18bc725619d4cf17ba936f0a794a0650ac7a131e980c14ddd5",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "335f75d7fabf4c18bc725619d4cf17ba936f0a794a0650ac7a131e980c14ddd5"
+      }
+    ]
+  },
+  {
+    "name": "Margot",
+    "detail_url": "https://www.angelescity.gov.ph/margot",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "afbf819ec397c896f033b24db2fe2d528657680240e491276233ca640eb28359",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "afbf819ec397c896f033b24db2fe2d528657680240e491276233ca640eb28359"
+      }
+    ]
+  },
+  {
+    "name": "Marisol (Ninoy Aquino)",
+    "detail_url": "https://www.angelescity.gov.ph/marisol",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "0d5e90df63e305415600ca278ef341613aaae242a32bdaae14f8d789193881d3",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "0d5e90df63e305415600ca278ef341613aaae242a32bdaae14f8d789193881d3"
+      }
+    ]
+  },
+  {
+    "name": "Mining",
+    "detail_url": "https://www.angelescity.gov.ph/mining",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "31530d957a54a5356a5e4620b602c521f41f4725f10f3f3ebb8b0552deff8eb1",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "31530d957a54a5356a5e4620b602c521f41f4725f10f3f3ebb8b0552deff8eb1"
+      }
+    ]
+  },
+  {
+    "name": "Pampang (Santo Niño)",
+    "detail_url": "https://www.angelescity.gov.ph/pampang",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "05309cf066c5e132b019b40337d497768e2d01fd4d7d47faee23243c9df45013",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "05309cf066c5e132b019b40337d497768e2d01fd4d7d47faee23243c9df45013"
+      }
+    ]
+  },
+  {
+    "name": "Pandan",
+    "detail_url": "https://www.angelescity.gov.ph/pandan",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "f17d6257f2f1516630733181b0326b5a17cb8da1bd6ce30ec2a2ba9c39b9f77a",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "f17d6257f2f1516630733181b0326b5a17cb8da1bd6ce30ec2a2ba9c39b9f77a"
+      }
+    ]
+  },
+  {
+    "name": "Pulung Bulu",
+    "detail_url": "https://www.angelescity.gov.ph/pulung_bulu",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "6446dc44dea89f0691c4e9c57db31052533365977cba19a3b9d886601862723f",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "6446dc44dea89f0691c4e9c57db31052533365977cba19a3b9d886601862723f"
+      }
+    ]
+  },
+  {
+    "name": "Pulung Cacutud",
+    "detail_url": "https://www.angelescity.gov.ph/pulung_cacutud",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "d6629fa55405fa4c9cbb1a089a5b392b14035cc655bafd03110cbf43ac95e799",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "d6629fa55405fa4c9cbb1a089a5b392b14035cc655bafd03110cbf43ac95e799"
+      }
+    ]
+  },
+  {
+    "name": "Pulung Maragul",
+    "detail_url": "https://www.angelescity.gov.ph/pulung_maragul",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "f17f6a7895a4e51d295efbb6e093211874b404c9f7db6f078da60c7be5dcbc09",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "f17f6a7895a4e51d295efbb6e093211874b404c9f7db6f078da60c7be5dcbc09"
+      }
+    ]
+  },
+  {
+    "name": "Salapungan",
+    "detail_url": "https://www.angelescity.gov.ph/salapungan",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "af16656c98761b83cd2e873d252a8357ea324e3c6a7c848f299b1c7aa2f12874",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "af16656c98761b83cd2e873d252a8357ea324e3c6a7c848f299b1c7aa2f12874"
+      }
+    ]
+  },
+  {
+    "name": "San José",
+    "detail_url": "https://www.angelescity.gov.ph/san_jose",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "7cbebebb29277cf881dd1808fdf2f3d99e96124b7cd11f5fee19ded2f2c9d084",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "7cbebebb29277cf881dd1808fdf2f3d99e96124b7cd11f5fee19ded2f2c9d084"
+      }
+    ]
+  },
+  {
+    "name": "San Nicolas",
+    "detail_url": "https://www.angelescity.gov.ph/san_nicholas",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "93ff2259e06e1bda358f8db32f7ece5071ecd94a4715290f8248d9a827ef0e71",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "93ff2259e06e1bda358f8db32f7ece5071ecd94a4715290f8248d9a827ef0e71"
+      }
+    ]
+  },
+  {
+    "name": "Santa Teresita",
+    "detail_url": "https://www.angelescity.gov.ph/santa_teresita",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "cc7f04e8539cbedd656774581ea333993dd08a2d786d73bbabb1772597f8926f",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "cc7f04e8539cbedd656774581ea333993dd08a2d786d73bbabb1772597f8926f"
+      }
+    ]
+  },
+  {
+    "name": "Santa Trinidad",
+    "detail_url": "https://www.angelescity.gov.ph/santa_trinidad",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "086820c39c34029c3987579e18a73873ad60a4cb21eb84d3b9e2473db94355c0",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "086820c39c34029c3987579e18a73873ad60a4cb21eb84d3b9e2473db94355c0"
+      }
+    ]
+  },
+  {
+    "name": "Santo Cristo",
+    "detail_url": "https://www.angelescity.gov.ph/santo_cristo",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "bea44671c0967b948cc377f8e7d5c4404aed75547a8038892451a4b68dfb55be",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "bea44671c0967b948cc377f8e7d5c4404aed75547a8038892451a4b68dfb55be"
+      }
+    ]
+  },
+  {
+    "name": "Santo Domingo",
+    "detail_url": "https://www.angelescity.gov.ph/santo_domingo",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "8f0c2d3f156cf3aabd653a1115733d72e3778e9763c2dc51129e19c6de421630",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "8f0c2d3f156cf3aabd653a1115733d72e3778e9763c2dc51129e19c6de421630"
+      }
+    ]
+  },
+  {
+    "name": "Santo Rosario (Población)",
+    "detail_url": "https://www.angelescity.gov.ph/santo_rosario",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "7b27f7dda24eda6164359f4573e80e212d942037a7a960be9de85ada8718b8ff",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "7b27f7dda24eda6164359f4573e80e212d942037a7a960be9de85ada8718b8ff"
+      }
+    ]
+  },
+  {
+    "name": "Sapalibutad",
+    "detail_url": "https://www.angelescity.gov.ph/sapalibutad",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "855c1464ba8eb6cadd61e5be8b6f0e8bf30e61bc5117a6042699696f937e4f00",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "855c1464ba8eb6cadd61e5be8b6f0e8bf30e61bc5117a6042699696f937e4f00"
+      }
+    ]
+  },
+  {
+    "name": "Sapangbato",
+    "detail_url": "https://www.angelescity.gov.ph/sapang_bato",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "6c65429aab261c6d44af4dfe47999f3c1db812741b513e4d9ef9d0e8172efba7",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "6c65429aab261c6d44af4dfe47999f3c1db812741b513e4d9ef9d0e8172efba7"
+      }
+    ]
+  },
+  {
+    "name": "Tabun",
+    "detail_url": "https://www.angelescity.gov.ph/tabun",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "d90aeb457df9b6dbfcb8ef4a2f652536a5fd90250d2569120fa31622b9b0f270",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "d90aeb457df9b6dbfcb8ef4a2f652536a5fd90250d2569120fa31622b9b0f270"
+      }
+    ]
+  },
+  {
+    "name": "Virgen Delos Remedios",
+    "detail_url": "https://www.angelescity.gov.ph/virgen_delos_remedios",
+    "source_url": "https://www.angelescity.gov.ph/city_barangays",
+    "scraped_at": "2026-08-09T08:18:46.946159+00:00",
+    "source_id": "angeles_barangays",
+    "source_publisher": "Angeles City Government",
+    "source_priority": 90,
+    "content_hash": "463c982d2b653b973a8911947c9619f72ff77f7c4ffbedc670b80f1f6b6061ac",
+    "sources": [
+      {
+        "source_id": "angeles_barangays",
+        "publisher": "Angeles City Government",
+        "url": "https://www.angelescity.gov.ph/city_barangays",
+        "retrieved_at": "2026-08-09T08:18:46.946159+00:00",
+        "priority": 90,
+        "content_hash": "463c982d2b653b973a8911947c9619f72ff77f7c4ffbedc670b80f1f6b6061ac"
+      }
+    ]
+  }
+]
