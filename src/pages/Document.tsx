@@ -115,7 +115,7 @@ export default function Document({
       }
     };
 
-    loadContent();
+    void loadContent();
   }, [documentSlug, category, categoryType]);
 
   if (loading) {

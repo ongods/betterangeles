@@ -14,13 +14,18 @@ const resources = {
   },
 };
 
-i18n.use(initReactI18next).init({
-  resources,
-  lng: 'en', // default language
-  fallbackLng: 'en',
-  interpolation: {
-    escapeValue: false, // React already does escaping
-  },
-});
+i18n
+  .use(initReactI18next)
+  .init({
+    resources,
+    lng: 'en', // default language
+    fallbackLng: 'en',
+    interpolation: {
+      escapeValue: false, // React already does escaping
+    },
+  })
+  .catch(error => {
+    console.error('Failed to initialize translations:', error);
+  });
 
 export default i18n;

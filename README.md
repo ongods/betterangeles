@@ -16,7 +16,7 @@ A modern, multilingual, and accessible website template designed specifically fo
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js 22.14+ (the development version is pinned in `.nvmrc`)
 - npm or yarn
 - Git
 
@@ -45,7 +45,7 @@ A modern, multilingual, and accessible website template designed specifically fo
 4. **Install dependencies**
 
    ```bash
-   npm install
+   npm ci
    # or
    yarn install
    ```
@@ -69,13 +69,21 @@ A modern, multilingual, and accessible website template designed specifically fo
 7. **Open your browser**
    Navigate to `http://localhost:5173`
 
+## Quality checks
+
+Run `npm run check` for formatting, lint, TypeScript, regression tests, and
+content QA. Run `npm run check:ci` to also build the site and verify the built
+content. See [the development guide](docs/DEVELOPMENT.md) for test conventions,
+architecture boundaries, hooks, and the existing tools considered for this
+harness.
+
 ## 📚 Documentation
 
-- **[STARTER-KIT-README.md](STARTER-KIT-README.md)** - Complete setup and customization guide
-- **[CONTENT-GUIDE.md](CONTENT-GUIDE.md)** - Content writing and contribution guidelines
-- **[CONTENT-MANAGEMENT.md](CONTENT-MANAGEMENT.md)** - Guide for non-technical users to edit and manage website content
-- **[DEPLOYMENT-GUIDE.md](DEPLOYMENT-GUIDE.md)** - Deployment instructions for Vercel and other platforms
-- **[STARTER-KIT-SUMMARY.md](STARTER-KIT-SUMMARY.md)** - Audit results and implementation summary
+- **[STARTER-KIT-README.md](docs/STARTER-KIT-README.md)** - Complete setup and customization guide
+- **[CONTENT-GUIDE.md](docs/CONTENT-GUIDE.md)** - Content writing and contribution guidelines
+- **[CONTENT-MANAGEMENT.md](docs/CONTENT-MANAGEMENT.md)** - Guide for non-technical users to edit and manage website content
+- **[DEPLOYMENT-GUIDE.md](docs/DEPLOYMENT-GUIDE.md)** - Deployment instructions for Vercel and other platforms
+- **[STARTER-KIT-SUMMARY.md](docs/STARTER-KIT-SUMMARY.md)** - Audit results and implementation summary
 - **[CHANGELOG.md](CHANGELOG.md)** - Version history and release notes
 
 ## 🎯 Perfect For
@@ -192,7 +200,7 @@ We welcome contributions from everyone! Whether you're a developer, government o
 
 1. **Create a GitHub account** (free at github.com)
 2. **Navigate to the repository** in your web browser
-3. **Use our detailed guide**: [CONTENT-MANAGEMENT.md](CONTENT-MANAGEMENT.md) - Complete step-by-step instructions for editing content without any technical knowledge
+3. **Use our detailed guide**: [CONTENT-MANAGEMENT.md](docs/CONTENT-MANAGEMENT.md) - Complete step-by-step instructions for editing content without any technical knowledge
 
 #### What You Can Contribute
 
@@ -297,7 +305,7 @@ git push origin main
 
 ### 🆘 Need Help?
 
-- **For Content Questions**: Check [CONTENT-MANAGEMENT.md](CONTENT-MANAGEMENT.md)
+- **For Content Questions**: Check [CONTENT-MANAGEMENT.md](docs/CONTENT-MANAGEMENT.md)
 - **For Technical Issues**: Open an issue on GitHub
 - **For General Questions**: Contact the project maintainers
 
