@@ -92,6 +92,25 @@ line endings consistent across Windows and Linux; binary downloads remain binary
 evidence, review snapshots, and their recorded hashes must retain their bytes.
 Published content and application code remain checked.
 
+The November planning import adds a separate immutable Google Doc snapshot and
+publication inventory under `content/reference/angeles-city`. The offline
+`scripts/import-angeles-planning.mjs` produces curated records in
+`src/data/angeles.json`; it does not make reference evidence a runtime dependency.
+`scripts/qa-angeles-planning.mjs` is included in content QA and checks source
+identifiers, canonical barangay rows, snapshot integrity, inventory consistency,
+and planning-evidence exclusion from the build. See
+[implementation status](IMPLEMENTATION-STATUS.md) before refreshing a dataset.
+
+Culture and events loads the official city's public Events Calendar and
+WordPress news APIs directly in the browser. Requests omit credentials, bypass
+the browser cache, and time out after 15 seconds. The page refreshes on visit,
+every five minutes while visible, when it regains focus, and on manual refresh.
+An unavailable feed does not hide the other feed; an earlier successful response
+is labeled with its last successful update if refresh fails. There is no static
+event fallback. The city currently allows cross-origin reads; an upstream policy
+change will show the error state and official-site link. Tests mock the feeds, so
+the quality harness remains independent of network availability.
+
 ## Existing tools considered
 
 The repository already had ESLint, Prettier, strict TypeScript, Husky,
