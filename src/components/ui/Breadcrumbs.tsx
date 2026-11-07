@@ -44,7 +44,7 @@ const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items, className = '' }) => {
 
   return (
     <nav
-      className={`flex items-center space-x-1 text-sm text-gray-600 ${className}`}
+      className={`flex flex-wrap items-center gap-y-2 space-x-1 text-sm text-gray-700 ${className}`}
       aria-label="Breadcrumb"
     >
       {breadcrumbItems.map((item, index) => (

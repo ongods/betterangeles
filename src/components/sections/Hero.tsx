@@ -1,21 +1,34 @@
-import { useTranslation } from 'react-i18next';
+import { Link } from 'react-router-dom';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
+import ServiceSearchForm from '../ui/ServiceSearchForm';
 
 export default function Hero() {
-  const { t } = useTranslation();
   return (
-    <div className="bg-gradient-to-r from-primary-600 to-primary-700 text-white py-12 md:py-24">
+    <section className="dark-surface bg-primary-800 text-white py-12 md:py-20">
       <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
-          {/* Left section with title and search */}
-          <div className="animate-fade-in">
-            <Text transform="uppercase">Welcome to</Text>
-            <Heading>{import.meta.env.VITE_GOVERNMENT_NAME}</Heading>
-            <Text>{t('hero.subtitle')}</Text>
-          </div>
-        </div>
+        <Heading className="max-w-3xl text-white leading-tight mb-5">
+          Your guide to Angeles City
+        </Heading>
+        <Text className="max-w-2xl text-primary-100 mb-8">
+          Find service requirements, prepare for a visit, and get to the right
+          government office.
+        </Text>
+        <ServiceSearchForm />
+        <p className="mt-5 text-sm text-primary-100">
+          A community guide. Transactions take place through{' '}
+          <a
+            className="text-white underline"
+            href="https://angelescity.gov.ph/"
+          >
+            official city services
+          </a>
+          .
+        </p>
+        <Link to="/services" className="inline-block mt-4 text-white underline">
+          Browse all service guides
+        </Link>
       </div>
-    </div>
+    </section>
   );
 }
