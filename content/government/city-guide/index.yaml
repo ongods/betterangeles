@@ -1,0 +1,9 @@
+title: 'Using BetterAngeles'
+description: 'Help, source information, and accessibility guidance for this community guide.'
+pages:
+  - name: 'Contact & Help'
+    slug: 'contact'
+    description: 'Find official transaction destinations and report a correction to BetterAngeles.'
+  - name: 'Accessibility'
+    slug: 'accessibility'
+    description: 'Ways to navigate this guide and report access barriers.'

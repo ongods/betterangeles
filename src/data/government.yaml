@@ -3,6 +3,10 @@
 # Non-technical users can easily edit this file to add, remove, or modify local government activity
 
 categories:
+  - category: 'Using BetterAngeles'
+    slug: 'city-guide'
+    description: 'Help, source information, and accessibility guidance for this community guide.'
+    icon: 'Info'
   - category: 'Departments'
     slug: 'departments'
     description: 'Explore local government departments, agencies, and offices with their mandates, services, and contact details.'

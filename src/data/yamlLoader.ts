@@ -46,6 +46,7 @@ import civilDocumentsIndex from '../../content/services/civil-documents/index.ya
 import taxesFeesIndex from '../../content/services/taxes-fees/index.yaml?raw';
 import governmentDepartmentsIndex from '../../content/government/departments/index.yaml?raw';
 import governmentDepartmentsLegislativeIndex from '../../content/government/departments/legislative/index.yaml?raw';
+import cityGuideIndex from '../../content/government/city-guide/index.yaml?raw';
 
 // Create a mapping of category slugs to their YAML content
 const categoryIndexMap: { [key: string]: string } = {
@@ -63,6 +64,7 @@ const categoryIndexMap: { [key: string]: string } = {
   'taxes-fees': taxesFeesIndex,
   departments: governmentDepartmentsIndex,
   legislative: governmentDepartmentsLegislativeIndex,
+  'city-guide': cityGuideIndex,
 };
 
 // Parse the YAML content

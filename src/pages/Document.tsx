@@ -3,12 +3,13 @@ import Breadcrumbs from '../components/ui/Breadcrumbs';
 import { Heading } from '../components/ui/Heading';
 import { Text } from '../components/ui/Text';
 import { Banner } from '@bettergov/kapwa/banner';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import {
   loadMarkdownContent,
+  hasMarkdownContent,
   type MarkdownContent,
 } from '../lib/markdownLoader';
 import { createMarkdownComponents } from '../lib/markdownComponents';
@@ -23,17 +24,25 @@ import {
   type CategoryIndex,
 } from '../data/yamlLoader';
 import SEO from '../components/SEO';
+import { hasServicePage } from '../data/serviceCatalog';
 
 interface DocumentProps {
   theme?: string;
   categoryType?: 'service' | 'government';
+  categoryOverride?: string;
+  slugOverride?: string;
 }
 
 export default function Document({
   theme: initialTheme = 'default',
   categoryType,
+  categoryOverride,
+  slugOverride,
 }: DocumentProps) {
-  const { documentSlug, category } = useParams();
+  const params = useParams();
+  const documentSlug = slugOverride ?? params.documentSlug;
+  const category = categoryOverride ?? params.category;
+  const [missingGuide, setMissingGuide] = useState<Subcategory | null>(null);
   const [markdownContent, setMarkdownContent] =
     useState<MarkdownContent | null>(null);
   const [nestedIndex, setNestedIndex] = useState<CategoryIndex | null>(null);
@@ -59,6 +68,7 @@ export default function Document({
       try {
         setLoading(true);
         setError(null);
+        setMissingGuide(null);
 
         const isGovernment = categoryType === 'government';
         const categories = isGovernment
@@ -69,7 +79,10 @@ export default function Document({
         const categoryData = categories.find(c => c.slug === category);
 
         // If the slug maps to its own index, render it as a nested listing
-        if (isNestedCategory(documentSlug)) {
+        if (
+          isNestedCategory(documentSlug) &&
+          !hasMarkdownContent(documentSlug, category, categoryType)
+        ) {
           const index = await getCategorySubcategories(documentSlug);
           setNestedIndex(index);
           setBreadcrumbs([
@@ -85,6 +98,17 @@ export default function Document({
             },
           ]);
           return;
+        }
+
+        if (!isGovernment && !hasServicePage(category, documentSlug)) {
+          const index = await getCategorySubcategories(category);
+          const listedPage = index.pages.find(
+            page => page.slug === documentSlug
+          );
+          if (listedPage) {
+            setMissingGuide(listedPage);
+            return;
+          }
         }
 
         const content = await loadMarkdownContent(
@@ -122,6 +146,25 @@ export default function Document({
     return (
       <Section className="p-3 mb-12">
         <Banner type="info" description="Loading document..." />
+      </Section>
+    );
+  }
+
+  if (missingGuide) {
+    return (
+      <Section>
+        <SEO title={missingGuide.name} />
+        <Breadcrumbs className="mb-6" />
+        <Heading>{missingGuide.name}</Heading>
+        <Text className="mb-5">
+          A supported guide for this topic is not available yet. This does not
+          mean the city does not offer the service.
+        </Text>
+        <p>
+          <Link to="/services">Search available guides</Link> or use{' '}
+          <Link to="/contact">Contact & Help</Link> to find official
+          destinations and suggest a source.
+        </p>
       </Section>
     );
   }

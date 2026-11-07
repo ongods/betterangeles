@@ -23,6 +23,21 @@ export interface MarkdownContent {
   data?: Record<string, unknown>;
 }
 
+const markdownFiles = new Set(
+  Object.keys(import.meta.glob('../../content/{government,services}/*/*.md'))
+);
+
+export function hasMarkdownContent(
+  documentSlug: string,
+  categorySlug: string,
+  categoryType: 'service' | 'government'
+): boolean {
+  const tree = categoryType === 'government' ? 'government' : 'services';
+  return markdownFiles.has(
+    `../../content/${tree}/${categorySlug}/${documentSlug}.md`
+  );
+}
+
 /**
  * Loads markdown content from the appropriate content directory.
  * Also attempts to load a companion JSON file (same slug) for template
