@@ -1,4 +1,6 @@
 import { Helmet } from 'react-helmet-async';
+import { useLocation } from 'react-router-dom';
+import { site } from '../data/site';
 
 interface SEOProps {
   title?: string;
@@ -17,12 +19,11 @@ export default function SEO({
   image,
   url,
   type = 'website',
-  siteName = import.meta.env.VITE_GOVERNMENT_NAME || 'Local Government Website',
+  siteName = site.name,
 }: SEOProps) {
-  const defaultTitle = `${siteName} - Official Government Website`;
-  const defaultDescription =
-    import.meta.env.VITE_SITE_DESCRIPTION ||
-    `Official website of ${siteName}. Access government services, information, and resources.`;
+  const location = useLocation();
+  const defaultTitle = `${siteName} - Angeles City community guide`;
+  const defaultDescription = site.description;
   const defaultKeywords =
     import.meta.env.VITE_SITE_KEYWORDS ||
     'government, local government, services, public services, civic services';
@@ -30,7 +31,9 @@ export default function SEO({
   const fullTitle = title ? `${title} | ${siteName}` : defaultTitle;
   const fullDescription = description || defaultDescription;
   const fullKeywords = keywords || defaultKeywords;
-  const fullUrl = url || import.meta.env.VITE_WEBSITE_URL || '';
+  const baseUrl = import.meta.env.VITE_WEBSITE_URL as string | undefined;
+  const fullUrl =
+    url || (baseUrl ? new URL(location.pathname, baseUrl).href : '');
   const fullImage =
     image || import.meta.env.VITE_OG_IMAGE_URL || `${fullUrl}/og-image.jpg`;
   const twitterHandle = import.meta.env.VITE_TWITTER_HANDLE || '';
@@ -71,7 +74,7 @@ export default function SEO({
       <meta name="theme-color" content="#0066eb" />
 
       {/* Canonical URL */}
-      <link rel="canonical" href={fullUrl} />
+      {fullUrl && <link rel="canonical" href={fullUrl} />}
 
       {/* Favicon */}
       <link rel="icon" type="image/x-icon" href="/favicon.ico" />
