@@ -114,6 +114,71 @@
   --font-mono: var(--font-kapwa-mono);
 }
 
+@layer base {
+  a {
+    text-underline-offset: 0.2em;
+  }
+  main a,
+  #page-content section a {
+    color: var(--color-primary-700);
+    text-decoration: underline;
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-primary-600);
+    outline-offset: 3px;
+  }
+  .dark-surface :focus-visible {
+    outline-color: #fff;
+  }
+  ::selection {
+    background: var(--color-primary-200);
+    color: var(--color-primary-900);
+  }
+  input {
+    caret-color: var(--color-primary-700);
+  }
+}
+
+@layer components {
+  .search-panel {
+    @apply rounded-xl bg-gray-50 p-5 sm:p-6;
+  }
+  .search-panel label {
+    @apply block font-semibold text-gray-900 mb-2;
+  }
+  .search-panel input[type='search'],
+  .search-panel select {
+    @apply block w-full min-w-0 rounded-md border border-gray-300 bg-white px-3 py-3 text-gray-900;
+  }
+  .search-panel input::placeholder {
+    color: var(--color-gray-700);
+  }
+  .search-panel input[type='checkbox'] {
+    accent-color: var(--color-primary-700);
+    width: 1rem;
+    height: 1rem;
+  }
+  .action-button {
+    @apply rounded-md bg-primary-600 px-5 py-3 font-semibold text-white hover:bg-primary-700;
+  }
+  .text-link {
+    @apply text-primary-700 underline underline-offset-4;
+  }
+  .skip-link {
+    @apply fixed left-4 top-2 z-50 bg-white px-4 py-3 text-primary-800 -translate-y-24 focus:translate-y-0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
 /* Checklist styling */
 .task-list-item {
   @apply text-base text-gray-700 leading-relaxed relative flex items-start gap-3 font-sans rounded-md mb-5 transition-all duration-200 border border-transparent cursor-pointer items-center;
