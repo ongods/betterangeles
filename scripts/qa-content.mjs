@@ -258,3 +258,5 @@ console.log(
 console.log(
   `${missing.length} pre-existing service drafts remain documented as source gaps.`
 );
+
+await import('./qa-angeles-planning.mjs');

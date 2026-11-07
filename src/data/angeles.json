@@ -1,0 +1,1079 @@
+{
+  "collectedOn": "2026-10-28",
+  "importedOn": "2026-11-07",
+  "sources": {
+    "doc20261028:S01": {
+      "title": "PSA Angeles barangays and 2024 population",
+      "url": "https://psa.gov.ph/classification/psgc/barangays/0330100000"
+    },
+    "doc20261028:S02": {
+      "title": "PSA 2025 Statistical Yearbook Table 1.3",
+      "url": "https://psa.gov.ph/system/files/psy/2025%20PSY%20Final_signed.pdf"
+    },
+    "doc20261028:S03": {
+      "title": "PSA Central Luzon Quickstat December 2024",
+      "url": "https://rsso03.psa.gov.ph/sites/default/files/infographics/12_December-2024-Central-Luzon-Quickstat.pdf"
+    },
+    "doc20261028:S04": {
+      "title": "PSA 2024 household table 0191A6DTHP8",
+      "url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1A__PO_2024/0191A6DTHP8.px/"
+    },
+    "doc20261028:S05": {
+      "title": "City mayor profile",
+      "url": "https://angelescity.gov.ph/angeles-city-mayor/"
+    },
+    "doc20261028:S06": {
+      "title": "City council page",
+      "url": "https://angelescity.gov.ph/city-council/"
+    },
+    "doc20261028:S07": {
+      "title": "City vice mayor page",
+      "url": "https://angelescity.gov.ph/city-vice-mayor/"
+    },
+    "doc20261028:S08": {
+      "title": "DILG barangay officials masterlist",
+      "url": "https://www.dilg.gov.ph/barangay-officials-directory/masterlist"
+    },
+    "doc20261028:S09": {
+      "title": "City contact page",
+      "url": "https://angelescity.gov.ph/contact/"
+    },
+    "doc20261028:S10": {
+      "title": "eBPLS Citizen Charter two page PDF",
+      "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf"
+    },
+    "doc20261028:S11": {
+      "title": "Business permit form BPLD ABP 001 Rev 33",
+      "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/BPLD-ABP-001-Rev-33.pdf"
+    },
+    "doc20261028:S12": {
+      "title": "Official eBPLS portal supplied in References",
+      "url": "https://www.cityofangeles.ph/bpls/#services"
+    },
+    "doc20261028:S13": {
+      "title": "City Healthcard appointment portal",
+      "url": "https://cityofangeles.ph/healthcard/"
+    },
+    "doc20261028:S14": {
+      "title": "Health ID application form",
+      "url": "https://www.cityofangeles.ph/healthcard/documents/health-id-application-form"
+    },
+    "doc20261028:S15": {
+      "title": "CHO Advisory 003 series 2026",
+      "url": "https://www.cityofangeles.ph/healthcard/documents/advisory-no-003-series-of-2026-guidelines-on-the-mandatory-requirement-of-health-certificates-or-health-id-for-all-employees"
+    },
+    "doc20261028:S16": {
+      "title": "DOH National TB Control Program facility directory",
+      "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%255Btype_id%255D=5&yiiwp-page=14"
+    },
+    "doc20261028:S17": {
+      "title": "DOH TB laboratory directory",
+      "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%5Btype_id%5D=5&yiiwp-page=6"
+    },
+    "doc20261028:S18": {
+      "title": "DepEd Angeles public school directory",
+      "url": "https://depedangelescity.com/?page_id=254"
+    },
+    "doc20261028:S19": {
+      "title": "DepEd private schools authorized SY 2025 2026",
+      "url": "https://depedangelescity.com/wp-content/uploads/2025/08/SDO-Angeles-City-List-of-Private-Schools-Granted-Authority-to-Operate-SY-2025-2026.pdf"
+    },
+    "doc20261028:S20": {
+      "title": "CSWDO assistance report October 7 2026",
+      "url": "https://angelescity.gov.ph/%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%8B%F0%9D%90%86%F0%9D%90%94-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A7/"
+    },
+    "doc20261028:S21": {
+      "title": "City waste segregation report February 19 2025",
+      "url": "https://angelescity.gov.ph/view_news?newsID=8bcaf22d8fcc72348d0cf72df773712c0700"
+    },
+    "doc20261028:S22": {
+      "title": "City published ACDRRMO hotlines April 11 2024",
+      "url": "https://angelescity.gov.ph/view_news?newsID=8bcaf235f6358aacf0ad0a2cf775712c0700"
+    },
+    "doc20261028:S23": {
+      "title": "City police hotline notice indexed only page returned 404",
+      "url": "https://mail.angelescity.gov.ph/view_news?newsID=8bcaf22d8fcc0a34f5ad4a2ef70b712c0700"
+    },
+    "doc20261028:S24": {
+      "title": "City disaster preparedness meeting October 15 2026",
+      "url": "https://angelescity.gov.ph/%F0%9D%90%80%F0%9D%90%82%F0%9D%90%83%F0%9D%90%91%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%82-%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9D%F0%9D%90%AC-%F0%9D%9F%92%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%90/"
+    },
+    "doc20261028:S25": {
+      "title": "PAGASA heat index",
+      "url": "https://pagasa.dost.gov.ph/weather/heat-index"
+    },
+    "doc20261028:S26": {
+      "title": "PAGASA climatological normals",
+      "url": "https://pagasa.dost.gov.ph/climate/climatological-normals"
+    },
+    "doc20261028:S27": {
+      "title": "PAGASA Clark METAR",
+      "url": "https://www.pagasa.dost.gov.ph/aviation/metar"
+    },
+    "doc20261028:S28": {
+      "title": "PAGASA Flood Caster",
+      "url": "https://floodcaster.pagasa.dost.gov.ph/"
+    },
+    "doc20261028:S29": {
+      "title": "Geoportal Philippines",
+      "url": "https://www.geoportal.gov.ph/"
+    },
+    "doc20261028:S30": {
+      "title": "NAMRIA downloadable maps",
+      "url": "https://www.namria.gov.ph/downloads.aspx"
+    },
+    "doc20261028:S31": {
+      "title": "HazardHunterPH project information",
+      "url": "https://hazardhunter.georisk.gov.ph/index.php/about-hazardhunterph"
+    },
+    "doc20261028:S32": {
+      "title": "PHIVOLCS hazard map download guidance",
+      "url": "https://www.phivolcs.dost.gov.ph/gisweb-download-hazard-maps-instruction/"
+    },
+    "doc20261028:S33": {
+      "title": "AngelesMap community jeepney guide",
+      "url": "https://www.angelesmap.com/angeles-city-jeepney-routes"
+    },
+    "doc20261028:S34": {
+      "title": "City tourism built heritage",
+      "url": "https://tourism.angelescity.gov.ph/built-heritage/"
+    },
+    "doc20261028:S35": {
+      "title": "City tourism contact",
+      "url": "https://tourism.angelescity.gov.ph/contact-us/"
+    },
+    "doc20261028:S36": {
+      "title": "NHCP Pamintuan historical registry",
+      "url": "https://philhistoricsites.nhcp.gov.ph/registry_database/mansyong-pamintuan/"
+    },
+    "doc20261028:S37": {
+      "title": "HAU Center for Kapampangan Studies",
+      "url": "https://www.kapampangancenter.org/index.php"
+    },
+    "doc20261028:S38": {
+      "title": "CKS museum reservations",
+      "url": "https://www.kapampangancenter.org/CKSReservation/"
+    },
+    "doc20261028:S39": {
+      "title": "CKS Kapampangan Translator",
+      "url": "https://www.kapampangancenter.org/kapampangantranslator/"
+    },
+    "doc20261028:S40": {
+      "title": "TTKD 2026 city event record",
+      "url": "https://angelescity.gov.ph/event/tigtigan-terakan-keng-dalan-festival-ttkd-2026/"
+    },
+    "doc20261028:S41": {
+      "title": "Apung Mamacalulu city event record",
+      "url": "https://angelescity.gov.ph/event/apung-mamacalulu/"
+    },
+    "doc20261028:S42": {
+      "title": "La Naval opening and closing salvo city event",
+      "url": "https://angelescity.gov.ph/event/la-naval-opening-and-closing-salvo/"
+    },
+    "doc20261028:S43": {
+      "title": "City gastronomy and Sisig Festival history",
+      "url": "https://tourism.angelescity.gov.ph/gastronomy/"
+    },
+    "doc20261028:S44": {
+      "title": "City Pamanang Lakad report October 5 2026",
+      "url": "https://angelescity.gov.ph/muling-nakisaya-at-nakisabay-sa-pamanang-lakad-sa-heritage-district-ang-mga-asap-xp-artists/"
+    },
+    "doc20261028:S45": {
+      "title": "BLGF fiscal data portal",
+      "url": "https://blgf.gov.ph/lgu-fiscal-data/"
+    },
+    "doc20261028:S46": {
+      "title": "City report of FY 2024 local revenue",
+      "url": "https://angelescity.gov.ph/%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%AC-%F0%9D%90%81/"
+    },
+    "doc20261028:S47": {
+      "title": "City Treasurer 2024 tax notice indexed only full PDF returned 403",
+      "url": "https://blgf.gov.ph/wp-content/uploads/2024/01/Angeles-City.pdf"
+    },
+    "doc20261028:S48": {
+      "title": "PhilGEPS blood bank equipment RFQ 13222581",
+      "url": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/SplashBidNoticeAbstractUI.aspx?BusCatID=16&DirectFrom=OpenOpp&Type=category&menuIndex=3&refID=13222581"
+    },
+    "doc20261028:S49": {
+      "title": "DPWH 25CI0039 indexed award extract full PDF not accessed",
+      "url": "https://dpwh.gov.ph/DPWH/sites/default/files/webform/civil_works/notice_of_award/rn-2025-023-25ci0039-b-12-construction-and-trading-corporation.pdf"
+    },
+    "doc20261028:S50": {
+      "title": "City Pampang Public Market redevelopment report",
+      "url": "https://mail.angelescity.gov.ph/view_news?newsID=8bcaf235f635f2358d0c0f2df773712c0700"
+    },
+    "doc20261028:S51": {
+      "title": "City news and services homepage",
+      "url": "https://angelescity.gov.ph/"
+    },
+    "doc20261028:S52": {
+      "title": "City announcements archive",
+      "url": "https://angelescity.gov.ph/category/announcement/"
+    },
+    "doc20261028:S53": {
+      "title": "City Other Documents page",
+      "url": "https://angelescity.gov.ph/other-documents/"
+    },
+    "doc20261028:S54": {
+      "title": "City Profile page",
+      "url": "https://angelescity.gov.ph/city-profile/"
+    },
+    "doc20261028:S55": {
+      "title": "COA 2024 audit ZIP candidate not accessed",
+      "url": "https://www.coa.gov.ph/download/8414/pampanga/95850/angeles-city-annual-audit-report-2024.zip"
+    },
+    "doc20261028:S56": {
+      "title": "Supplied barangay officials workbook; issuer/date unconfirmed",
+      "url": null
+    },
+    "archive:schools": {
+      "title": "DepEd National Inventory Dashboard, captured 9 August 2026",
+      "url": "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City"
+    }
+  },
+  "profile": {
+    "name": "City of Angeles",
+    "psgc": "0330100000",
+    "population": 483452,
+    "populationYear": 2024,
+    "barangayCount": 33,
+    "barangayEdition": "31 July 2025",
+    "sourceIds": ["doc20261028:S01"]
+  },
+  "barangays": [
+    {
+      "id": "0330100001",
+      "name": "Agapito del Rosario",
+      "population": 2665,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100002",
+      "name": "Anunas",
+      "population": 22722,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100003",
+      "name": "Balibago",
+      "population": 38510,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100004",
+      "name": "Capaya",
+      "population": 13916,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100005",
+      "name": "Claro M. Recto",
+      "population": 5569,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100006",
+      "name": "Cuayan",
+      "population": 13956,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100007",
+      "name": "Cutcut",
+      "population": 28699,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100008",
+      "name": "Cutud",
+      "population": 23921,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100010",
+      "name": "Lourdes North West",
+      "population": 13415,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100011",
+      "name": "Lourdes Sur",
+      "population": 5469,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100012",
+      "name": "Lourdes Sur East",
+      "population": 4267,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100013",
+      "name": "Malabañas",
+      "population": 29072,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100014",
+      "name": "Margot",
+      "population": 12459,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100015",
+      "name": "Mining",
+      "population": 3502,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100017",
+      "name": "Pampang",
+      "population": 31001,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100018",
+      "name": "Pandan",
+      "population": 28499,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100019",
+      "name": "Pulung Maragul",
+      "population": 24286,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100020",
+      "name": "Pulungbulu",
+      "population": 14005,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100021",
+      "name": "Pulung Cacutud",
+      "population": 25338,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100022",
+      "name": "Salapungan",
+      "population": 5602,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100023",
+      "name": "San Jose",
+      "population": 8285,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100024",
+      "name": "San Nicolas",
+      "population": 5174,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100025",
+      "name": "Sta. Teresita",
+      "population": 9409,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100026",
+      "name": "Sta. Trinidad",
+      "population": 7027,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100027",
+      "name": "Sto. Cristo",
+      "population": 3963,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100028",
+      "name": "Sto. Domingo",
+      "population": 19575,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100029",
+      "name": "Sto. Rosario",
+      "population": 6476,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100030",
+      "name": "Sapalibutad",
+      "population": 14989,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100031",
+      "name": "Sapangbato",
+      "population": 9037,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100032",
+      "name": "Tabun",
+      "population": 14604,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100034",
+      "name": "Virgen Delos Remedios",
+      "population": 1299,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100035",
+      "name": "Amsic",
+      "population": 24437,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    },
+    {
+      "id": "0330100036",
+      "name": "Ninoy Aquino",
+      "population": 12304,
+      "populationYear": 2024,
+      "sourceIds": ["doc20261028:S01"]
+    }
+  ],
+  "publicSchools": [
+    {
+      "id": "107022",
+      "name": "Abelardo G. Tinio ES",
+      "rawName": "Abelardo G. Tinio ES",
+      "address": "Capaya 2",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107023",
+      "name": "Angeles Elementary School",
+      "rawName": "Angeles ES",
+      "address": "Jesus St., Pulungbulu",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107024",
+      "name": "Belen Homesite ES",
+      "rawName": "Belen Homesite ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107025",
+      "name": "Cutud ES",
+      "rawName": "Cutud ES",
+      "address": "Purok 2, Cutud",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107027",
+      "name": "Dr. Clemente N. Dayrit Sr. Elem. School",
+      "rawName": "Dr. Clemente N. Dayrit Sr. Elem. School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107029",
+      "name": "EPZA Resettlement ES",
+      "rawName": "EPZA Resettlement ES",
+      "address": "Pulung Cacutud",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107030",
+      "name": "Mining Elementary School",
+      "rawName": "Mining Elementary School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107031",
+      "name": "Jose P. Dizon ES",
+      "rawName": "Jose P. Dizon ES",
+      "address": "Magalang Road, Pandan",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107032",
+      "name": "Pineda-Gutierrez ES",
+      "rawName": "Pineda-Gutierrez ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107033",
+      "name": "Pulung Cacutud ES",
+      "rawName": "Pulung Cacutud ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107034",
+      "name": "Pulungbulo ES",
+      "rawName": "Pulungbulo ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107035",
+      "name": "Salapungan ES",
+      "rawName": "Salapungan ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107036",
+      "name": "San Ignacio ES",
+      "rawName": "San Ignacio ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107037",
+      "name": "Sapalibutad ES",
+      "rawName": "Sapalibutad ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107038",
+      "name": "Alberto G. Pabalan Elementary School",
+      "rawName": "Alberto G. Pabalan ES",
+      "address": "6th St., Balibago",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107040",
+      "name": "Anunas Elementary School (Formerly Edilberto M. Ganzon ES)",
+      "rawName": "Anunas ES",
+      "address": "Anunas",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107041",
+      "name": "Gueco Balibago ES",
+      "rawName": "Gueco Balibago ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107043",
+      "name": "Marisol Bliss ES",
+      "rawName": "Marisol Bliss ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107044",
+      "name": "Sapang Bato ES",
+      "rawName": "Sapang Bato ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107046",
+      "name": "Sitio Pader ES",
+      "rawName": "Sitio Pader ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107048",
+      "name": "Sta. Teresita Elementary School",
+      "rawName": "Sta. Teresita Elementary School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107049",
+      "name": "Tacondo ES",
+      "rawName": "Tacondo ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107050",
+      "name": "Teodoro P. Tinio ES",
+      "rawName": "Teodoro P. Tinio ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107051",
+      "name": "Virgen Delos Remedios Elementary School",
+      "rawName": "Virgen Delos Remedios Elementary School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107052",
+      "name": "Apung Guidang Nepomuceno Elementary School",
+      "rawName": "Apung Guidang Nepomuceno Elementary School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107053",
+      "name": "Cuayan Elementary School",
+      "rawName": "Cuayan ES",
+      "address": "Sumulong Drive",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107054",
+      "name": "Cutcut Elementary School",
+      "rawName": "Cutcut ES",
+      "address": "Mali, Cutcut",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107055",
+      "name": "Don Pepe Henson Memorial School",
+      "rawName": "Don Pepe Henson Memorial School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107057",
+      "name": "Lourdes Northwest ES",
+      "rawName": "Lourdes Northwest ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107058",
+      "name": "M.Nepomuceno ES",
+      "rawName": "M.Nepomuceno ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "107059",
+      "name": "Pampang ES",
+      "rawName": "Pampang ES",
+      "address": "Purok 2, Pampang",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107061",
+      "name": "Sto. Rosario ES",
+      "rawName": "Sto. Rosario ES",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "161001",
+      "name": "Air Force City Elementary School",
+      "rawName": "Air Force City ES",
+      "address": "Kudiaro St., Clark",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "301038",
+      "name": "Angeles City Nat'l. Trade School",
+      "rawName": "Angeles City National Trade School",
+      "address": "Friendship Highway, Cutcut",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "301039",
+      "name": "Angeles City NHS",
+      "rawName": "Angeles City National HS",
+      "address": "Purok 3, Pampang",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "301040",
+      "name": "Francisco G. Nepomuceno Mem. HS",
+      "rawName": "Francisco G. Nepomuceno Mem. HS",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "301042",
+      "name": "Bonifacio V. Romero HS",
+      "rawName": "Bonifacio V. Romero HS",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "301043",
+      "name": "Sapang Bato National High School",
+      "rawName": "Sapang Bato National High School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "305554",
+      "name": "DR. CLEMENTE N. DAYRIT SR. MEMORIAL HIGH SCHOOL",
+      "rawName": "DR. CLEMENTE N. DAYRIT SR. MEMORIAL HIGH SCHOOL",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "307201",
+      "name": "Rafael L. Lazatin Mem. HS",
+      "rawName": "Rafael L. Lazatin Mem. HS",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "307202",
+      "name": "Angeles City Science HS",
+      "rawName": "Angeles City Science HS",
+      "address": "Doña Aurora St., Lourdes Sur East",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "307203",
+      "name": "Claro M. Recto ICT High School",
+      "rawName": "Claro M. Recto ICT High School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "345279",
+      "name": "Angeles City Senior High School",
+      "rawName": "Angeles City Senior High School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "500129",
+      "name": "Gov. Rafael L. Lazatin IS",
+      "rawName": "Gov. Rafael L. Lazatin IS",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "500130",
+      "name": "Northville 15 Integrated school",
+      "rawName": "Northville 15 IS",
+      "address": "Northville 15, Cutud",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "500131",
+      "name": "Amsic IS",
+      "rawName": "Amsic IS",
+      "address": "Purok 3, Amsic",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "500132",
+      "name": "Malabanias IS",
+      "rawName": "Malabanias IS",
+      "address": "Tamarind St., Malabanias",
+      "notes": null,
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "500133",
+      "name": "Sto. Domingo Integrated School",
+      "rawName": "Sto. Domingo Integrated School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "500766",
+      "name": "Sitio Target Integrated School",
+      "rawName": "Sitio Target Integrated School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "501022",
+      "name": "Don Ambrocio Mendiola Integrated School",
+      "rawName": "Don Ambrocio Mendiola Integrated School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "502468",
+      "name": "Leoncia Village Integrated School",
+      "rawName": "Leoncia Village Integrated School",
+      "address": null,
+      "notes": null,
+      "sourceIds": ["archive:schools"]
+    },
+    {
+      "id": "502867",
+      "name": "Enrica Sandico Integrated School",
+      "rawName": "Enrica Sandico Integrated School",
+      "address": null,
+      "notes": "Source conflict: the other directory lists Enrica Sandico ES as 107028. The relationship between these records is unconfirmed; an ID replacement or two current institutions is not established.",
+      "sourceIds": ["archive:schools", "doc20261028:S18"]
+    },
+    {
+      "id": "107028",
+      "name": "Enrica Sandico ES",
+      "rawName": "Enrica Sandico ES",
+      "address": "Sameera, Sapalibutad",
+      "notes": "Source conflict: the archived dashboard lists Enrica Sandico Integrated School as 502867. The relationship between these records is unconfirmed; an ID replacement or two current institutions is not established.",
+      "sourceIds": ["doc20261028:S18", "archive:schools"]
+    }
+  ],
+  "privateSchools": [
+    {
+      "id": "421040",
+      "name": "Abundant Life School of Discovery Inc.",
+      "address": "119 Clark Ave., Villasol",
+      "schoolYear": "2025–2026",
+      "sourceIds": ["doc20261028:S19"]
+    },
+    {
+      "id": "401296",
+      "name": "Achievers Special Education Center",
+      "address": "P. Tablante St., Pulungbulu",
+      "schoolYear": "2025–2026",
+      "sourceIds": ["doc20261028:S19"]
+    },
+    {
+      "id": "401297",
+      "name": "Aldersgate Ecumenical School Inc.",
+      "address": "A. Del Rosario St., Lourdes Northwest",
+      "schoolYear": "2025–2026",
+      "sourceIds": ["doc20261028:S19"]
+    },
+    {
+      "id": "401793",
+      "name": "AMA Computer College Angeles City",
+      "address": "7333 P. Santos St., Londale Bldg., Nepo, Sto. Rosario",
+      "schoolYear": "2025–2026",
+      "sourceIds": ["doc20261028:S19"]
+    },
+    {
+      "id": "421013",
+      "name": "Amen Mission Christian School",
+      "address": "12-1D 6th St., Villasol",
+      "schoolYear": "2025–2026",
+      "sourceIds": ["doc20261028:S19"]
+    },
+    {
+      "id": "401299",
+      "name": "Angeles Adventist Elem. School Inc.",
+      "address": "M. L. Quezon St., C. M. Recto",
+      "schoolYear": "2025–2026",
+      "sourceIds": ["doc20261028:S19"]
+    },
+    {
+      "id": "401301",
+      "name": "Angeles Lip Lin School",
+      "address": "2528 Mabini St.",
+      "schoolYear": "2025–2026",
+      "sourceIds": ["doc20261028:S19"]
+    },
+    {
+      "id": "401302",
+      "name": "Angeles University Foundation",
+      "address": "Broadway St., Ninoy Aquino",
+      "schoolYear": "2025–2026",
+      "sourceIds": ["doc20261028:S19"]
+    }
+  ],
+  "healthUnits": [
+    {
+      "id": "tb-unit-1",
+      "name": "RHU I Sto. Domingo",
+      "address": "San Marcos St., Sto. Domingo",
+      "sourceIds": ["doc20261028:S16", "doc20261028:S17"]
+    },
+    {
+      "id": "tb-unit-2",
+      "name": "RHU II Lourdes Northwest",
+      "address": "Kalayaan St., Lourdes Northwest",
+      "sourceIds": ["doc20261028:S16", "doc20261028:S17"]
+    },
+    {
+      "id": "tb-unit-3",
+      "name": "RHU III Lourdes Sur East",
+      "address": "D. Fajardo St., Lourdes Sur East",
+      "sourceIds": ["doc20261028:S16", "doc20261028:S17"]
+    },
+    {
+      "id": "tb-unit-4",
+      "name": "RHU IV Balibago",
+      "address": "Doña Rosario St.",
+      "sourceIds": ["doc20261028:S16", "doc20261028:S17"]
+    },
+    {
+      "id": "tb-unit-5",
+      "name": "RHU V Pandan",
+      "address": "San Pablo St., San Ignacio, Pandan",
+      "sourceIds": ["doc20261028:S16", "doc20261028:S17"]
+    },
+    {
+      "id": "tb-unit-6",
+      "name": "RHU VI Pulung Cacutud",
+      "address": "EPZA Resettlement, Pulung Cacutud",
+      "sourceIds": ["doc20261028:S16", "doc20261028:S17"]
+    }
+  ],
+  "offices": [
+    {
+      "id": "office-1",
+      "name": "Tourism",
+      "details": "(045) 625 2286; acto@angelescity.gov.ph; City Hall, Pulung Maragul",
+      "evidence": "S35 • Verified published contact",
+      "sourceIds": ["doc20261028:S35"]
+    },
+    {
+      "id": "office-2",
+      "name": "BPLD",
+      "details": "Business permit processing; chief named Emilio Enrico C. Romero",
+      "evidence": "S10–S11 • Named in documents; confirm current appointment",
+      "sourceIds": ["doc20261028:S10", "doc20261028:S11"]
+    },
+    {
+      "id": "office-3",
+      "name": "City Health sanitation",
+      "details": "045-322-4483 locals 3025 / 3023; 3rd floor City Hall, Pulung Maragul",
+      "evidence": "S13 • Published",
+      "sourceIds": ["doc20261028:S13"]
+    },
+    {
+      "id": "office-4",
+      "name": "ICTD support",
+      "details": "(045) 322-3344; ictd@angelescity.gov.ph",
+      "evidence": "S13 • Portal technical support",
+      "sourceIds": ["doc20261028:S13"]
+    },
+    {
+      "id": "office-5",
+      "name": "BAC contact",
+      "details": "Patricia Mae L. Cura; 63-45-8932208; pmlc.bac@gmail.com; City Hall, Pulung Maragul",
+      "evidence": "S48 • September 2026 notice contact",
+      "sourceIds": ["doc20261028:S48"]
+    }
+  ],
+  "heritage": [
+    {
+      "id": "heritage-1",
+      "name": "Holy Rosary Church / Pisamban Maragul",
+      "address": "Sto. Rosario St., Sto. Rosario",
+      "summary": "Completed 12 February 1896; tourism lists Important Cultural Property status",
+      "sourceIds": ["doc20261028:S34"]
+    },
+    {
+      "id": "heritage-2",
+      "name": "Museo ning Angeles",
+      "address": "Sto. Rosario St., Sto. Rosario",
+      "summary": "Former city hall built 1922; transferred for museum use in 1999",
+      "sourceIds": ["doc20261028:S34"]
+    },
+    {
+      "id": "heritage-3",
+      "name": "Pamintuan Mansion",
+      "address": "Sto. Entierro corner Miranda, Angeles City",
+      "summary": "NHCP museum; Philippine social-history museum inaugurated 24 August 2015",
+      "sourceIds": ["doc20261028:S36"]
+    },
+    {
+      "id": "heritage-4",
+      "name": "CKS Main Museum",
+      "address": "Holy Angel University",
+      "summary": "Kapampangan history, culture and archaeology",
+      "sourceIds": ["doc20261028:S37"]
+    },
+    {
+      "id": "heritage-5",
+      "name": "Pinatubo Museum",
+      "address": "Holy Angel University",
+      "summary": "Volcano history and eruption/lahar exhibits",
+      "sourceIds": ["doc20261028:S37"]
+    },
+    {
+      "id": "heritage-6",
+      "name": "Museum of Kapampangan Arts",
+      "address": "Holy Angel University",
+      "summary": "Vicente Manansala sketches and memorabilia",
+      "sourceIds": ["doc20261028:S37"]
+    }
+  ]
+}

@@ -1,0 +1,6643 @@
+{
+  "document_id": "12tTdNNL5tomBFAQpSoRla_LjOb9UhHoAcyCg9y-Vf00",
+  "url": "https://docs.google.com/document/d/12tTdNNL5tomBFAQpSoRla_LjOb9UhHoAcyCg9y-Vf00",
+  "revision_id": "AHj4eMQOGomAbOKnOb85NrDa24TKWKLEJVGgIaxQ98oQQrEh8_YdJU9gLdcz9u_i6NQKzVIjgXB0B140iIFdennplpBxZGpBBvF4HYjHzcE",
+  "retrieved_on": "2026-11-07",
+  "content_reference_date": "2026-10-28",
+  "tabs": [
+    {
+      "id": "t.0",
+      "title": "References",
+      "text": [
+        {
+          "tab": "t.0",
+          "text": "References\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "Repo: "
+        },
+        {
+          "tab": "t.0",
+          "text": "https://github.com/ongods/betterangeles",
+          "url": "https://github.com/ongods/betterangeles"
+        },
+        {
+          "tab": "t.0",
+          "text": " \n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "Website Deployment: \n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "Social Media Pages:\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "LinkedIn: \n"
+        },
+        {
+          "tab": "t.0",
+          "text": "Facebook:\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "References:\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "https://www.angelescity.gov.ph/",
+          "url": "https://www.angelescity.gov.ph/"
+        },
+        {
+          "tab": "t.0",
+          "text": " (official website)\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "https://www.cityofangeles.ph/bpls/#services",
+          "url": "https://www.cityofangeles.ph/bpls/#services"
+        },
+        {
+          "tab": "t.0",
+          "text": " (business permit & licensing system)\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "For new business applications\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "Renewal of business permit\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "Application tracking\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "betterlocalgov Repository",
+          "url": "https://github.com/iyanski/betterlocalgov"
+        },
+        {
+          "tab": "t.0",
+          "text": " (template)\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "https://bettergov.ph/",
+          "url": "https://bettergov.ph/"
+        },
+        {
+          "tab": "t.0",
+          "text": " \n"
+        },
+        {
+          "tab": "t.0",
+          "text": "https://lgu.bettergov.ph/",
+          "url": "https://lgu.bettergov.ph/"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        },
+        {
+          "tab": "t.0",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "id": "t.884ce0alqh6f",
+      "title": "layout",
+      "text": [
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Navbar:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Home\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "About Angeles\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Services\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Government\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Transparency\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Interactive Map\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Contact & Help\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Home Page:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Hero Section:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Heading\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Search/Browse Services\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Quick Services Section\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Alerts & Announcements (fetched from Angeles Information Office FB Page)\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "City Snapshot:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Weather Data\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Population\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Number of barangays\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "2D Mini Map\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Featured Content\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Upcoming events\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Short tourism highlights\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Latest gov projects\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Angeles/Kapampangan Quiz Game\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "About Angeles:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "General City Profile\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Brief History\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Statistics and Metrics\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Barangay Overview\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Tourism & Culture\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Festivals and Celebrations\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Kapampangan Language and Heritage\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Notable Places\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Services Page:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Service Search (filter by)\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Online services\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Walk-in services\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Category\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Government office\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "residents/businesses\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "seniors, PWDs, students, etc…\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Service Page Directory\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Certificates\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Business\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Tax Payments\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Transportation\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Social Services\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Health\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Agriculture\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Infrastructure\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Education\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Public Safety\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Environment\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Requirements for every service page:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Service description\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Who may apply\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Requirements\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Application steps\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Fees\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Processing time\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Responsible office\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Office location\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Contact details\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Downloadable forms\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Online application or appointment link\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Frequently asked questions\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Government Page:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Executive Branch\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Legislative Branch\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Key Departments\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Barangay Directory\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Barangay masterlist\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Barangay captains and contact information\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Citizen’s Charter\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Transparency Page:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Budget & Financial Transparency \n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Infrastructure Investments & Projects\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Procurements\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Audit and Disclosure Documents\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Project Monitoring (if there’s available data)\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Interactive Map:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Barangay boundaries\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "City government offices\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Barangay halls\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Hospitals and health centres\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Police and fire stations\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Schools\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Tourist attractions\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Heritage locations\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Jeepney routes\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Transport terminals\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Parking areas\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Evacuation centres\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Public markets\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Road closures\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Flood-prone areas\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Government projects\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Core map functions\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Search location\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Filter map layers\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "View location information\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Get directions\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Find nearby services\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Show jeepney routes\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Locate emergency facilities\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "View government project details\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Report a location-based concern\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Footer:\n"
+        },
+        {
+          "tab": "t.884ce0alqh6f",
+          "text": "Check betterlgu format for reference\n"
+        }
+      ]
+    },
+    {
+      "id": "t.597rosdioffz",
+      "title": "data references",
+      "text": [
+        {
+          "tab": "t.597rosdioffz",
+          "text": "https://www.angelescity.gov.ph/",
+          "url": "https://www.angelescity.gov.ph/"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": " (official website)\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Website section\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Primary source\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Data to obtain\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "City Profile\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "PSA\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Population, households, demographics, population by barangay, growth\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Angeles City CPDO\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Land area, density, socioeconomic indicators, projections, development indicators\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Barangays\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "PSA PSGC\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Official barangay names/codes\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "DILG Barangay Officials Directory\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Barangay officials\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "CPDO / Barangay Affairs\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Barangay profiles, facilities, contacts\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "History\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Angeles City Tourism Office\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Official local history and heritage\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Center for Kapampangan Studies – HAU\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Deeper historical/cultural research\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "NCCA / National Museum / NHCP\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Verified cultural and heritage records\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Government Officials\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Angeles City Government\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Mayor, vice mayor, council\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "DILG\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Barangay officials and LGU verification\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Government Departments\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "City Government / HRMO\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Department directory, heads, contacts\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Government Services\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Latest Citizen's Charter\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Requirements, steps, fees, processing time, responsible office\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Individual city offices\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Current forms, schedules and actual service procedures\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Business\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "BPLD\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Business registration, permits, requirements\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "City Treasurer / Assessor\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Taxes, assessments, payment information\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Health\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "City Health Office\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Health centers, services, schedules\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "DOH\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Registered health facilities\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Education\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "DepEd Schools Division of Angeles City\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Public/private school directory\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Social Services\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "CSWDO\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Assistance programs, eligibility, contact information\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Infrastructure\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "City Engineer + CPDO\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "City projects, roads, buildings, infrastructure\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "DPWH\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "National roads and national infrastructure projects\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Environment\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "CENRO\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Waste management, environment programs, schedules\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Public Safety\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "ACDRRMO / ACPO / BFP\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Emergency facilities, hotlines, evacuation centers\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Weather\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "PAGASA\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Weather, warnings, heat index, rainfall\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Map\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Geoportal Philippines / NAMRIA\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Base geographic/GIS data\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "GeoRiskPH / HazardHunterPH\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Flood, seismic and other hazard layers\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "CPDO\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Zoning, barangay boundaries, land use\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Jeepney Routes\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Angeles City Traffic Development Office\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Local route definitions, terminals/stops\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "LTFRB Region III\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Authorized PUJ routes/franchises\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Field validation\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Actual route deviations, terminal locations\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Tourism\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Angeles City Tourism Office\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Attractions, festivals, heritage, restaurants/accommodations\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "DOT\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Tourism classifications and destination information\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Transparency\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "City Budget Office\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Annual budget\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "City Accounting Office\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Financial statements\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "City Treasurer\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Revenue/collection data\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "BAC / PhilGEPS\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Procurement, bidding, contracts\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "COA\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Annual audit reports\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "BLGF\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "LGU financial indicators\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Projects\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "CPDO + City Engineer + Budget Office\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Project name, cost, funding, dates, progress\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "News/Announcements\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Angeles City Information Office\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Local announcements\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "City website\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Official advisories\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "PAGASA/DILG/etc.\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Source agency for emergency announcements\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Culture\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Center for Kapampangan Studies – HAU\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Kapampangan dictionary, culture, history\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Angeles Tourism / CACA\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "Local heritage and traditions\n"
+        },
+        {
+          "tab": "t.597rosdioffz",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "id": "t.c9b8ncio4f4",
+      "title": "Scraped website data",
+      "text": [
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "BetterAngeles website data\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Collected 28 October 2026 • Public source extraction • Reference years retained\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "This tab contains usable records for the website sections in data gathering, plus explicit gaps where the public pages do not supply the requested fields. It is a source-backed starting dataset, not a complete current directory of every city service, official, facility, or route. The original data gathering tab is unchanged.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Status guide\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status measures coverage of the data requested in data gathering. Evidence labels measure the strength and age of individual records.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "COMPLETE"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — All requested fields for that category or explicitly named subdataset are collected, sourced and checked; no material gaps remain.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Some usable data is collected, but requested fields, directory coverage or current versions are still missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "MISSING"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — The requested usable dataset has not been obtained. Identifying a source portal alone does not complete the dataset.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "NEEDS VERIFICATION"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Available material is provisional or lacks the authoritative or current confirmation required for use.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Evidence labels"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Verified: stated by the cited primary source. Dated: tied to its stated year/event. Provisional: needs confirmation. Missing: not retrieved. Verified does not mean complete or current.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Overall coverage of the 20 requested categories"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — 0 complete, 18 partial, 1 missing and 1 needs verification. Complete subdatasets are identified within the relevant category status.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Statuses refer to the material documented in this tab, not website implementation progress. A retrieval date does not change a record’s reference year; source IDs refer to the source register.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "1 City profile — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Population counts for 2010, 2015, 2020 and 2024 are complete; 2024 households, demographic breakdowns and CPDO indicators remain missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Use the 2024 census for the population card. The city homepage still cites 2015; do not label that figure current. Sources "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S01",
+          "url": "https://psa.gov.ph/classification/psgc/barangays/0330100000"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S04",
+          "url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1A__PO_2024/0191A6DTHP8.px/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " and "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S51",
+          "url": "https://angelescity.gov.ph/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ".\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Field\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Reference and status\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "City\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "City of Angeles\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S01",
+          "url": "https://psa.gov.ph/classification/psgc/barangays/0330100000"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Verified\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "City PSGC\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100000\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S01",
+          "url": "https://psa.gov.ph/classification/psgc/barangays/0330100000"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Store as text\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Legacy code\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "035401000\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S01",
+          "url": "https://psa.gov.ph/classification/psgc/barangays/0330100000"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Correspondence code\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Classification\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Highly urbanized city in Central Luzon; geographically in Pampanga and politically independent\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S51",
+          "url": "https://angelescity.gov.ph/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Verified\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Population\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "483,452\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S01",
+          "url": "https://psa.gov.ph/classification/psgc/barangays/0330100000"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • 2024 POPCEN\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Population\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "462,928\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S02",
+          "url": "https://psa.gov.ph/system/files/psy/2025%20PSY%20Final_signed.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • 2020 census\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Population\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "411,634\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S02",
+          "url": "https://psa.gov.ph/system/files/psy/2025%20PSY%20Final_signed.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • 2015 census\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Population\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "326,336\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S02",
+          "url": "https://psa.gov.ph/system/files/psy/2025%20PSY%20Final_signed.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • 2010 census\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Land area\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "63.37 km²\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S02",
+          "url": "https://psa.gov.ph/system/files/psy/2025%20PSY%20Final_signed.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • PSA yearbook basis; CPDO boundary basis not obtained\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Household population\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "461,165\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S03",
+          "url": "https://rsso03.psa.gov.ph/sites/default/files/infographics/12_December-2024-Central-Luzon-Quickstat.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • 2020 only\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Households\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "116,343\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S03",
+          "url": "https://rsso03.psa.gov.ph/sites/default/files/infographics/12_December-2024-Central-Luzon-Quickstat.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • 2020 only\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Barangays\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "33; all listed as urban\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S01",
+          "url": "https://psa.gov.ph/classification/psgc/barangays/0330100000"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Page labels list as of 31 July 2025\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Derived values, calculated from the cited counts: population increased by 20,524 people, or 4.43%, between the 2020 and 2024 censuses. Using 63.37 km² gives about 7,629 persons/km² for 2024; this is our calculation, not a quoted CPDO indicator. Keep area basis alongside density.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Missing: extracted 2024 household count and household population, age and sex breakdowns, city poverty and employment indicators, CPDO projections and approved land-use figures. "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S04",
+          "url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1A__PO_2024/0191A6DTHP8.px/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " identifies the 2024 household dataset but its selector page did not expose the Angeles values; retain the 2020 labels until extracted.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "2 Barangay masterlist — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — The 33-barangay name/code/population masterlist and 33 captain names are complete as extracted. Telephone coverage is partial; emails, hall addresses, facilities and coordinates are missing. Officials retain the source’s 2023–2026 term label.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "All 33 rows below come from "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S01",
+          "url": "https://psa.gov.ph/classification/psgc/barangays/0330100000"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". Columns are official name, 10-digit PSGC, and 2024 POPCEN population. Preserve accents and spelling; keep codes as strings. Do not substitute school-directory spellings for PSGC names.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Official name\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "PSGC\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Population 2024\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Agapito del Rosario\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100001\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "2665\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Anunas\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100002\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "22722\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Balibago\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100003\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "38510\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Capaya\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100004\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "13916\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Claro M. Recto\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100005\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "5569\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Cuayan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100006\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "13956\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Cutcut\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100007\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "28699\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Cutud\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100008\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "23921\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Lourdes North West\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100010\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "13415\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Lourdes Sur\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100011\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "5469\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Lourdes Sur East\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100012\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "4267\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Malabañas\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100013\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "29072\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Margot\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100014\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "12459\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Mining\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100015\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "3502\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pampang\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100017\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "31001\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pandan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100018\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "28499\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulung Maragul\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100019\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "24286\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulungbulu\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100020\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "14005\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulung Cacutud\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100021\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "25338\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Salapungan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100022\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "5602\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "San Jose\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100023\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "8285\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "San Nicolas\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100024\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "5174\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sta. Teresita\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100025\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "9409\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sta. Trinidad\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100026\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "7027\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sto. Cristo\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100027\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "3963\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sto. Domingo\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100028\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "19575\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sto. Rosario\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100029\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "6476\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sapalibutad\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100030\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "14989\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sapangbato\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100031\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "9037\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Tabun\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100032\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "14604\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Virgen Delos Remedios\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100034\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "1299\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Amsic\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100035\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "24437\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Ninoy Aquino\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0330100036\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "12304\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Validation: 33 unique PSGC codes; populations sum to 483,452. The supplied officials workbook now provides a captain for every barangay; names match all 33 PSA barangays exactly. Source S56 below.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Barangay captains and directory telephone values\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Source S56: region III barangay officials list.xlsx, Sheet1, rows 10627–11279, columns A–L; filtered by CITY/MUNICIPALITY = CITY OF ANGELES. The workbook contains 653 Angeles official records, including 33 captains; all carry TERM = 2023 - 2026. No publication date or issuer is stated in the extracted worksheet. These are transcribed directory records, not independently confirmed current appointments or working phone lines.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "The source column is headed BARANGAY TEL NO. The main table preserves the value on each captain’s row; it does not establish that the number is the captain’s personal/direct number. Thirteen captain rows contain numeric phone values. NONE, N/A and 0 remain explicit gaps. Seven-digit landlines retain their source form; no area code is guessed.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Barangay\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Punong Barangay as listed\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Telephone on captain row\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sheet1 row\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Agapito del Rosario\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "MAURO MANARANGA MALLARI\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10627\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Amsic\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "GEROM PAMINTUAN COSTALES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10647\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Anunas\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "AUGUSTO LIWANAG FLORES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (N/A)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10667\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Balibago\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "JOSEPH GOMEZ PONCE\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10685\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Capaya\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RAFAEL GO BONDOC\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10705\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Claro M. Recto\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ALEXANDER SOLIMAN DE GUZMAN\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10725\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Cuayan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ULYSSIS SIMBULAN LUMANLAN\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10745\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Cutcut\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "JUANITO DEL ROSARIO DAYRIT\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "4583733\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10765\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Cutud\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "JESUSITO AGUILAR MASBANG\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10785\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Lourdes North West\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "NICANOR ABELARDO SORIANO\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0459012270\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10805\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Lourdes Sur\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "BERNARD UMALI DAYRIT\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10825\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Lourdes Sur East\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ALFREDO SANCHEZ BULAUN\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10845\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Malabañas\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "LUZ ABLAY NAVA\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0459666882\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10865\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Margot\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "DOMINADOR AGUSTIN LISING JR.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10885\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Mining\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "LESTER ZAMORA HERNANDEZ\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10903\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Ninoy Aquino\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "JOHN TERRY OCAMPO HALILI\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09190915301\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10922\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pampang\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "CARLOS PANGILINAN DELA CRUZ\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09753302035\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10941\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pandan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "MARIA CORAZON CRUZ ALEJANDRINO\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10961\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulung Cacutud\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "FRANCISCO NAVA CURA\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09190017155\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10981\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulung Maragul\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "EDGAR BUSTAMANTE AVILLON\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (0)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11001\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulungbulu\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "LORNA NARCISO ZABALA\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09284019917\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11021\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Salapungan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "REYNALDO BAUTISTA MALIG\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0459615546\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11041\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "San Jose\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "HARRY PANGILINAN CASTRO\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "8874676\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11061\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "San Nicolas\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "AMELIA PANIZA TORRES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11081\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sapalibutad\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "CRISTINA VILLAPAÑA PINEDA\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09924709976\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11101\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sapangbato\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "MARIO MUSNI MANIALUNG\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11121\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sta. Teresita\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "JOEL TORESS SANCHEZ\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11141\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sta. Trinidad\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "DANILO MANALAD NACU\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09308832099\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11161\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sto. Cristo\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "LOURDES SUAREZ MANANSALA\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09194841506\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11181\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sto. Domingo\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "MARIA MARCIA BALINGIT ARCEO\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11200\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sto. Rosario\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RENATO CORTEZ COSME\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11220\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Tabun\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ANGEL GUEVARRA CORDERO\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0456240426\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11240\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Virgen Delos Remedios\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RONALD SANTOS DIANGSON\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not provided (NONE)\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11260\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Additional telephone values from other officials’ rows\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Twenty-two barangays have at least one numeric phone value somewhere in the directory. The table below preserves distinct alternatives not present on the captain row. Each row names the official and role on the first source row containing that exact value; repeated numbers are counted without assuming they are direct lines. Source S56. These entries must not be relabeled as captain contacts.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Barangay and source role\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Official on first matching row\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Raw phone value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Source and checks\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Balibago / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "JIM KIM DE GUZMAN TIMBOL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "099909990638\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10692; 1 row with this exact value; 12 digits, verify\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Balibago / Barangay Treasurer\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "LIEZEL BARRERA BALUYUT\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09271481550\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10694; 1 row with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Balibago / Barangay Secretary\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ARNALDO CABALES ENZ\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09770825273\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10695; 2 rows with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Balibago / SK Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "JUSTINE LEE BATAC\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09171637710\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10697; 5 rows with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Balibago / SK Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "KATHERINE AÑASCO JAYLO\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09171637711\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10700; 1 row with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Balibago / SK Secretary\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "MONICA GUECO MAGALONA\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09951395340\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10703; 1 row with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Cuayan / SK Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "WENDY DEBULGADO DE LEON\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09653029340\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10756; 9 rows with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Lourdes North West / Barangay Secretary\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "CAMILLE NABONG DEL ROSARIO\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0455131126\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10815; 1 row with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Lourdes Sur East / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "MARY HOPE MUNO REYES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0458886198\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10846; 15 rows with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pandan / Barangay Treasurer\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ANALINE BLANZA DAYRIT\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09955308426\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10970; 1 row with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pandan / Barangay Secretary\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "MARLON SISON GARCIA\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09989558440\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 10971; 1 row with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulung Maragul / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RONALDO DAVID ANCHETA\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09055615416\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11003; 16 rows with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulung Maragul / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ALVIN ARCIGA TAYAG\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0905561416\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11004; 1 row with this exact value; 10-digit mobile-like value, verify\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulung Maragul / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "JOEMEDEZ PRADO MEDINA\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09055565416\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11006; 1 row with this exact value; differs from common value 09055615416\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulungbulu / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "PRIMITIVA DUNGCA CALARA\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09059406884\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11022; 15 rows with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulungbulu / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "JOSE MARI TORNO CASTRO\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09205536310\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11024; 1 row with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulungbulu / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RONEL PABUSTAN TULIO\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0928401\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11026; 1 row with this exact value; apparently truncated, verify\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Salapungan / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ROLANDO CARBUNGCO NULUD\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0459617546\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11042; 12 rows with this exact value; differs from captain row\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Salapungan / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "JOSELITO PATDU AGTARAP\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "0454518891\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11043; 1 row with this exact value; differs from captain row\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "San Jose / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "AL CEZAR MANUEL RODRIGUEZ\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "887-4676\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11062; 2 rows with this exact value; same digits as captain, formatting variant\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "San Nicolas / Sangguniang Barangay Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "CHRISTOPHER SARMIENTO NULUD\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09628728319\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11082; 18 rows with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sapangbato / SK Member\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "EINGEL AGUILAR LUMBANG\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09069453623\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11133; 8 rows with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sta. Teresita / Barangay Secretary\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "danilon pamintuan paras\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09568630757\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11151; 1 row with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sta. Teresita / SK Treasurer\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "john paul agcaoili pingul\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09162274056\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11160; 1 row with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Virgen Delos Remedios / SK Treasurer\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "FREDERICK SINGSON PALLINGAYAN\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "09953194318\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Row 11279; 1 row with this exact value\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Source checks: 099909990638 has 12 digits; 0905561416 is a 10-digit mobile-like value; 0928401 appears truncated. Pulung Maragul has 09055615416 and 09055565416; Salapungan has 0459615546, 0459617546 and 0454518891. San Jose’s 8874676 and 887-4676 are formatting variants. Preserve raw values and verify ambiguous numbers rather than correcting them by guesswork.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Coverage limits: all 653 source records were considered for contact extraction, but the tables show the 33 captains and distinct telephone alternatives, not the entire council/SK roster. Hall addresses, emails, facilities and coordinates remain absent. The source has 228 barangay members and 227 SK members; unequal row counts do not establish vacancies. The original data gathering tab is unchanged.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "3 History — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Selected heritage facts are sourced; a complete founding-to-cityhood timeline has not been collected.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Verified heritage facts suitable for short original summaries: Holy Rosary Church construction was completed on 12 February 1896. The building now housing Museo ning Angeles was constructed in 1922 and transferred to Kuliat Foundation in 1999. Sources "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S34",
+          "url": "https://tourism.angelescity.gov.ph/built-heritage/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " and "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S36",
+          "url": "https://philhistoricsites.nhcp.gov.ph/registry_database/mansyong-pamintuan/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ".\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "NHCP records Pamintuan Mansion as built in the 1890s, used by the Philippine Republic in 1899, and inaugurated as the Museum of Philippine Social History on 24 August 2015. Its historical marker dates to 17 August 2017. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S36",
+          "url": "https://philhistoricsites.nhcp.gov.ph/registry_database/mansyong-pamintuan/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ".\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "For website copy, use NHCP for the mansion’s construction and historical dates. The tourism page and NHCP describe its builder differently; do not silently merge their accounts. A fully sourced founding-to-cityhood timeline was not extracted.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "4 Government officials — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — The mayor is sourced. A current vice-mayor and complete council roster are not verified in this tab. The prior owner label was “done”; that completion claim needs reconciliation with the gaps recorded below.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Verified mayor: Carmelo “Jon” B. Lazatin II, identified by the city as its 35th mayor. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S05",
+          "url": "https://angelescity.gov.ph/angeles-city-mayor/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ", retrieved 28 October 2026. This is distinct from former mayor Carmelo “Pogi” Lazatin Jr. named in older news.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Vice mayor and complete council membership: Missing current primary-source roster. The new council page exposes an image without names and the vice mayor page exposes only a heading, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S06",
+          "url": "https://angelescity.gov.ph/city-council/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S07",
+          "url": "https://angelescity.gov.ph/city-vice-mayor/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". An indexed legacy city roster names Vicky Vega Cabigting as presiding officer, but the legacy page could not be opened and its term is undated; do not use it as a verified 2026 roster. Request a dated Sangguniang Panlungsod directory.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "5 Government departments — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Selected office contacts are available; the full department/head directory and office-specific schedules are missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "These are verified contact or responsibility records, not a complete department-head directory. Sources and limits are included per row.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Office\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Extracted details\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Source and status\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Tourism\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "(045) 625 2286; acto@angelescity.gov.ph; City Hall, Pulung Maragul\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S35",
+          "url": "https://tourism.angelescity.gov.ph/contact-us/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Verified published contact\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "BPLD\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Business permit processing; chief named Emilio Enrico C. Romero\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S10",
+          "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S11",
+          "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/BPLD-ABP-001-Rev-33.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Named in documents; confirm current appointment\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "City Health sanitation\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "045-322-4483 locals 3025 / 3023; 3rd floor City Hall, Pulung Maragul\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S13",
+          "url": "https://cityofangeles.ph/healthcard/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Published\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ICTD support\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "(045) 322-3344; ictd@angelescity.gov.ph\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S13",
+          "url": "https://cityofangeles.ph/healthcard/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Portal technical support\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "BAC contact\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Patricia Mae L. Cura; 63-45-8932208; pmlc.bac@gmail.com; City Hall, Pulung Maragul\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S48",
+          "url": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/SplashBidNoticeAbstractUI.aspx?BusCatID=16&DirectFrom=OpenOpp&Type=category&menuIndex=3&refID=13222581"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • September 2026 notice contact\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Missing: full HRMO office/head directory, general switchboard, office-specific hours and verified CPDO, Assessor, Treasurer, CENRO, CSWDO and Engineer contacts. "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S09",
+          "url": "https://angelescity.gov.ph/contact/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " contains New York/Arizona addresses and example.com emails; those are template content and were excluded.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "6 Government services — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Business-permit and Health ID information is collected. A complete latest citywide Citizen’s Charter and procedures for the other services are missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Business permit and Health ID records below supply actionable fields. A complete, latest citywide Citizen’s Charter was not obtained. The charter page currently links the eBPLS charter, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S10",
+          "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "; do not treat it as coverage of every city office.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "For other service pages—civil registry, tax payments, certificates, agriculture, social welfare, engineering and environment—requirements, steps, fees, processing time, forms, appointment links and office contacts remain Missing unless specifically provided below.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "7 Business permits and local taxes — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — The permit charter, form and workflow are collected. Conflicting checklists need BPLD confirmation; current fees, help contacts and 2026 tax guidance are missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Service: online issuance of a business permit. Responsible office: BPLD / Business One-Stop Shop. Audience: businesses and authorized requesting parties. Portal: "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S12",
+          "url": "https://www.cityofangeles.ph/bpls/#services"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "; the city homepage links it, but the portal itself could not be fetched during collection.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "New application baseline: eApplication; registration/legal-personality proof; occupancy permit where applicable; lease if renting; barangay clearance; cedula. Renewal baseline: eApplication, barangay clearance, cedula, fire-safety certification and prior-year tax/sales evidence. Business-specific additions apply. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S10",
+          "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ".\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Steps: register and activate by email; choose new application or link an existing Business ID for renewal; complete the form and upload documents; choose pickup/delivery; submit; monitor email and correct deficiencies; check assessment; pay through Landbank Link.Biz; print the ePermit. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S10",
+          "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ".\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Fees depend on assessed receipts/capital and the applicable schedule; no single fixed fee was verified. Charter turnaround is three working days if payment occurs within that period. Pickup address, current help contact, fee schedule and category-specific checklist were not retrieved. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S10",
+          "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ".\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Downloadable form: BPLD-ABP-001 Rev 33, dated 1 October 2025, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S11",
+          "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/BPLD-ABP-001-Rev-33.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". It separately lists BFP certification and conditional occupancy/barangay requirements. The form and charter differ in details; retain both source checklists and have BPLD reconcile them before publishing one definitive checklist.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Local tax record, Provisional index-only extraction: the Treasurer’s calendar-2024 notice states 2% basic real property tax plus 1% SEF tax, with quarterly due dates ending March 31, June 30, September 30 and December 31, 2024. "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S47",
+          "url": "https://blgf.gov.ph/wp-content/uploads/2024/01/Angeles-City.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " returned 403 on full-document access. This is a historical source lead, not verified 2026 guidance; current rates, discounts, assessment basis and deadlines remain Missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "8 Health — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Health ID guidance and six TB-program health-unit locations are collected. Full licensed-facility coverage, schedules and several service fields are missing; published hours need confirmation.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Health ID / sanitary ID: the city portal offers registration and appointment slots. Its baseline list is chest X-ray result/film valid six months, urinalysis/fecalysis valid two weeks, current-year cedula and appointment slip. Arrive 15 minutes before the booked time. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S13",
+          "url": "https://cityofangeles.ph/healthcard/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ".\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "The downloadable form, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S14",
+          "url": "https://www.cityofangeles.ph/healthcard/documents/health-id-application-form"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ", adds Hepatitis A IgM for food handlers and notarized parental consent for applicants aged 17 or below. It lists extra TESDA/STI-HIV certificates for massage therapists and drug screening, STI-HIV training and a signed hiring/offer letter for non-CCA entertainment workers. Confirm the checklist for the applicant’s category. The form is free; no service fee was verified.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "EHS helpdesk: helpdesk.ehs@angelescity.gov.ph, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S14",
+          "url": "https://www.cityofangeles.ph/healthcard/documents/health-id-application-form"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S15",
+          "url": "https://www.cityofangeles.ph/healthcard/documents/advisory-no-003-series-of-2026-guidelines-on-the-mandatory-requirement-of-health-certificates-or-health-id-for-all-employees"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". The 5 February 2026 advisory identifies Jessie Paul M. Culang as City Health Physician/OIC; retain that date rather than asserting a current appointment.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "The portal lists EHS at 3rd floor City Hall, Pulung Maragul, Monday–Friday 08:00–19:00 except holidays. Treat hours as published and needing office confirmation: the city also has a newer compressed-workweek notice, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S52",
+          "url": "https://angelescity.gov.ph/category/announcement/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". Its SM Clark site window ended 30 April 2026 and is not an active schedule. Fees and turnaround were not stated. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S13",
+          "url": "https://cityofangeles.ph/healthcard/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ".\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "The following six health-unit locations come from DOH’s TB-program directories, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S16",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%255Btype_id%255D=5&yiiwp-page=14"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S17",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%5Btype_id%5D=5&yiiwp-page=6"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". They identify TB services, not a complete current DOH hospital licensing list. Laboratory and treatment rows for one site are consolidated; no opening hours or coordinates were verified.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Facility\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Published location\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Source\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RHU I Sto. Domingo\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "San Marcos St., Sto. Domingo\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S16",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%255Btype_id%255D=5&yiiwp-page=14"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S17",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%5Btype_id%5D=5&yiiwp-page=6"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RHU II Lourdes Northwest\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Kalayaan St., Lourdes Northwest\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S16",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%255Btype_id%255D=5&yiiwp-page=14"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RHU III Lourdes Sur East\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "D. Fajardo St., Lourdes Sur East\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S17",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%5Btype_id%5D=5&yiiwp-page=6"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RHU IV Balibago\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Doña Rosario St.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S16",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%255Btype_id%255D=5&yiiwp-page=14"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S17",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%5Btype_id%5D=5&yiiwp-page=6"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RHU V Pandan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "San Pablo St., San Ignacio, Pandan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S16",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%255Btype_id%255D=5&yiiwp-page=14"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S17",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%5Btype_id%5D=5&yiiwp-page=6"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "RHU VI Pulung Cacutud\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "EPZA Resettlement, Pulung Cacutud\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S16",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%255Btype_id%255D=5&yiiwp-page=14"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S17",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%5Btype_id%5D=5&yiiwp-page=6"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Missing: complete licensed hospital/clinic directory, facility identifiers, public ownership verification beyond the listed DOH records, general CHO contact, clinic days, service eligibility and appointment availability. Do not interpret a TB directory entry as proof of current hospital accreditation.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "9 Education — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Selected public and private school records are collected. Complete inventories, current private-school authorization, contacts and coordinates remain missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Selected public-school seed records below were extracted from the official SDO directory, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S18",
+          "url": "https://depedangelescity.com/?page_id=254"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". This is a partial directory, with abbreviated names for compact display; ES means elementary, HS high school, IS integrated school. The source contains additional schools. Its Cloudflare-protected emails were not decoded or guessed.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ID\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "School\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Directory location\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107022\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Abelardo G. Tinio ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Capaya 2\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "161001\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Air Force City ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Kudiaro St., Clark\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107038\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Alberto G. Pabalan ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "6th St., Balibago\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107023\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Angeles ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Jesus St., Pulungbulu\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107040\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Anunas ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Anunas\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107053\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Cuayan ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sumulong Drive\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107054\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Cutcut ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Mali, Cutcut\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107025\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Cutud ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Purok 2, Cutud\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107028\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Enrica Sandico ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sameera, Sapalibutad\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107029\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "EPZA Resettlement ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pulung Cacutud\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107031\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Jose P. Dizon ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Magalang Road, Pandan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "107059\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pampang ES\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Purok 2, Pampang\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "301039\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Angeles City National HS\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Purok 3, Pampang\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "301038\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Angeles City National Trade School\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Friendship Highway, Cutcut\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "307202\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Angeles City Science HS\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Doña Aurora St., Lourdes Sur East\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "500131\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Amsic IS\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Purok 3, Amsic\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "500132\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Malabanias IS\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Tamarind St., Malabanias\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "500130\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Northville 15 IS\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Northville 15, Cutud\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Private schools: selected seed records from "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S19",
+          "url": "https://depedangelescity.com/wp-content/uploads/2025/08/SDO-Angeles-City-List-of-Private-Schools-Granted-Authority-to-Operate-SY-2025-2026.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ", an official list as of 8 August 2025 for SY 2025–2026. This does not establish authorization for SY 2026–2027. Names below follow that source; verify apparent source typos before display.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "ID\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "School\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Published address\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "421040\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Abundant Life School of Discovery Inc.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "119 Clark Ave., Villasol\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "401296\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Achievers Special Education Center\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "P. Tablante St., Pulungbulu\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "401297\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Aldersgate Ecumenical School Inc.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "A. Del Rosario St., Lourdes Northwest\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "401793\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "AMA Computer College Angeles City\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "7333 P. Santos St., Londale Bldg., Nepo, Sto. Rosario\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "421013\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Amen Mission Christian School\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "12-1D 6th St., Villasol\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "401299\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Angeles Adventist Elem. School Inc.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "M. L. Quezon St., C. M. Recto\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "401301\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Angeles Lip Lin School\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "2528 Mabini St.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "401302\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Angeles University Foundation\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Broadway St., Ninoy Aquino\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Remaining work: extract all unlisted schools, normalize names without overwriting raw names, obtain SY 2026–2027 authority/grade levels and verified school contacts, then geocode with manual checks.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10 Social services — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Reported assistance programs and historical payout amounts are collected. Eligibility, documents, application windows, procedures and contacts are missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "The city’s 7 October 2026 report confirms these CSWDO assistance payouts. These are reported benefits, not an application guide or guaranteed recurring amounts. Eligibility documents, application windows, assessment, fees, processing time and direct contact were not supplied. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S20",
+          "url": "https://angelescity.gov.ph/%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%8B%F0%9D%90%86%F0%9D%90%94-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A7/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ".\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Program\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Reported amount per recipient\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Reported beneficiaries\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Solo Parent Subsidy\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "₱1,000\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "505\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Education for children of solo parents\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "₱3,000\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11 college students\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Educational Assistance for Youth\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "₱3,000\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "25\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Calamity assistance\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "₱10,000\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "18\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "CNSP / WEDC assistance\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "₱3,000–₱5,000\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "4 combined\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Separate mayor-profile record: Lingap Lazatin provides medical assistance for qualified beneficiaries, including diagnostic, laboratory, hospital and medicine expenses, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S05",
+          "url": "https://angelescity.gov.ph/angeles-city-mayor/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". Detailed eligibility and current application procedure remain Missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "11 Infrastructure — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Two historical infrastructure records are collected. Current project coverage, full contracts and implementation progress are not verified.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "DPWH record 25CI0039 concerns construction of the Abacan Road Dike between Henson Bridge and Abacan Bridge, Angeles City. A DPWH award-document search extract states ₱94,374,619.06 and approval on 14 March 2025. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S49",
+          "url": "https://dpwh.gov.ph/DPWH/sites/default/files/webform/civil_works/notice_of_award/rn-2025-023-25ci0039-b-12-construction-and-trading-corporation.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". Provisional extraction: the full PDF could not be opened; funding year, contractor, notice-to-proceed, timeline and accomplishment were not verified.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Local infrastructure example: Pampang Public Market redevelopment, reported city cost ₱400 million, with an inauguration scheduled for 29 November 2024. The report describes three floors, 200 dry-goods stalls, 50 side-wing stalls and 251 parking spaces. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S50",
+          "url": "https://mail.angelescity.gov.ph/view_news?newsID=8bcaf235f635f2358d0c0f2df773712c0700"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". This is a dated city announcement; it is not a completion certificate or current project-progress report.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "12 Environment — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — A dated segregation-program report is available. Current collection schedules, citywide rollout, facilities and complaint contacts are missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "A city report dated 19 February 2025 says waste segregation began in Capaya on 13 February, with a no-segregation/no-collection policy and Tabun and Mining to follow. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S21",
+          "url": "https://angelescity.gov.ph/view_news?newsID=8bcaf22d8fcc72348d0cf72df773712c0700"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". Publish as a dated program record; it does not provide the current 33-barangay rollout or collection schedule.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Missing: collection days/times by street/barangay, separate biodegradable/recyclable/residual collection rules, collection operator, materials-recovery facility addresses, complaint contact, current environmental permits and program schedules. Obtain these from CENRO and barangays.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "13 Public safety — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Published emergency contacts and a disaster-planning report are collected. Local phone currency needs confirmation; station and evacuation-center inventories are missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "National emergency number published on the city Health ID portal: 911, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S13",
+          "url": "https://cityofangeles.ph/healthcard/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". ACDRRMO numbers published by the city in April 2024: 0917-851-9581 and 0998-842-7746, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S22",
+          "url": "https://angelescity.gov.ph/view_news?newsID=8bcaf235f6358aacf0ad0a2cf775712c0700"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". An indexed city police notice lists 0998-598-5524, 0908-377-0144 and 0977-742-8000, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S23",
+          "url": "https://mail.angelescity.gov.ph/view_news?newsID=8bcaf22d8fcc0a34f5ad4a2ef70b712c0700"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "; its full page returned 404. Treat those police numbers as Provisional and confirm directly before publication.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Keep the local numbers marked as dated published contacts until the offices confirm them. Other aggregators show conflicting police prefixes and environmental numbers, so they were not merged. A current primary BFP local number was not verified.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "On 15 October 2026 the city reported a DRRMC meeting at the Angeles City Emergency Disaster Command Center covering evacuation management and contingency plans, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S24",
+          "url": "https://angelescity.gov.ph/%F0%9D%90%80%F0%9D%90%82%F0%9D%90%83%F0%9D%90%91%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%82-%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9D%F0%9D%90%AC-%F0%9D%9F%92%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%90/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". This does not identify open evacuation centers. Missing: dated evacuation-center masterlist, capacity, accessibility, activation status, police/fire station directory and coordinates.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "14 Weather — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Official weather-source links and rainfall normals are collected. No live readings, active-warning feed or supported refresh/API arrangement has been verified.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Verified source destinations: PAGASA heat index "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S25",
+          "url": "https://pagasa.dost.gov.ph/weather/heat-index"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "; Clark airport METAR "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S27",
+          "url": "https://www.pagasa.dost.gov.ph/aviation/metar"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "; flood advisories "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S28",
+          "url": "https://floodcaster.pagasa.dost.gov.ph/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". No live weather, warning, heat-index or rainfall reading is asserted in this static extraction.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Static climate context: PAGASA’s Clark rainfall-normal row gives monthly rainfall in mm as Jan 17.4; Feb 18.6; Mar 28.4; Apr 65.0; May 221.8; Jun 241.2; Jul 422.6; Aug 429.4; Sep 293.1; Oct 177.0; Nov 78.0; Dec 34.2; annual 2,026.8. Source "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S26",
+          "url": "https://pagasa.dost.gov.ph/climate/climatological-normals"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". These are long-term station normals, not observed 2026 rainfall or a citywide forecast; confirm the underlying normal period before chart publication.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "For implementation, retain station identifier, observed/forecast distinction, issue time, valid-until time, units and source URL. Clark airport observations are a nearby station proxy and should not be labeled a measurement at every Angeles barangay. A supported public data API and refresh contract were not verified.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "15 Map and geographic data — MISSING\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: MISSING"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — GIS datasets have not been obtained: boundaries, zoning, hazard layers and facility/transport/project geometry are missing. Source portals and address leads are identified only.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Geoportal Philippines exposes layer search, WMS discovery, active faults and flood-hazard layers, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S29",
+          "url": "https://www.geoportal.gov.ph/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". NAMRIA supplies downloadable topographic maps, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S30",
+          "url": "https://www.namria.gov.ph/downloads.aspx"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". HazardHunterPH is a multi-agency hazard-assessment tool, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S31",
+          "url": "https://hazardhunter.georisk.gov.ph/index.php/about-hazardhunterph"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ", and PHIVOLCS provides hazard-map download guidance, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S32",
+          "url": "https://www.phivolcs.dost.gov.ph/gisweb-download-hazard-maps-instruction/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ".\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Collected here: source destinations and facility addresses suitable for geocoding. Not extracted: barangay polygons, official city boundary, zoning or land-use GIS files, flood raster/vector files, evacuation points, markets, terminals, parking, road closures or project geometry.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Request CPDO’s approved boundary/zoning files with edition date, coordinate reference system, coverage and reuse terms. For each map layer record its agency, scale, vintage, CRS and license. Do not draw boundaries or hazard areas from place names, infer safe evacuation areas, or treat a web map screenshot as downloadable GIS.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "16 Jeepney routes — NEEDS VERIFICATION\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: NEEDS VERIFICATION"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Community route leads are provisional. Authoritative ACTDO/LTFRB routes, fares, stops, direction-specific geometry and field checks are missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "No authoritative LTFRB/ACTDO route geometry or current route-and-fare masterlist was retrieved. The following route-name leads are from the indexed AngelesMap community guide, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S33",
+          "url": "https://www.angelesmap.com/angeles-city-jeepney-routes"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "; the page itself returned 403. All are Provisional and unsuitable as turn-by-turn routing data until validated.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Route lead\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Color in community guide\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Status\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Main Gate–Friendship\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sand\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Provisional\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "C’Point–Balibago–H’Way\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Grey\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Provisional\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "SM City–Main Gate–Dau\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Various\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Provisional\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Checkpoint–Hensonville–Holy\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "White\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Provisional\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sapang Bato–Angeles\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Maroon\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Provisional\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Checkpoint–Holy–Highway\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Lavender\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Provisional\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Marisol–Pampang\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Green\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Provisional\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pandang–Pampang\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Blue\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Source spelling; confirm Pandan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sunset–Nepo\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Orange\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Provisional\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Villa–Pampang / SM Telebastagan\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Yellow\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Spelling/endpoints need validation\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Capaya–Angeles\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pink\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Provisional\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Missing per route: franchise/route ID, direction-specific stops and geometry, operating hours, fares, authorized terminal locations and last field check. Obtain ACTDO/LTFRB records, then record both directions in the field. Never infer a route polyline from its color or endpoints.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "17 Tourism and festivals — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Selected attractions and dated festival/event records are collected. Full tourism inventories, current calendars, accreditation, access details and visitor schedules remain incomplete.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Short heritage records below use "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S34",
+          "url": "https://tourism.angelescity.gov.ph/built-heritage/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ", "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S36",
+          "url": "https://philhistoricsites.nhcp.gov.ph/registry_database/mansyong-pamintuan/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S38",
+          "url": "https://www.kapampangancenter.org/CKSReservation/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". Coordinates and most visitor hours were not verified.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Place\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Location\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Verified extract\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Holy Rosary Church / Pisamban Maragul\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sto. Rosario St., Sto. Rosario\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Completed 12 February 1896; tourism lists Important Cultural Property status\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Museo ning Angeles\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sto. Rosario St., Sto. Rosario\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Former city hall built 1922; transferred for museum use in 1999\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pamintuan Mansion\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sto. Entierro corner Miranda, Angeles City\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "NHCP museum; Philippine social-history museum inaugurated 24 August 2015\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "CKS Main Museum\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Holy Angel University\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Kapampangan history, culture and archaeology\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pinatubo Museum\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Holy Angel University\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Volcano history and eruption/lahar exhibits\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Museum of Kapampangan Arts\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Holy Angel University\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Vicente Manansala sketches and memorabilia\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "CKS reservation page lists ₱50 per head, Monday–Friday 08:00–20:00 and Saturday 08:00–17:00, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S38",
+          "url": "https://www.kapampangancenter.org/CKSReservation/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". The same page retains pandemic-era instructions, so confirm fees/hours directly before presenting them as current. Tourism office contact is in section 5.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Event records should retain their year and past/upcoming state as of 28 October 2026.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Event\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Extracted schedule / location\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Source and state\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "TTKD 2026\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "23–24 October 2026; MacArthur Highway, Balibago / Quad Jr, Nepo Center\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S40",
+          "url": "https://angelescity.gov.ph/event/tigtigan-terakan-keng-dalan-festival-ttkd-2026/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Past\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "La Naval opening and closing salvo\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "10 October 2026; Heritage District and Museo ning Angeles\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S42",
+          "url": "https://angelescity.gov.ph/event/la-naval-opening-and-closing-salvo/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Past\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Apung Mamacalulu\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "30 October 2026; 17:30 Mass, 18:30 procession\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S41",
+          "url": "https://angelescity.gov.ph/event/apung-mamacalulu/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Upcoming; venue not stated\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pamanang Lakad\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "City report dated 5 October 2026 places it in the Heritage District\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S44",
+          "url": "https://angelescity.gov.ph/muling-nakisaya-at-nakisabay-sa-pamanang-lakad-sa-heritage-district-ang-mga-asap-xp-artists/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • Dated report; recurring schedule not verified\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Sisig Festival\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "First festival identified as 2003\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S43",
+          "url": "https://tourism.angelescity.gov.ph/gastronomy/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " • History only; no current festival date verified\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Missing: confirmed recurring Pamanang Lakad calendar, current Sisig Festival schedule, full Apu Fiesta program, DOT accreditation/classification records, accommodation/restaurant inventory, access information and verified visiting hours. Clark Museum, CDC Parade Grounds and other Clark-area destinations need separate CDC/DOT records and jurisdiction checks.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "18 Transparency — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — One reported revenue figure and one procurement notice are collected. Annual budget, financial statements, SRE exports, audit contents and full procurement records are missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "FY 2024 locally sourced revenue: ₱1,856,941,184.83, reported by the city on 3 December 2025 in its account of BLGF Region III awards, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S46",
+          "url": "https://angelescity.gov.ph/%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%AC-%F0%9D%90%81/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". Label this as city-reported locally sourced revenue for FY 2024; it is neither the annual budget nor total operating income.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "BLGF’s fiscal-data portal is identified at "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S45",
+          "url": "https://blgf.gov.ph/lgu-fiscal-data/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " but returned 403. The city Other Documents page, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S53",
+          "url": "https://angelescity.gov.ph/other-documents/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ", did not expose financial files. The COA 2024 ZIP candidate, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S55",
+          "url": "https://www.coa.gov.ph/download/8414/pampanga/95850/angeles-city-annual-audit-report-2024.zip"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ", could not be accessed, so no audit finding, opinion or balance is asserted.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Procurement record: PhilGEPS reference 13222581, solicitation 109-26, “Machine for Blood Bank Section,” City of Angeles, Pampanga. Published 3 September 2026; closing 7 September 2026 at 13:00; ABC ₱1,705,000; 14-day delivery; negotiated small-value procurement. "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S48",
+          "url": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/SplashBidNoticeAbstractUI.aspx?BusCatID=16&DirectFrom=OpenOpp&Type=category&menuIndex=3&refID=13222581"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". The retrieved page still labels it Active despite its elapsed closing date; store that raw label separately and leave actual award/status unverified. ABC is a ceiling, not actual expenditure.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Missing: approved annual budget and appropriation ordinance, annual investment plan, financial statements, full SRE export, revenue collections by type/year, procurement plans, awards/contracts, implementation reports and audit contents. Request these exact files from Budget, Accounting, Treasurer, BAC and COA; do not populate totals from news headlines.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "19 Projects — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Two seed projects are recorded. Funding details, contractor/date fields, audited costs and current progress remain incomplete or unverified.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Seed project records can be created with unknown fields left null. Sources "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S49",
+          "url": "https://dpwh.gov.ph/DPWH/sites/default/files/webform/civil_works/notice_of_award/rn-2025-023-25ci0039-b-12-construction-and-trading-corporation.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "–"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S50",
+          "url": "https://mail.angelescity.gov.ph/view_news?newsID=8bcaf235f635f2358d0c0f2df773712c0700"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". Their document dates are historical; no current percentage completion is verified.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Project\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Amount and evidence\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Unknown fields\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Abacan Road Dike between Henson and Abacan bridges\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "₱94,374,619.06; DPWH 25CI0039; award-document extract approved 14 March 2025\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Funding source, start/end, contractor and progress; provisional full-document check\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Pampang Public Market redevelopment\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "₱400 million reported city cost; inauguration scheduled 29 November 2024\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Contract IDs, funding breakdown, audited final cost, completion proof and present status\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "For the tracker, store budget, award amount, disbursement and final cost in separate fields. Add funding_source, contract_id, notice_to_proceed_date, start_date, target_end_date, actual_end_date, progress_pct, progress_as_of and coordinates only from attributable evidence.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "20 News announcements and culture — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — News topics and cultural source leads are collected. A current announcement feed and reusable dictionary/Kulitan datasets are missing.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "News seed records from "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S51",
+          "url": "https://angelescity.gov.ph/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ": urban-gardening outreach in Pulungbulu, 21 October 2026; school-based immunization, 15 October 2026; and a local student’s international math award, 15 October 2026. These are paraphrased topics, not copied articles. Use each article’s permanent URL and issue date when ingesting the feed.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S52",
+          "url": "https://angelescity.gov.ph/category/announcement/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " contains an October 2026 compressed-workweek advisory and a La Naval class/work suspension notice. Keep historical suspension notices out of a current-alert banner after expiry. New warnings must come from the issuing city/agency record with validity times; a static scrape cannot establish that an alert is still active.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Culture sources: CKS hosts Singsing magazine, Alaya research journals, Kapampangan-language materials and a translator with English/Filipino inputs, "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S37",
+          "url": "https://www.kapampangancenter.org/index.php"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " and "
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S39",
+          "url": "https://www.kapampangancenter.org/kapampangantranslator/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": ". The translator is a community-contributed work in progress. No dictionary entries, Kulitan character mappings or quiz answers were extracted from its query interface.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "For a mini-dictionary, collect headword, language, meaning, example, source and reviewer only after retrieving the actual entry and checking reuse terms. For Kulitan, obtain a reviewed primary teaching/reference source. For the trivia game, the verified church, museum and mansion dates above can form cited questions; avoid unsupported founding dates or etymologies.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "21 Data gaps and publication readiness — PARTIAL\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Category status: PARTIAL"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — The gap register is documented, but the overall dataset is not ready for publication as a complete current city directory. Complete subdatasets can be used with their dates and source limits.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Ready as dated factual content: PSA population and barangay rows; short sourced heritage facts; source links; reported project and procurement records with their amount types and dates. The verified mayor record can seed the officials page with a last-checked date.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Needs confirmation before service guidance: BPLD checklist differences, fee schedules and help contacts; EHS hours under the compressed workweek; museum hours/fees; local hotlines; current private-school authority; live event changes.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Not collected: complete current officials and department directories; remaining barangay telephone gaps, emails, addresses and facilities; citywide service procedures; full school and hospital inventories; waste schedule; GIS files; official jeepney routing; budget/audit exports; current project progress; reusable dictionary/Kulitan dataset. These are deliberately left Missing, not estimated.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Office follow-up package: CPDO—city profile, CLUP/zoning and barangay GIS plus project inventory; HRMO/SP/Barangay Affairs—dated officials, offices and contacts; each service office—latest charter, forms, schedules and fees; CHO/DOH—facility registry; DepEd—current complete school list; CENRO—collection calendar; ACDRRMO—facility and evacuation roster; ACTDO/LTFRB—authorized routes and fares; Budget/Accounting/Treasurer/BAC—financial and procurement files; ACTO/CKS—visitor calendar and reusable cultural content.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Recommended ingestion fields for every record: id, section, raw_name, display_name, value, unit, reference_date, source_url, source_title, retrieved_at, verification_status and notes. Keep monetary values numeric with currency PHP, phone numbers as strings and unknown values null. Preserve raw values alongside normalized ones.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Source register\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "Register status: COMPLETE"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": " — Source references S01–S56 are documented. This indicates citation coverage only; inaccessible sources and missing data remain flagged in their categories.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "All sources below were checked or attempted on 28 October 2026. Primary-source content was extracted where available; unavailable and index-only sources are identified in the relevant section. A listed source is not evidence that every requested field was obtained.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S01  PSA Angeles barangays and 2024 population",
+          "url": "https://psa.gov.ph/classification/psgc/barangays/0330100000"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S02  PSA 2025 Statistical Yearbook Table 1.3",
+          "url": "https://psa.gov.ph/system/files/psy/2025%20PSY%20Final_signed.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S03  PSA Central Luzon Quickstat December 2024",
+          "url": "https://rsso03.psa.gov.ph/sites/default/files/infographics/12_December-2024-Central-Luzon-Quickstat.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S04  PSA 2024 household table 0191A6DTHP8",
+          "url": "https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1A__PO_2024/0191A6DTHP8.px/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S05  City mayor profile",
+          "url": "https://angelescity.gov.ph/angeles-city-mayor/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S06  City council page",
+          "url": "https://angelescity.gov.ph/city-council/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S07  City vice mayor page",
+          "url": "https://angelescity.gov.ph/city-vice-mayor/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S08  DILG barangay officials masterlist",
+          "url": "https://www.dilg.gov.ph/barangay-officials-directory/masterlist"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S09  City contact page",
+          "url": "https://angelescity.gov.ph/contact/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S10  eBPLS Citizen Charter two page PDF",
+          "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S11  Business permit form BPLD ABP 001 Rev 33",
+          "url": "https://angelescity.gov.ph/wp-content/uploads/2026/10/BPLD-ABP-001-Rev-33.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S12  Official eBPLS portal supplied in References",
+          "url": "https://www.cityofangeles.ph/bpls/#services"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S13  City Healthcard appointment portal",
+          "url": "https://cityofangeles.ph/healthcard/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S14  Health ID application form",
+          "url": "https://www.cityofangeles.ph/healthcard/documents/health-id-application-form"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S15  CHO Advisory 003 series 2026",
+          "url": "https://www.cityofangeles.ph/healthcard/documents/advisory-no-003-series-of-2026-guidelines-on-the-mandatory-requirement-of-health-certificates-or-health-id-for-all-employees"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S16  DOH National TB Control Program facility directory",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%255Btype_id%255D=5&yiiwp-page=14"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S17  DOH TB laboratory directory",
+          "url": "https://ntp.doh.gov.ph/resources/facilities/?FacilitySearch%5Btype_id%5D=5&yiiwp-page=6"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S18  DepEd Angeles public school directory",
+          "url": "https://depedangelescity.com/?page_id=254"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S19  DepEd private schools authorized SY 2025 2026",
+          "url": "https://depedangelescity.com/wp-content/uploads/2025/08/SDO-Angeles-City-List-of-Private-Schools-Granted-Authority-to-Operate-SY-2025-2026.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S20  CSWDO assistance report October 7 2026",
+          "url": "https://angelescity.gov.ph/%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%8B%F0%9D%90%86%F0%9D%90%94-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A7/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S21  City waste segregation report February 19 2025",
+          "url": "https://angelescity.gov.ph/view_news?newsID=8bcaf22d8fcc72348d0cf72df773712c0700"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S22  City published ACDRRMO hotlines April 11 2024",
+          "url": "https://angelescity.gov.ph/view_news?newsID=8bcaf235f6358aacf0ad0a2cf775712c0700"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S23  City police hotline notice indexed only page returned 404",
+          "url": "https://mail.angelescity.gov.ph/view_news?newsID=8bcaf22d8fcc0a34f5ad4a2ef70b712c0700"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S24  City disaster preparedness meeting October 15 2026",
+          "url": "https://angelescity.gov.ph/%F0%9D%90%80%F0%9D%90%82%F0%9D%90%83%F0%9D%90%91%F0%9D%90%91%F0%9D%90%8C%F0%9D%90%82-%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9D%F0%9D%90%AC-%F0%9D%9F%92%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%90/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S25  PAGASA heat index",
+          "url": "https://pagasa.dost.gov.ph/weather/heat-index"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S26  PAGASA climatological normals",
+          "url": "https://pagasa.dost.gov.ph/climate/climatological-normals"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S27  PAGASA Clark METAR",
+          "url": "https://www.pagasa.dost.gov.ph/aviation/metar"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S28  PAGASA Flood Caster",
+          "url": "https://floodcaster.pagasa.dost.gov.ph/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S29  Geoportal Philippines",
+          "url": "https://www.geoportal.gov.ph/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S30  NAMRIA downloadable maps",
+          "url": "https://www.namria.gov.ph/downloads.aspx"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S31  HazardHunterPH project information",
+          "url": "https://hazardhunter.georisk.gov.ph/index.php/about-hazardhunterph"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S32  PHIVOLCS hazard map download guidance",
+          "url": "https://www.phivolcs.dost.gov.ph/gisweb-download-hazard-maps-instruction/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S33  AngelesMap community jeepney guide",
+          "url": "https://www.angelesmap.com/angeles-city-jeepney-routes"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S34  City tourism built heritage",
+          "url": "https://tourism.angelescity.gov.ph/built-heritage/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S35  City tourism contact",
+          "url": "https://tourism.angelescity.gov.ph/contact-us/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S36  NHCP Pamintuan historical registry",
+          "url": "https://philhistoricsites.nhcp.gov.ph/registry_database/mansyong-pamintuan/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S37  HAU Center for Kapampangan Studies",
+          "url": "https://www.kapampangancenter.org/index.php"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S38  CKS museum reservations",
+          "url": "https://www.kapampangancenter.org/CKSReservation/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S39  CKS Kapampangan Translator",
+          "url": "https://www.kapampangancenter.org/kapampangantranslator/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S40  TTKD 2026 city event record",
+          "url": "https://angelescity.gov.ph/event/tigtigan-terakan-keng-dalan-festival-ttkd-2026/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S41  Apung Mamacalulu city event record",
+          "url": "https://angelescity.gov.ph/event/apung-mamacalulu/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S42  La Naval opening and closing salvo city event",
+          "url": "https://angelescity.gov.ph/event/la-naval-opening-and-closing-salvo/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S43  City gastronomy and Sisig Festival history",
+          "url": "https://tourism.angelescity.gov.ph/gastronomy/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S44  City Pamanang Lakad report October 5 2026",
+          "url": "https://angelescity.gov.ph/muling-nakisaya-at-nakisabay-sa-pamanang-lakad-sa-heritage-district-ang-mga-asap-xp-artists/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S45  BLGF fiscal data portal",
+          "url": "https://blgf.gov.ph/lgu-fiscal-data/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S46  City report of FY 2024 local revenue",
+          "url": "https://angelescity.gov.ph/%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%AC-%F0%9D%90%81/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S47  City Treasurer 2024 tax notice indexed only full PDF returned 403",
+          "url": "https://blgf.gov.ph/wp-content/uploads/2024/01/Angeles-City.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S48  PhilGEPS blood bank equipment RFQ 13222581",
+          "url": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/SplashBidNoticeAbstractUI.aspx?BusCatID=16&DirectFrom=OpenOpp&Type=category&menuIndex=3&refID=13222581"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S49  DPWH 25CI0039 indexed award extract full PDF not accessed",
+          "url": "https://dpwh.gov.ph/DPWH/sites/default/files/webform/civil_works/notice_of_award/rn-2025-023-25ci0039-b-12-construction-and-trading-corporation.pdf"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S50  City Pampang Public Market redevelopment report",
+          "url": "https://mail.angelescity.gov.ph/view_news?newsID=8bcaf235f635f2358d0c0f2df773712c0700"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S51  City news and services homepage",
+          "url": "https://angelescity.gov.ph/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S52  City announcements archive",
+          "url": "https://angelescity.gov.ph/category/announcement/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S53  City Other Documents page",
+          "url": "https://angelescity.gov.ph/other-documents/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S54  City Profile page",
+          "url": "https://angelescity.gov.ph/city-profile/"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S55  COA 2024 audit ZIP candidate not accessed",
+          "url": "https://www.coa.gov.ph/download/8414/pampanga/95850/angeles-city-annual-audit-report-2024.zip"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "S56  User-supplied region III barangay officials list.xlsx — Sheet1 A10627:L11279; 653 City of Angeles records; term label 2023 - 2026; extracted 28 October 2026. Source worksheet and row numbers accompany the contact tables; no live-source refresh or independent currency check was performed.\n"
+        },
+        {
+          "tab": "t.c9b8ncio4f4",
+          "text": "\n"
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "section": "1 City profile — PARTIAL",
+      "rows": [
+        [
+          "Field",
+          "Value",
+          "Reference and status"
+        ],
+        [
+          "City",
+          "City of Angeles",
+          "S01 • Verified"
+        ],
+        [
+          "City PSGC",
+          "0330100000",
+          "S01 • Store as text"
+        ],
+        [
+          "Legacy code",
+          "035401000",
+          "S01 • Correspondence code"
+        ],
+        [
+          "Classification",
+          "Highly urbanized city in Central Luzon; geographically in Pampanga and politically independent",
+          "S51 • Verified"
+        ],
+        [
+          "Population",
+          "483,452",
+          "S01 • 2024 POPCEN"
+        ],
+        [
+          "Population",
+          "462,928",
+          "S02 • 2020 census"
+        ],
+        [
+          "Population",
+          "411,634",
+          "S02 • 2015 census"
+        ],
+        [
+          "Population",
+          "326,336",
+          "S02 • 2010 census"
+        ],
+        [
+          "Land area",
+          "63.37 km²",
+          "S02 • PSA yearbook basis; CPDO boundary basis not obtained"
+        ],
+        [
+          "Household population",
+          "461,165",
+          "S03 • 2020 only"
+        ],
+        [
+          "Households",
+          "116,343",
+          "S03 • 2020 only"
+        ],
+        [
+          "Barangays",
+          "33; all listed as urban",
+          "S01 • Page labels list as of 31 July 2025"
+        ]
+      ]
+    },
+    {
+      "section": "2 Barangay masterlist — PARTIAL",
+      "rows": [
+        [
+          "Official name",
+          "PSGC",
+          "Population 2024"
+        ],
+        [
+          "Agapito del Rosario",
+          "0330100001",
+          "2665"
+        ],
+        [
+          "Anunas",
+          "0330100002",
+          "22722"
+        ],
+        [
+          "Balibago",
+          "0330100003",
+          "38510"
+        ],
+        [
+          "Capaya",
+          "0330100004",
+          "13916"
+        ],
+        [
+          "Claro M. Recto",
+          "0330100005",
+          "5569"
+        ],
+        [
+          "Cuayan",
+          "0330100006",
+          "13956"
+        ],
+        [
+          "Cutcut",
+          "0330100007",
+          "28699"
+        ],
+        [
+          "Cutud",
+          "0330100008",
+          "23921"
+        ],
+        [
+          "Lourdes North West",
+          "0330100010",
+          "13415"
+        ],
+        [
+          "Lourdes Sur",
+          "0330100011",
+          "5469"
+        ],
+        [
+          "Lourdes Sur East",
+          "0330100012",
+          "4267"
+        ],
+        [
+          "Malabañas",
+          "0330100013",
+          "29072"
+        ],
+        [
+          "Margot",
+          "0330100014",
+          "12459"
+        ],
+        [
+          "Mining",
+          "0330100015",
+          "3502"
+        ],
+        [
+          "Pampang",
+          "0330100017",
+          "31001"
+        ],
+        [
+          "Pandan",
+          "0330100018",
+          "28499"
+        ],
+        [
+          "Pulung Maragul",
+          "0330100019",
+          "24286"
+        ],
+        [
+          "Pulungbulu",
+          "0330100020",
+          "14005"
+        ],
+        [
+          "Pulung Cacutud",
+          "0330100021",
+          "25338"
+        ],
+        [
+          "Salapungan",
+          "0330100022",
+          "5602"
+        ],
+        [
+          "San Jose",
+          "0330100023",
+          "8285"
+        ],
+        [
+          "San Nicolas",
+          "0330100024",
+          "5174"
+        ],
+        [
+          "Sta. Teresita",
+          "0330100025",
+          "9409"
+        ],
+        [
+          "Sta. Trinidad",
+          "0330100026",
+          "7027"
+        ],
+        [
+          "Sto. Cristo",
+          "0330100027",
+          "3963"
+        ],
+        [
+          "Sto. Domingo",
+          "0330100028",
+          "19575"
+        ],
+        [
+          "Sto. Rosario",
+          "0330100029",
+          "6476"
+        ],
+        [
+          "Sapalibutad",
+          "0330100030",
+          "14989"
+        ],
+        [
+          "Sapangbato",
+          "0330100031",
+          "9037"
+        ],
+        [
+          "Tabun",
+          "0330100032",
+          "14604"
+        ],
+        [
+          "Virgen Delos Remedios",
+          "0330100034",
+          "1299"
+        ],
+        [
+          "Amsic",
+          "0330100035",
+          "24437"
+        ],
+        [
+          "Ninoy Aquino",
+          "0330100036",
+          "12304"
+        ]
+      ]
+    },
+    {
+      "section": "2 Barangay masterlist — PARTIAL",
+      "rows": [
+        [
+          "Barangay",
+          "Punong Barangay as listed",
+          "Telephone on captain row",
+          "Sheet1 row"
+        ],
+        [
+          "Agapito del Rosario",
+          "MAURO MANARANGA MALLARI",
+          "Not provided (NONE)",
+          "10627"
+        ],
+        [
+          "Amsic",
+          "GEROM PAMINTUAN COSTALES",
+          "Not provided (NONE)",
+          "10647"
+        ],
+        [
+          "Anunas",
+          "AUGUSTO LIWANAG FLORES",
+          "Not provided (N/A)",
+          "10667"
+        ],
+        [
+          "Balibago",
+          "JOSEPH GOMEZ PONCE",
+          "Not provided (NONE)",
+          "10685"
+        ],
+        [
+          "Capaya",
+          "RAFAEL GO BONDOC",
+          "Not provided (NONE)",
+          "10705"
+        ],
+        [
+          "Claro M. Recto",
+          "ALEXANDER SOLIMAN DE GUZMAN",
+          "Not provided (NONE)",
+          "10725"
+        ],
+        [
+          "Cuayan",
+          "ULYSSIS SIMBULAN LUMANLAN",
+          "Not provided (NONE)",
+          "10745"
+        ],
+        [
+          "Cutcut",
+          "JUANITO DEL ROSARIO DAYRIT",
+          "4583733",
+          "10765"
+        ],
+        [
+          "Cutud",
+          "JESUSITO AGUILAR MASBANG",
+          "Not provided (NONE)",
+          "10785"
+        ],
+        [
+          "Lourdes North West",
+          "NICANOR ABELARDO SORIANO",
+          "0459012270",
+          "10805"
+        ],
+        [
+          "Lourdes Sur",
+          "BERNARD UMALI DAYRIT",
+          "Not provided (NONE)",
+          "10825"
+        ],
+        [
+          "Lourdes Sur East",
+          "ALFREDO SANCHEZ BULAUN",
+          "Not provided (NONE)",
+          "10845"
+        ],
+        [
+          "Malabañas",
+          "LUZ ABLAY NAVA",
+          "0459666882",
+          "10865"
+        ],
+        [
+          "Margot",
+          "DOMINADOR AGUSTIN LISING JR.",
+          "Not provided (NONE)",
+          "10885"
+        ],
+        [
+          "Mining",
+          "LESTER ZAMORA HERNANDEZ",
+          "Not provided (NONE)",
+          "10903"
+        ],
+        [
+          "Ninoy Aquino",
+          "JOHN TERRY OCAMPO HALILI",
+          "09190915301",
+          "10922"
+        ],
+        [
+          "Pampang",
+          "CARLOS PANGILINAN DELA CRUZ",
+          "09753302035",
+          "10941"
+        ],
+        [
+          "Pandan",
+          "MARIA CORAZON CRUZ ALEJANDRINO",
+          "Not provided (NONE)",
+          "10961"
+        ],
+        [
+          "Pulung Cacutud",
+          "FRANCISCO NAVA CURA",
+          "09190017155",
+          "10981"
+        ],
+        [
+          "Pulung Maragul",
+          "EDGAR BUSTAMANTE AVILLON",
+          "Not provided (0)",
+          "11001"
+        ],
+        [
+          "Pulungbulu",
+          "LORNA NARCISO ZABALA",
+          "09284019917",
+          "11021"
+        ],
+        [
+          "Salapungan",
+          "REYNALDO BAUTISTA MALIG",
+          "0459615546",
+          "11041"
+        ],
+        [
+          "San Jose",
+          "HARRY PANGILINAN CASTRO",
+          "8874676",
+          "11061"
+        ],
+        [
+          "San Nicolas",
+          "AMELIA PANIZA TORRES",
+          "Not provided (NONE)",
+          "11081"
+        ],
+        [
+          "Sapalibutad",
+          "CRISTINA VILLAPAÑA PINEDA",
+          "09924709976",
+          "11101"
+        ],
+        [
+          "Sapangbato",
+          "MARIO MUSNI MANIALUNG",
+          "Not provided (NONE)",
+          "11121"
+        ],
+        [
+          "Sta. Teresita",
+          "JOEL TORESS SANCHEZ",
+          "Not provided (NONE)",
+          "11141"
+        ],
+        [
+          "Sta. Trinidad",
+          "DANILO MANALAD NACU",
+          "09308832099",
+          "11161"
+        ],
+        [
+          "Sto. Cristo",
+          "LOURDES SUAREZ MANANSALA",
+          "09194841506",
+          "11181"
+        ],
+        [
+          "Sto. Domingo",
+          "MARIA MARCIA BALINGIT ARCEO",
+          "Not provided (NONE)",
+          "11200"
+        ],
+        [
+          "Sto. Rosario",
+          "RENATO CORTEZ COSME",
+          "Not provided (NONE)",
+          "11220"
+        ],
+        [
+          "Tabun",
+          "ANGEL GUEVARRA CORDERO",
+          "0456240426",
+          "11240"
+        ],
+        [
+          "Virgen Delos Remedios",
+          "RONALD SANTOS DIANGSON",
+          "Not provided (NONE)",
+          "11260"
+        ]
+      ]
+    },
+    {
+      "section": "2 Barangay masterlist — PARTIAL",
+      "rows": [
+        [
+          "Barangay and source role",
+          "Official on first matching row",
+          "Raw phone value",
+          "Source and checks"
+        ],
+        [
+          "Balibago / Sangguniang Barangay Member",
+          "JIM KIM DE GUZMAN TIMBOL",
+          "099909990638",
+          "Row 10692; 1 row with this exact value; 12 digits, verify"
+        ],
+        [
+          "Balibago / Barangay Treasurer",
+          "LIEZEL BARRERA BALUYUT",
+          "09271481550",
+          "Row 10694; 1 row with this exact value"
+        ],
+        [
+          "Balibago / Barangay Secretary",
+          "ARNALDO CABALES ENZ",
+          "09770825273",
+          "Row 10695; 2 rows with this exact value"
+        ],
+        [
+          "Balibago / SK Member",
+          "JUSTINE LEE BATAC",
+          "09171637710",
+          "Row 10697; 5 rows with this exact value"
+        ],
+        [
+          "Balibago / SK Member",
+          "KATHERINE AÑASCO JAYLO",
+          "09171637711",
+          "Row 10700; 1 row with this exact value"
+        ],
+        [
+          "Balibago / SK Secretary",
+          "MONICA GUECO MAGALONA",
+          "09951395340",
+          "Row 10703; 1 row with this exact value"
+        ],
+        [
+          "Cuayan / SK Member",
+          "WENDY DEBULGADO DE LEON",
+          "09653029340",
+          "Row 10756; 9 rows with this exact value"
+        ],
+        [
+          "Lourdes North West / Barangay Secretary",
+          "CAMILLE NABONG DEL ROSARIO",
+          "0455131126",
+          "Row 10815; 1 row with this exact value"
+        ],
+        [
+          "Lourdes Sur East / Sangguniang Barangay Member",
+          "MARY HOPE MUNO REYES",
+          "0458886198",
+          "Row 10846; 15 rows with this exact value"
+        ],
+        [
+          "Pandan / Barangay Treasurer",
+          "ANALINE BLANZA DAYRIT",
+          "09955308426",
+          "Row 10970; 1 row with this exact value"
+        ],
+        [
+          "Pandan / Barangay Secretary",
+          "MARLON SISON GARCIA",
+          "09989558440",
+          "Row 10971; 1 row with this exact value"
+        ],
+        [
+          "Pulung Maragul / Sangguniang Barangay Member",
+          "RONALDO DAVID ANCHETA",
+          "09055615416",
+          "Row 11003; 16 rows with this exact value"
+        ],
+        [
+          "Pulung Maragul / Sangguniang Barangay Member",
+          "ALVIN ARCIGA TAYAG",
+          "0905561416",
+          "Row 11004; 1 row with this exact value; 10-digit mobile-like value, verify"
+        ],
+        [
+          "Pulung Maragul / Sangguniang Barangay Member",
+          "JOEMEDEZ PRADO MEDINA",
+          "09055565416",
+          "Row 11006; 1 row with this exact value; differs from common value 09055615416"
+        ],
+        [
+          "Pulungbulu / Sangguniang Barangay Member",
+          "PRIMITIVA DUNGCA CALARA",
+          "09059406884",
+          "Row 11022; 15 rows with this exact value"
+        ],
+        [
+          "Pulungbulu / Sangguniang Barangay Member",
+          "JOSE MARI TORNO CASTRO",
+          "09205536310",
+          "Row 11024; 1 row with this exact value"
+        ],
+        [
+          "Pulungbulu / Sangguniang Barangay Member",
+          "RONEL PABUSTAN TULIO",
+          "0928401",
+          "Row 11026; 1 row with this exact value; apparently truncated, verify"
+        ],
+        [
+          "Salapungan / Sangguniang Barangay Member",
+          "ROLANDO CARBUNGCO NULUD",
+          "0459617546",
+          "Row 11042; 12 rows with this exact value; differs from captain row"
+        ],
+        [
+          "Salapungan / Sangguniang Barangay Member",
+          "JOSELITO PATDU AGTARAP",
+          "0454518891",
+          "Row 11043; 1 row with this exact value; differs from captain row"
+        ],
+        [
+          "San Jose / Sangguniang Barangay Member",
+          "AL CEZAR MANUEL RODRIGUEZ",
+          "887-4676",
+          "Row 11062; 2 rows with this exact value; same digits as captain, formatting variant"
+        ],
+        [
+          "San Nicolas / Sangguniang Barangay Member",
+          "CHRISTOPHER SARMIENTO NULUD",
+          "09628728319",
+          "Row 11082; 18 rows with this exact value"
+        ],
+        [
+          "Sapangbato / SK Member",
+          "EINGEL AGUILAR LUMBANG",
+          "09069453623",
+          "Row 11133; 8 rows with this exact value"
+        ],
+        [
+          "Sta. Teresita / Barangay Secretary",
+          "danilon pamintuan paras",
+          "09568630757",
+          "Row 11151; 1 row with this exact value"
+        ],
+        [
+          "Sta. Teresita / SK Treasurer",
+          "john paul agcaoili pingul",
+          "09162274056",
+          "Row 11160; 1 row with this exact value"
+        ],
+        [
+          "Virgen Delos Remedios / SK Treasurer",
+          "FREDERICK SINGSON PALLINGAYAN",
+          "09953194318",
+          "Row 11279; 1 row with this exact value"
+        ]
+      ]
+    },
+    {
+      "section": "5 Government departments — PARTIAL",
+      "rows": [
+        [
+          "Office",
+          "Extracted details",
+          "Source and status"
+        ],
+        [
+          "Tourism",
+          "(045) 625 2286; acto@angelescity.gov.ph; City Hall, Pulung Maragul",
+          "S35 • Verified published contact"
+        ],
+        [
+          "BPLD",
+          "Business permit processing; chief named Emilio Enrico C. Romero",
+          "S10–S11 • Named in documents; confirm current appointment"
+        ],
+        [
+          "City Health sanitation",
+          "045-322-4483 locals 3025 / 3023; 3rd floor City Hall, Pulung Maragul",
+          "S13 • Published"
+        ],
+        [
+          "ICTD support",
+          "(045) 322-3344; ictd@angelescity.gov.ph",
+          "S13 • Portal technical support"
+        ],
+        [
+          "BAC contact",
+          "Patricia Mae L. Cura; 63-45-8932208; pmlc.bac@gmail.com; City Hall, Pulung Maragul",
+          "S48 • September 2026 notice contact"
+        ]
+      ]
+    },
+    {
+      "section": "8 Health — PARTIAL",
+      "rows": [
+        [
+          "Facility",
+          "Published location",
+          "Source"
+        ],
+        [
+          "RHU I Sto. Domingo",
+          "San Marcos St., Sto. Domingo",
+          "S16–S17"
+        ],
+        [
+          "RHU II Lourdes Northwest",
+          "Kalayaan St., Lourdes Northwest",
+          "S16"
+        ],
+        [
+          "RHU III Lourdes Sur East",
+          "D. Fajardo St., Lourdes Sur East",
+          "S17"
+        ],
+        [
+          "RHU IV Balibago",
+          "Doña Rosario St.",
+          "S16–S17"
+        ],
+        [
+          "RHU V Pandan",
+          "San Pablo St., San Ignacio, Pandan",
+          "S16–S17"
+        ],
+        [
+          "RHU VI Pulung Cacutud",
+          "EPZA Resettlement, Pulung Cacutud",
+          "S16–S17"
+        ]
+      ]
+    },
+    {
+      "section": "9 Education — PARTIAL",
+      "rows": [
+        [
+          "ID",
+          "School",
+          "Directory location"
+        ],
+        [
+          "107022",
+          "Abelardo G. Tinio ES",
+          "Capaya 2"
+        ],
+        [
+          "161001",
+          "Air Force City ES",
+          "Kudiaro St., Clark"
+        ],
+        [
+          "107038",
+          "Alberto G. Pabalan ES",
+          "6th St., Balibago"
+        ],
+        [
+          "107023",
+          "Angeles ES",
+          "Jesus St., Pulungbulu"
+        ],
+        [
+          "107040",
+          "Anunas ES",
+          "Anunas"
+        ],
+        [
+          "107053",
+          "Cuayan ES",
+          "Sumulong Drive"
+        ],
+        [
+          "107054",
+          "Cutcut ES",
+          "Mali, Cutcut"
+        ],
+        [
+          "107025",
+          "Cutud ES",
+          "Purok 2, Cutud"
+        ],
+        [
+          "107028",
+          "Enrica Sandico ES",
+          "Sameera, Sapalibutad"
+        ],
+        [
+          "107029",
+          "EPZA Resettlement ES",
+          "Pulung Cacutud"
+        ],
+        [
+          "107031",
+          "Jose P. Dizon ES",
+          "Magalang Road, Pandan"
+        ],
+        [
+          "107059",
+          "Pampang ES",
+          "Purok 2, Pampang"
+        ],
+        [
+          "301039",
+          "Angeles City National HS",
+          "Purok 3, Pampang"
+        ],
+        [
+          "301038",
+          "Angeles City National Trade School",
+          "Friendship Highway, Cutcut"
+        ],
+        [
+          "307202",
+          "Angeles City Science HS",
+          "Doña Aurora St., Lourdes Sur East"
+        ],
+        [
+          "500131",
+          "Amsic IS",
+          "Purok 3, Amsic"
+        ],
+        [
+          "500132",
+          "Malabanias IS",
+          "Tamarind St., Malabanias"
+        ],
+        [
+          "500130",
+          "Northville 15 IS",
+          "Northville 15, Cutud"
+        ]
+      ]
+    },
+    {
+      "section": "9 Education — PARTIAL",
+      "rows": [
+        [
+          "ID",
+          "School",
+          "Published address"
+        ],
+        [
+          "421040",
+          "Abundant Life School of Discovery Inc.",
+          "119 Clark Ave., Villasol"
+        ],
+        [
+          "401296",
+          "Achievers Special Education Center",
+          "P. Tablante St., Pulungbulu"
+        ],
+        [
+          "401297",
+          "Aldersgate Ecumenical School Inc.",
+          "A. Del Rosario St., Lourdes Northwest"
+        ],
+        [
+          "401793",
+          "AMA Computer College Angeles City",
+          "7333 P. Santos St., Londale Bldg., Nepo, Sto. Rosario"
+        ],
+        [
+          "421013",
+          "Amen Mission Christian School",
+          "12-1D 6th St., Villasol"
+        ],
+        [
+          "401299",
+          "Angeles Adventist Elem. School Inc.",
+          "M. L. Quezon St., C. M. Recto"
+        ],
+        [
+          "401301",
+          "Angeles Lip Lin School",
+          "2528 Mabini St."
+        ],
+        [
+          "401302",
+          "Angeles University Foundation",
+          "Broadway St., Ninoy Aquino"
+        ]
+      ]
+    },
+    {
+      "section": "10 Social services — PARTIAL",
+      "rows": [
+        [
+          "Program",
+          "Reported amount per recipient",
+          "Reported beneficiaries"
+        ],
+        [
+          "Solo Parent Subsidy",
+          "₱1,000",
+          "505"
+        ],
+        [
+          "Education for children of solo parents",
+          "₱3,000",
+          "11 college students"
+        ],
+        [
+          "Educational Assistance for Youth",
+          "₱3,000",
+          "25"
+        ],
+        [
+          "Calamity assistance",
+          "₱10,000",
+          "18"
+        ],
+        [
+          "CNSP / WEDC assistance",
+          "₱3,000–₱5,000",
+          "4 combined"
+        ]
+      ]
+    },
+    {
+      "section": "16 Jeepney routes — NEEDS VERIFICATION",
+      "rows": [
+        [
+          "Route lead",
+          "Color in community guide",
+          "Status"
+        ],
+        [
+          "Main Gate–Friendship",
+          "Sand",
+          "Provisional"
+        ],
+        [
+          "C’Point–Balibago–H’Way",
+          "Grey",
+          "Provisional"
+        ],
+        [
+          "SM City–Main Gate–Dau",
+          "Various",
+          "Provisional"
+        ],
+        [
+          "Checkpoint–Hensonville–Holy",
+          "White",
+          "Provisional"
+        ],
+        [
+          "Sapang Bato–Angeles",
+          "Maroon",
+          "Provisional"
+        ],
+        [
+          "Checkpoint–Holy–Highway",
+          "Lavender",
+          "Provisional"
+        ],
+        [
+          "Marisol–Pampang",
+          "Green",
+          "Provisional"
+        ],
+        [
+          "Pandang–Pampang",
+          "Blue",
+          "Source spelling; confirm Pandan"
+        ],
+        [
+          "Sunset–Nepo",
+          "Orange",
+          "Provisional"
+        ],
+        [
+          "Villa–Pampang / SM Telebastagan",
+          "Yellow",
+          "Spelling/endpoints need validation"
+        ],
+        [
+          "Capaya–Angeles",
+          "Pink",
+          "Provisional"
+        ]
+      ]
+    },
+    {
+      "section": "17 Tourism and festivals — PARTIAL",
+      "rows": [
+        [
+          "Place",
+          "Location",
+          "Verified extract"
+        ],
+        [
+          "Holy Rosary Church / Pisamban Maragul",
+          "Sto. Rosario St., Sto. Rosario",
+          "Completed 12 February 1896; tourism lists Important Cultural Property status"
+        ],
+        [
+          "Museo ning Angeles",
+          "Sto. Rosario St., Sto. Rosario",
+          "Former city hall built 1922; transferred for museum use in 1999"
+        ],
+        [
+          "Pamintuan Mansion",
+          "Sto. Entierro corner Miranda, Angeles City",
+          "NHCP museum; Philippine social-history museum inaugurated 24 August 2015"
+        ],
+        [
+          "CKS Main Museum",
+          "Holy Angel University",
+          "Kapampangan history, culture and archaeology"
+        ],
+        [
+          "Pinatubo Museum",
+          "Holy Angel University",
+          "Volcano history and eruption/lahar exhibits"
+        ],
+        [
+          "Museum of Kapampangan Arts",
+          "Holy Angel University",
+          "Vicente Manansala sketches and memorabilia"
+        ]
+      ]
+    },
+    {
+      "section": "17 Tourism and festivals — PARTIAL",
+      "rows": [
+        [
+          "Event",
+          "Extracted schedule / location",
+          "Source and state"
+        ],
+        [
+          "TTKD 2026",
+          "23–24 October 2026; MacArthur Highway, Balibago / Quad Jr, Nepo Center",
+          "S40 • Past"
+        ],
+        [
+          "La Naval opening and closing salvo",
+          "10 October 2026; Heritage District and Museo ning Angeles",
+          "S42 • Past"
+        ],
+        [
+          "Apung Mamacalulu",
+          "30 October 2026; 17:30 Mass, 18:30 procession",
+          "S41 • Upcoming; venue not stated"
+        ],
+        [
+          "Pamanang Lakad",
+          "City report dated 5 October 2026 places it in the Heritage District",
+          "S44 • Dated report; recurring schedule not verified"
+        ],
+        [
+          "Sisig Festival",
+          "First festival identified as 2003",
+          "S43 • History only; no current festival date verified"
+        ]
+      ]
+    },
+    {
+      "section": "19 Projects — PARTIAL",
+      "rows": [
+        [
+          "Project",
+          "Amount and evidence",
+          "Unknown fields"
+        ],
+        [
+          "Abacan Road Dike between Henson and Abacan bridges",
+          "₱94,374,619.06; DPWH 25CI0039; award-document extract approved 14 March 2025",
+          "Funding source, start/end, contractor and progress; provisional full-document check"
+        ],
+        [
+          "Pampang Public Market redevelopment",
+          "₱400 million reported city cost; inauguration scheduled 29 November 2024",
+          "Contract IDs, funding breakdown, audited final cost, completion proof and present status"
+        ]
+      ]
+    }
+  ]
+}

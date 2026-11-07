@@ -1,0 +1,807 @@
+{
+  "preparedOn": "2026-11-07",
+  "sourceDocument": "https://docs.google.com/document/d/12tTdNNL5tomBFAQpSoRla_LjOb9UhHoAcyCg9y-Vf00",
+  "sourceSnapshot": "content/reference/angeles-city/planning-document-2026-11-07.json",
+  "sourceSnapshotSha256": "eab4aff5066090ded960a7a1266a78448cbcf25ccca9268bcda6e49e784c53e3",
+  "scope": "Publication dispositions using available evidence; not independent confirmation of current procedures.",
+  "pages": [
+    {
+      "category": "civil-documents",
+      "slug": "register-birth-certificate",
+      "name": "Register a birth certificate",
+      "file": "content/services/civil-documents/register-birth-certificate.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/registration-of-birth-on-time.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/delayed-registration-of-birth.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "civil-documents",
+      "slug": "register-death-certificate",
+      "name": "Register a death certificate",
+      "file": "content/services/civil-documents/register-death-certificate.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/registration-of-death-on-time.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/delayed-registration-of-death.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "civil-documents",
+      "slug": "register-marriage-certificate",
+      "name": "Register a marriage certificate",
+      "file": "content/services/civil-documents/register-marriage-certificate.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/registration-of-marriage-on-time.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/delayed-registration-of-marriage.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "civil-documents",
+      "slug": "request-certified-civil-registry-documents",
+      "name": "Request certified civil registry documents",
+      "file": "content/services/civil-documents/request-certified-civil-registry-documents.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/issuance-of-certified-copy-of-birth-others.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "civil-documents",
+      "slug": "apply-for-marriage-license",
+      "name": "Apply for a marriage license",
+      "file": "content/services/civil-documents/apply-for-marriage-license.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/birth_certificate/issuance-of-marriage-license.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "taxes-fees",
+      "slug": "pay-real-property-tax",
+      "name": "Pay real property tax",
+      "file": "content/services/taxes-fees/pay-real-property-tax.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-real-property-tax-order-of-payment.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/business/real_property_tax/ISSUANCE-OF-RPTOP.pdf",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/payment-of-real-property-tax.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "taxes-fees",
+      "slug": "request-certified-tax-declaration",
+      "name": "Request a certified tax declaration",
+      "file": "content/services/taxes-fees/request-certified-tax-declaration.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-certified-true-copy-of-tax-declaration.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/business/real_property_tax/ISSUANCE-OF-CTC.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "taxes-fees",
+      "slug": "request-property-assessment-certification",
+      "name": "Request a property assessment certification",
+      "file": "content/services/taxes-fees/request-property-assessment-certification.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-any-assessment-certification.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/business/real_property_tax/ISSUANCE-OF-ASSESSMENT.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "taxes-fees",
+      "slug": "get-community-tax-certificate-cedula",
+      "name": "Get a Community Tax Certificate or cedula",
+      "file": "content/services/taxes-fees/get-community-tax-certificate-cedula.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/issuance-of-community-tax-certificate.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "taxes-fees",
+      "slug": "pay-transfer-tax-and-request-certificate",
+      "name": "Pay transfer tax and request a transfer tax certificate",
+      "file": "content/services/taxes-fees/pay-transfer-tax-and-request-certificate.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-transfer-tax-certificate.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/tax_fees/payment-of-transfer-tax-and-issuance-of-transfer-tax-certificate.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "health-services",
+      "slug": "get-free-check-ups-basic-medicines-and-vaccines",
+      "name": "Get free check-ups and vaccines, and ask about medicines",
+      "file": "content/services/health-services/get-free-check-ups-basic-medicines-and-vaccines.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://angelescity.gov.ph/%f0%9d%90%92%f0%9d%90%9c%f0%9d%90%a1%f0%9d%90%a8%f0%9d%90%a8%f0%9d%90%a5-%f0%9d%90%81%f0%9d%90%9a%f0%9d%90%ac%f0%9d%90%9e%f0%9d%90%9d-%f0%9d%90%88%f0%9d%90%a6%f0%9d%90%a6%f0%9d%90%ae%f0%9d%90%a7/",
+        "https://angelescity.gov.ph/%f0%9d%97%9d%f0%9d%97%a2%f0%9d%97%9c%f0%9d%97%a1-%f0%9d%98%81%f0%9d%97%ae%f0%9d%97%bb%f0%9d%97%ae-%f0%9d%97%94%f0%9d%97%a1%f0%9d%97%9a%f0%9d%97%98%f0%9d%97%9f%f0%9d%97%98n%f0%9d%97%a2%f0%9d%97%a6-2/",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/health_services_programs/consultation-services.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/health_services_programs/immunization-services.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "health-services",
+      "slug": "access-maternal-care-and-child-immunization",
+      "name": "Access maternal care and child immunization",
+      "file": "content/services/health-services/access-maternal-care-and-child-immunization.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://angelescity.gov.ph/%f0%9d%90%92%f0%9d%90%9c%f0%9d%90%a1%f0%9d%90%a8%f0%9d%90%a8%f0%9d%90%a5-%f0%9d%90%81%f0%9d%90%9a%f0%9d%90%ac%f0%9d%90%9e%f0%9d%90%9d-%f0%9d%90%88%f0%9d%90%a6%f0%9d%90%a6%f0%9d%90%ae%f0%9d%90%a7/",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/health_services_programs/maternal-health-care.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/health_services_programs/immunization-services.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "health-services",
+      "slug": "go-to-the-local-hospital-for-treatment-or-confinement",
+      "name": "Go to the local hospital for treatment or confinement",
+      "file": "content/services/health-services/go-to-the-local-hospital-for-treatment-or-confinement.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "health-services",
+      "slug": "join-health-programs-nutrition-dengue-control-tb-treatment",
+      "name": "Join health programs (nutrition, dengue control, TB treatment)",
+      "file": "content/services/health-services/join-health-programs-nutrition-dengue-control-tb-treatment.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "health-services",
+      "slug": "apply-for-worker-health-certificate-cards",
+      "name": "Apply for worker health certificate cards",
+      "file": "content/services/health-services/apply-for-worker-health-certificate-cards.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://cityofangeles.ph/healthcard/",
+        "https://www.cityofangeles.ph/healthcard/documents/health-id-application-form",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-white-green-health-card.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-pink-health-card.pdf"
+      ],
+      "documentSourceIds": [
+        "doc20261028:S13",
+        "doc20261028:S14"
+      ]
+    },
+    {
+      "category": "education",
+      "slug": "enroll-children-in-lgu-daycare-or-preschool-programs",
+      "name": "Enroll children in LGU daycare or preschool programs",
+      "file": "content/services/education/enroll-children-in-lgu-daycare-or-preschool-programs.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "education",
+      "slug": "apply-for-local-scholarships",
+      "name": "Apply for local scholarships",
+      "file": "content/services/education/apply-for-local-scholarships.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/news"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "education",
+      "slug": "access-educational-support-programs-from-the-lgu",
+      "name": "Access educational support programs from the LGU",
+      "file": "content/services/education/access-educational-support-programs-from-the-lgu.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/view_news?newsID=8bcaf22d8fccf535f5cd0d2df7ab722c0700",
+        "https://angelescity.gov.ph/%f0%9d%90%80%f0%9d%90%a7%f0%9d%90%a0%f0%9d%90%9e%f0%9d%90%a5%f0%9d%90%9e%f0%9d%90%ac-%f0%9d%90%8b%f0%9d%90%86%f0%9d%90%94-%f0%9d%90%82%f0%9d%90%a8%f0%9d%90%a7%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a7/",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/assessment-for-financial-assistance.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "education",
+      "slug": "learn-about-supplementary-activities-for-schools-in-your-area",
+      "name": "Learn about supplementary activities for schools in your area",
+      "file": "content/services/education/learn-about-supplementary-activities-for-schools-in-your-area.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/view_news?newsID=8bcaf22d8fccf535f5cd0d2df7ab722c0700"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "education",
+      "slug": "find-public-schools-in-angeles-city",
+      "name": "Public school directory",
+      "file": "content/services/education/find-public-schools-in-angeles-city.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://nid.deped.gov.ph/public-dashboard/region/Region%20III/division/Angeles%20City"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "business",
+      "slug": "apply-for-barangay-clearance-and-mayors-business-permits",
+      "name": "Apply for barangay clearance and mayor’s business permits",
+      "file": "content/services/business/apply-for-barangay-clearance-and-mayors-business-permits.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://cityofangeles.ph/bpls/",
+        "https://angelescity.gov.ph/",
+        "https://angelescity.gov.ph/news/",
+        "https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf",
+        "https://angelescity.gov.ph/citizens-charter/",
+        "https://angelescity.gov.ph/wp-content/uploads/2026/10/BPLD-ABP-001-Rev-33.pdf",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-business-permit.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-BUSINESS-PERMIT.pdf",
+        "https://www.angelescity.gov.ph/assets/pdf/business/business_license/BUSINESS-PERMIT-FORM.pdf",
+        "https://www.angelescity.gov.ph/business"
+      ],
+      "documentSourceIds": [
+        "doc20261028:S10",
+        "doc20261028:S11",
+        "doc20261028:S51"
+      ]
+    },
+    {
+      "category": "business",
+      "slug": "renew-permits-and-pay-local-business-taxes",
+      "name": "Renew permits and pay local business taxes",
+      "file": "content/services/business/renew-permits-and-pay-local-business-taxes.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://cityofangeles.ph/bpls/",
+        "https://angelescity.gov.ph/",
+        "https://angelescity.gov.ph/news/",
+        "https://angelescity.gov.ph/wp-content/uploads/2026/10/eBPLS-Citizen-Charter.pdf",
+        "https://angelescity.gov.ph/citizens-charter/",
+        "https://angelescity.gov.ph/wp-content/uploads/2026/10/BPLD-ABP-001-Rev-33.pdf",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-business-permit.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-BUSINESS-PERMIT.pdf",
+        "https://www.angelescity.gov.ph/assets/pdf/business/business_license/BUSINESS-PERMIT-FORM.pdf",
+        "https://www.angelescity.gov.ph/business"
+      ],
+      "documentSourceIds": [
+        "doc20261028:S10",
+        "doc20261028:S11",
+        "doc20261028:S51"
+      ]
+    },
+    {
+      "category": "business",
+      "slug": "rent-stalls-in-public-markets",
+      "name": "Rent stalls in public markets",
+      "file": "content/services/business/rent-stalls-in-public-markets.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "business",
+      "slug": "join-trade-fairs-business-expos-or-tourism-promotions",
+      "name": "Join trade fairs, business expos, or tourism promotions",
+      "file": "content/services/business/join-trade-fairs-business-expos-or-tourism-promotions.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://tourism.angelescity.gov.ph/",
+        "https://angelescity.gov.ph/events/",
+        "https://angelescity.gov.ph/news/",
+        "https://angelescity.gov.ph/event/tigtigan-terakan-keng-dalan-festival-ttkd-2026/",
+        "https://angelescity.gov.ph/event/apung-mamacalulu/",
+        "https://tourism.angelescity.gov.ph/hrpc-3/",
+        "https://tourism.angelescity.gov.ph/museo-ning-angeles/",
+        "https://tourism.angelescity.gov.ph/apu-shrine-2/",
+        "https://tourism.angelescity.gov.ph/mansion-de-don-florentino-pamintuan/",
+        "https://angelescity.gov.ph/%f0%9d%90%86%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%a7%f0%9d%90%a0-%f0%9d%90%9a%f0%9d%90%ad-%f0%9d%90%8b%f0%9d%90%a2%f0%9d%90%a4%f0%9d%90%a1%f0%9d%90%9a-%f0%9d%90%a7%f0%9d%90%a0-%f0%9d%90%80/",
+        "https://tourism.angelescity.gov.ph/tourist-spot/"
+      ],
+      "documentSourceIds": [
+        "doc20261028:S40",
+        "doc20261028:S41"
+      ]
+    },
+    {
+      "category": "business",
+      "slug": "download-business-permit-application-form",
+      "name": "Download the business permit application form",
+      "file": "content/services/business/download-business-permit-application-form.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://angelescity.gov.ph/wp-content/uploads/2026/10/BPLD-ABP-001-Rev-33.pdf",
+        "https://angelescity.gov.ph/",
+        "https://cityofangeles.ph/bpls/",
+        "https://www.angelescity.gov.ph/assets/pdf/business/business_license/BUSINESS-PERMIT-FORM.pdf",
+        "https://www.angelescity.gov.ph/business"
+      ],
+      "documentSourceIds": [
+        "doc20261028:S11",
+        "doc20261028:S51"
+      ]
+    },
+    {
+      "category": "business",
+      "slug": "request-business-zoning-compliance",
+      "name": "Request zoning compliance for a business permit",
+      "file": "content/services/business/request-business-zoning-compliance.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-zoning-compliance.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "business",
+      "slug": "apply-for-sanitary-permit",
+      "name": "Apply for a sanitary permit",
+      "file": "content/services/business/apply-for-sanitary-permit.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-sanitation-with-inspection.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-sanitation-without-inspection.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "business",
+      "slug": "apply-for-signage-event-and-miscellaneous-permits",
+      "name": "Apply for signage, event, and miscellaneous permits",
+      "file": "content/services/business/apply-for-signage-event-and-miscellaneous-permits.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-1.pdf",
+        "https://www.angelescity.gov.ph/business",
+        "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-2.pdf",
+        "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-3.pdf",
+        "https://www.angelescity.gov.ph/assets/pdf/business/business_license/ISSUANCE-OF-MISCELLANEOUS-PERMIT-4.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "business",
+      "slug": "apply-for-public-transport-mayors-permit",
+      "name": "Apply for a Mayor’s permit for public transport",
+      "file": "content/services/business/apply-for-public-transport-mayors-permit.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-MCH.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "business",
+      "slug": "find-your-angeles-city-barangay",
+      "name": "Barangay directory",
+      "file": "content/services/business/find-your-angeles-city-barangay.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/agapito_del_rosario",
+        "https://www.angelescity.gov.ph/amsic",
+        "https://www.angelescity.gov.ph/anunas",
+        "https://www.angelescity.gov.ph/balibago",
+        "https://www.angelescity.gov.ph/capaya",
+        "https://www.angelescity.gov.ph/claro_m_recto",
+        "https://www.angelescity.gov.ph/cuayan",
+        "https://www.angelescity.gov.ph/cutcut",
+        "https://www.angelescity.gov.ph/cutud",
+        "https://www.angelescity.gov.ph/lourdes_north_west",
+        "https://www.angelescity.gov.ph/lourdes_sur",
+        "https://www.angelescity.gov.ph/lourdes_sur_east",
+        "https://www.angelescity.gov.ph/malabañas",
+        "https://www.angelescity.gov.ph/margot",
+        "https://www.angelescity.gov.ph/marisol",
+        "https://www.angelescity.gov.ph/mining",
+        "https://www.angelescity.gov.ph/pampang",
+        "https://www.angelescity.gov.ph/pandan",
+        "https://www.angelescity.gov.ph/pulung_bulu",
+        "https://www.angelescity.gov.ph/pulung_cacutud",
+        "https://www.angelescity.gov.ph/pulung_maragul",
+        "https://www.angelescity.gov.ph/salapungan",
+        "https://www.angelescity.gov.ph/san_jose",
+        "https://www.angelescity.gov.ph/san_nicholas",
+        "https://www.angelescity.gov.ph/santa_teresita",
+        "https://www.angelescity.gov.ph/santa_trinidad",
+        "https://www.angelescity.gov.ph/santo_cristo",
+        "https://www.angelescity.gov.ph/santo_domingo",
+        "https://www.angelescity.gov.ph/santo_rosario",
+        "https://www.angelescity.gov.ph/sapalibutad",
+        "https://www.angelescity.gov.ph/sapang_bato",
+        "https://www.angelescity.gov.ph/tabun",
+        "https://www.angelescity.gov.ph/virgen_delos_remedios",
+        "https://www.angelescity.gov.ph/city_barangays"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "social-welfare",
+      "slug": "apply-for-senior-citizen-solo-parent-or-pwd-assistance",
+      "name": "Apply for senior citizen, solo parent, or PWD assistance",
+      "file": "content/services/social-welfare/apply-for-senior-citizen-solo-parent-or-pwd-assistance.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://angelescity.gov.ph/%f0%9d%90%80%f0%9d%90%a7%f0%9d%90%a0%f0%9d%90%9e%f0%9d%90%a5%f0%9d%90%9e%f0%9d%90%ac-%f0%9d%90%8b%f0%9d%90%86%f0%9d%90%94-%f0%9d%90%82%f0%9d%90%a8%f0%9d%90%a7%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a7/",
+        "https://angelescity.gov.ph/%f0%9d%97%9f%f0%9d%97%9c%f0%9d%97%95%f0%9d%97%a5%f0%9d%97%98%f0%9d%97%a1%f0%9d%97%9a-%f0%9d%97%a6%f0%9d%97%9c%f0%9d%97%a1%f0%9d%97%98-%f0%9d%97%a3%f0%9d%97%94%f0%9d%97%a5%f0%9d%97%94-%f0%9d%97%a6/",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/issuance-of-senior-citizen-id.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "social-welfare",
+      "slug": "receive-relief-goods-or-cash-aid-during-disasters",
+      "name": "Receive relief goods or cash aid during disasters",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "social-welfare",
+      "slug": "join-livelihood-or-skills-training-programs",
+      "name": "Join livelihood or skills training programs",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "social-welfare",
+      "slug": "get-family-and-community-welfare-support",
+      "name": "Get family and community welfare support",
+      "file": "content/services/social-welfare/get-family-and-community-welfare-support.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/issuance-of-social-case-study.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "social-welfare",
+      "slug": "apply-for-medical-burial-or-educational-financial-assistance",
+      "name": "Apply for medical, burial, or educational financial assistance",
+      "file": "content/services/social-welfare/apply-for-medical-burial-or-educational-financial-assistance.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://angelescity.gov.ph/%f0%9d%90%80%f0%9d%90%a7%f0%9d%90%a0%f0%9d%90%9e%f0%9d%90%a5%f0%9d%90%9e%f0%9d%90%ac-%f0%9d%90%8b%f0%9d%90%86%f0%9d%90%94-%f0%9d%90%82%f0%9d%90%a8%f0%9d%90%a7%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a7/",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/assessment-for-financial-assistance.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "social-welfare",
+      "slug": "attend-pre-marriage-counseling",
+      "name": "Attend pre-marriage counseling",
+      "file": "content/services/social-welfare/attend-pre-marriage-counseling.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/social_welfare_services/pre-marriage-counseling.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "agriculture-fisheries",
+      "slug": "ask-for-free-seeds-seedlings-fertilizers-or-fingerlings",
+      "name": "Ask for free seeds, seedlings, fertilizers, or fingerlings",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "agriculture-fisheries",
+      "slug": "get-veterinary-services-for-livestock",
+      "name": "Get veterinary services for livestock",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "agriculture-fisheries",
+      "slug": "attend-farming-or-fishing-training",
+      "name": "Attend farming or fishing training",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "agriculture-fisheries",
+      "slug": "borrow-farm-tools-or-equipment-from-the-lgu",
+      "name": "Borrow farm tools or equipment from the LGU",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "infrastructure-public-works",
+      "slug": "report-damaged-roads-bridges-or-drainage",
+      "name": "Report damaged roads, bridges, or drainage",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "infrastructure-public-works",
+      "slug": "request-access-to-barangay-water-supply-systems",
+      "name": "Request access to barangay water supply systems",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "infrastructure-public-works",
+      "slug": "use-public-facilities-like-gyms-barangay-halls-or-multipurpose-centers",
+      "name": "Use public facilities like gyms, barangay halls, or multipurpose centers",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "infrastructure-public-works",
+      "slug": "rent-stalls-in-public-markets-or-use-lgu-managed-cemeteries",
+      "name": "Rent stalls in public markets or use LGU-managed cemeteries",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "garbage-waste-disposal",
+      "slug": "check-garbage-collection-schedules-and-request-pickup",
+      "name": "Check garbage collection schedules and request pickup",
+      "file": "content/services/garbage-waste-disposal/check-garbage-collection-schedules-and-request-pickup.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "garbage-waste-disposal",
+      "slug": "learn-proper-waste-segregation-and-disposal-methods",
+      "name": "Learn proper waste segregation and disposal methods",
+      "file": "content/services/garbage-waste-disposal/learn-proper-waste-segregation-and-disposal-methods.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "garbage-waste-disposal",
+      "slug": "request-special-waste-collection-hazardous-materials-electronics",
+      "name": "Request special waste collection for hazardous materials and electronics",
+      "file": "content/services/garbage-waste-disposal/request-special-waste-collection-hazardous-materials-electronics.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "garbage-waste-disposal",
+      "slug": "report-illegal-dumping-or-waste-management-violations",
+      "name": "Report illegal dumping or waste management violations",
+      "file": "content/services/garbage-waste-disposal/report-illegal-dumping-or-waste-management-violations.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "environment",
+      "slug": "join-clean-up-drives-and-tree-planting-activities",
+      "name": "Join clean-up drives and tree planting activities",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "environment",
+      "slug": "report-illegal-logging-quarrying-or-fishing",
+      "name": "Report illegal logging, quarrying, or fishing",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "disaster-preparedness",
+      "slug": "join-disaster-drills-and-evacuation-planning",
+      "name": "Join disaster drills and evacuation planning",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "disaster-preparedness",
+      "slug": "learn-about-emergency-response-procedures-and-evacuation-routes",
+      "name": "Learn about emergency response procedures and evacuation routes",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "disaster-preparedness",
+      "slug": "access-disaster-preparedness-information-and-early-warning-systems",
+      "name": "Access disaster preparedness information and early warning systems",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "housing-land-use",
+      "slug": "apply-for-socialized-housing-or-relocation-projects",
+      "name": "Apply for socialized housing or relocation projects",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "housing-land-use",
+      "slug": "request-zoning-land-use-or-building-permits",
+      "name": "Request zoning, land use, or building permits",
+      "file": "content/services/housing-land-use/request-zoning-land-use-or-building-permits.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-building-permit.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/business/engineering_permit/ISSUANCE-OF-BUILDING-PERMIT.pdf",
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-certificate-of-zoning-compliance.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "housing-land-use",
+      "slug": "ask-about-available-relocation-sites-in-case-of-demolition",
+      "name": "Ask about available relocation sites in case of demolition",
+      "file": null,
+      "disposition": "awaiting_source",
+      "basis": "Indexed draft without a supported Markdown guide.",
+      "sourceUrls": [],
+      "documentSourceIds": []
+    },
+    {
+      "category": "housing-land-use",
+      "slug": "apply-for-occupancy-permit",
+      "name": "Apply for an occupancy permit",
+      "file": "content/services/housing-land-use/apply-for-occupancy-permit.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-occupancy-permit.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/business/engineering_permit/ISSUANCE-OF-OCCUPANCY-PERMIT.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "housing-land-use",
+      "slug": "request-annual-building-inspection-certificate",
+      "name": "Request an annual inspection certificate",
+      "file": "content/services/housing-land-use/request-annual-building-inspection-certificate.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-certificate-of-annual-inspection.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/business/engineering_permit/ISSUANCE-OF-ANNUAL-INSPECTION.pdf"
+      ],
+      "documentSourceIds": []
+    },
+    {
+      "category": "housing-land-use",
+      "slug": "request-electrical-inspection-certificate",
+      "name": "Request an electrical inspection certificate",
+      "file": "content/services/housing-land-use/request-electrical-inspection-certificate.md",
+      "disposition": "publish_with_dated_source_limits",
+      "basis": "Existing archived evidence and source QA; current office confirmation not performed.",
+      "sourceUrls": [
+        "https://www.angelescity.gov.ph/assets/pdf/citizen_charter/issuance_permit_certificate/issuance-of-certificate-of-electrical-inspection.pdf",
+        "https://www.angelescity.gov.ph/citizen_charter",
+        "https://www.angelescity.gov.ph/assets/pdf/business/engineering_permit/ISSUANCE-OF-ELECTRICAL-INSPECTION.pdf"
+      ],
+      "documentSourceIds": []
+    }
+  ]
+}
