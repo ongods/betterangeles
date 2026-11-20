@@ -19,7 +19,41 @@ details come from archived charters, and the directory is incomplete. For urgent
 assistance, use the emergency services for your location; this website does not
 receive emergency reports.
 
-## Correct information in this guide
+## Published office contacts
+
+These contacts appear in the October 2026 source collection. Their working lines
+and current arrangements have not been independently confirmed.
+
+| Office                       | Published contact                       | Scope and source                                                                                        |
+| ---------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| City Health sanitation / EHS | 045-322-4483, locals 3025 / 3023        | Health ID administrative inquiries; [official portal](https://cityofangeles.ph/healthcard/)             |
+| ICTD support                 | (045) 322-3344; ictd@angelescity.gov.ph | Healthcard portal technical support, as published on the [portal](https://cityofangeles.ph/healthcard/) |
+| City Tourism Office          | (045) 625 2286; acto@angelescity.gov.ph | Visitor inquiries; [tourism contact page](https://tourism.angelescity.gov.ph/contact/)                  |
+
+These are office contacts, separate from the volunteer-maintained BetterAngeles
+project. A general city switchboard has not been confirmed.
+
+## Common questions
+
+### Can I apply or pay here?
+
+BetterAngeles provides information. Use the linked official eBPLS and Health ID
+systems for applications, payments, and appointments.
+
+### Are the barangay contacts current?
+
+The official names and telephone values retain the source’s 2023–2026 term label.
+They are transcriptions, not independently confirmed current appointments or
+working telephone lines. Open a [barangay record](/government/barangays) to see its
+source and qualifications.
+
+### Can I report a city problem through this site?
+
+A city reporting destination has not been confirmed. BetterAngeles does not
+receive city complaints or emergency dispatch requests. The project’s public
+issue tracker below is only for corrections to this information guide.
+
+## Send a correction to BetterAngeles
 
 [Open an issue in the BetterAngeles project](https://github.com/ongods/betterangeles/issues/new)
 to report a broken link, outdated detail, or missing source. A GitHub account is

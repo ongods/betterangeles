@@ -9,6 +9,12 @@ export interface DirectoryEntry {
   sourceIds: string[];
 }
 
+export function directoryHref(item: DirectoryEntry): string {
+  return item.type === 'Barangay'
+    ? `/government/barangays/${item.id}`
+    : `/directory/${normalizeSearch(item.type).replaceAll(' ', '-')}/${item.id}`;
+}
+
 export const directoryEntries: DirectoryEntry[] = [
   ...cityData.barangays.map(item => ({
     ...item,

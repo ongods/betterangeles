@@ -8,10 +8,11 @@ import SEO from '../components/SEO';
 import {
   governmentCategories,
   getCategorySubcategories,
-  isNestedCategory,
   type CategoryIndex,
 } from '../data/yamlLoader';
 import NotFound from './NotFound';
+import { cityData } from '../data/cityData';
+import SourceLinks from '../components/ui/SourceLinks';
 
 export default function Government() {
   const { category } = useParams();
@@ -36,9 +37,38 @@ export default function Government() {
   }, [category]);
   if (category && !categoryData) return <NotFound />;
   const title = categoryData?.category ?? 'Government information';
-  const categories = governmentCategories.categories.filter(item =>
-    isNestedCategory(item.slug)
-  );
+  const sections = [
+    {
+      title: 'Executive Branch',
+      href: '/government/departments/executive',
+      description:
+        'Published mayor and vice-mayor information, with dates and source limits.',
+    },
+    {
+      title: 'Legislative Branch',
+      href: '/government/departments/legislative',
+      description:
+        'Read the sourced council roster and compare the dated records.',
+    },
+    {
+      title: 'Key Departments',
+      href: '/directory?type=City+office',
+      description:
+        'Find the available office records and published contact details.',
+    },
+    {
+      title: 'Barangay Directory',
+      href: '/government/barangays',
+      description:
+        'All 33 barangays, PSGC identifiers, 2024 census counts, and qualified official records.',
+    },
+    {
+      title: 'Citizen’s Charter',
+      href: '/transparency/ebpls-charter',
+      description:
+        'Read the available eBPLS charter. Its scope is business permits; it does not cover every city office.',
+    },
+  ];
   return (
     <>
       <SEO
@@ -55,17 +85,49 @@ export default function Government() {
           </Text>
           {!category ? (
             <div className="divide-y divide-gray-200">
-              {categories.map(item => (
-                <article key={item.slug} className="py-5">
+              {sections.map(item => (
+                <article key={item.href} className="py-5">
                   <Heading
                     level={2}
                     className="text-xl md:text-2xl lg:text-2xl"
                   >
-                    <Link to={'/government/' + item.slug}>{item.category}</Link>
+                    <Link to={item.href}>{item.title}</Link>
                   </Heading>
                   <Text>{item.description}</Text>
                 </article>
               ))}
+              <section className="pt-10">
+                <Heading level={2}>Published office contacts</Heading>
+                <p className="max-w-3xl mb-6">
+                  These records were collected in October 2026. Confirm current
+                  staff, working lines, locations, and hours with the office.
+                  They are not a verified current hotline directory.
+                </p>
+                <div className="grid md:grid-cols-2 gap-x-12">
+                  {cityData.offices.map(office => (
+                    <article
+                      key={office.id}
+                      className="py-5 border-b border-gray-200"
+                    >
+                      <Heading
+                        level={3}
+                        className="text-xl md:text-xl lg:text-xl"
+                      >
+                        <Link to={`/directory/city-office/${office.id}`}>
+                          {office.name}
+                        </Link>
+                      </Heading>
+                      <p>{office.details}</p>
+                      <SourceLinks ids={office.sourceIds} />
+                    </article>
+                  ))}
+                </div>
+                <p className="mt-6">
+                  <Link to="/government/departments/office-schedules">
+                    Check dated City Hall schedule advice
+                  </Link>
+                </p>
+              </section>
             </div>
           ) : failed ? (
             <p role="alert">
