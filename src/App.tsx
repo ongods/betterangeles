@@ -5,7 +5,6 @@ import Footer from './components/layout/Footer';
 import Home from './pages/Home';
 import ScrollToTop from './components/ui/ScrollToTop';
 import Services from './pages/Services';
-import Document from './pages/Document';
 import Government from './pages/Government';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { lazy, Suspense } from 'react';
@@ -15,6 +14,10 @@ const About = lazy(() => import('./pages/About'));
 const Directory = lazy(() => import('./pages/Directory'));
 const Transparency = lazy(() => import('./pages/Transparency'));
 const Culture = lazy(() => import('./pages/Culture'));
+const Document = lazy(() => import('./pages/Document'));
+const InteractiveMap = lazy(() => import('./pages/InteractiveMap'));
+const DirectoryDetail = lazy(() => import('./pages/DirectoryDetail'));
+const RecordDetail = lazy(() => import('./pages/RecordDetail'));
 
 function App() {
   return (
@@ -36,7 +39,21 @@ function App() {
                   <Route path="/" element={<Home />} />
                   <Route path="/about" element={<About />} />
                   <Route path="/directory" element={<Directory />} />
+                  <Route
+                    path="/directory/:type/:id"
+                    element={<DirectoryDetail />}
+                  />
+                  <Route
+                    path="/government/barangays"
+                    element={<Directory barangaysOnly />}
+                  />
+                  <Route
+                    path="/government/barangays/:id"
+                    element={<DirectoryDetail barangay />}
+                  />
                   <Route path="/transparency" element={<Transparency />} />
+                  <Route path="/transparency/:id" element={<RecordDetail />} />
+                  <Route path="/map" element={<InteractiveMap />} />
                   <Route path="/culture" element={<Culture />} />
                   <Route
                     path="/contact"

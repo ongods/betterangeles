@@ -4,12 +4,12 @@ import { site } from '../../data/site';
 
 export default function Footer() {
   return (
-    <footer className="dark-surface bg-gray-900 text-white">
-      <div className="container mx-auto px-4 py-10">
-        <div className="grid gap-8 md:grid-cols-3">
+    <footer className="dark-surface bg-primary-900 text-white">
+      <div className="civic-container py-10">
+        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
           <div>
             <p className="font-semibold text-lg mb-3">{site.name}</p>
-            <p className="text-gray-200 max-w-sm">
+            <p className="text-primary-100 max-w-sm">
               {site.description} Source dates and known gaps are shown
               throughout the guide.
             </p>
@@ -41,9 +41,23 @@ export default function Footer() {
             </div>
           ))}
         </div>
-        <p className="border-t border-gray-700 mt-8 pt-5 text-sm text-gray-200">
+        <p className="border-t border-primary-800 mt-8 pt-5 text-sm text-primary-100">
           A community project. Government transactions take place on official
-          systems. Source materials retain their own terms.
+          systems. Source materials retain their own terms. Built on{' '}
+          <a
+            href="https://github.com/iyanski/betterlocalgov"
+            className="underline"
+          >
+            BetterLocalGov
+          </a>
+          . Project code:{' '}
+          <a
+            href="https://github.com/ongods/betterangeles/blob/main/LICENSE"
+            className="underline"
+          >
+            CC0 1.0
+          </a>
+          .
         </p>
       </div>
     </footer>

@@ -1,25 +1,16 @@
 import { Link } from 'react-router-dom';
+import BrowseTopics from '../components/home/BrowseTopics';
 import Hero from '../components/sections/Hero';
 import Section from '../components/ui/Section';
 import { Heading } from '../components/ui/Heading';
 import { Text } from '../components/ui/Text';
 import SEO from '../components/SEO';
 import { cityData, formatNumber } from '../data/cityData';
+import { lazy, Suspense } from 'react';
+import CityUpdates from '../components/home/CityUpdates';
+import { publicRecords } from '../data/transparency';
+const CityMap = lazy(() => import('../components/ui/CityMap'));
 
-const quickLinks = [
-  ['Start or renew a business', '/services/business'],
-  ['Request civil documents', '/services/civil-documents'],
-  [
-    'Apply for a health ID',
-    '/services/health-services/apply-for-worker-health-certificate-cards',
-  ],
-  ['Pay local taxes and fees', '/services/taxes-fees'],
-  ['Find a barangay or school', '/directory'],
-  [
-    'Check City Hall schedule advice',
-    '/government/departments/office-schedules',
-  ],
-];
 export default function Home() {
   return (
     <>
@@ -29,30 +20,25 @@ export default function Home() {
       />
       <main id="main-content" className="flex-grow">
         <Hero />
-        <Section>
-          <Heading level={2}>Start here</Heading>
-          <div className="grid md:grid-cols-2 gap-x-12">
-            {quickLinks.map(([label, href]) => (
-              <Link
-                key={href}
-                to={href}
-                className="flex items-center justify-between border-b border-gray-200 py-5 font-semibold text-lg"
-              >
-                {label}
-                <span aria-hidden="true">→</span>
-              </Link>
-            ))}
-          </div>
-        </Section>
+        <BrowseTopics />
+        <CityUpdates />
         <Section className="bg-primary-50">
           <div className="grid gap-8 md:grid-cols-2">
             <div>
-              <Heading level={2}>Get to know Angeles</Heading>
+              <Heading level={2}>Angeles at a glance</Heading>
               <Text className="text-gray-800 mb-5">
                 Explore the city's barangays, heritage places, and available
                 public directories.
               </Text>
               <Link to="/about">About Angeles</Link>
+              <div className="mt-7">
+                <Suspense fallback={<p role="status">Loading city map…</p>}>
+                  <CityMap compact />
+                </Suspense>
+                <Link to="/map" className="inline-block mt-3">
+                  Explore the interactive map
+                </Link>
+              </div>
             </div>
             <div>
               <dl className="grid grid-cols-2 gap-6">
@@ -80,10 +66,64 @@ export default function Home() {
                 </a>
                 . Barangay listing dated {cityData.profile.barangayEdition}.
               </p>
+              <div className="border-t border-primary-200 mt-7 pt-6">
+                <Heading level={3} className="text-xl md:text-xl lg:text-xl">
+                  Current weather
+                </Heading>
+                <p>
+                  Current conditions are not connected. Climate averages are not
+                  today’s readings.
+                </p>
+                <p className="mt-3">
+                  <a href="https://www.pagasa.dost.gov.ph/">
+                    Check PAGASA weather and advisories
+                  </a>
+                </p>
+              </div>
             </div>
           </div>
         </Section>
         <Section>
+          <div className="grid lg:grid-cols-2 gap-12 mb-12">
+            <section>
+              <Heading level={2}>A city with stories to tell</Heading>
+              <p className="text-gray-800 mb-5">
+                From the old city hall at Museo ning Angeles to the Museum of
+                Philippine Social History at Pamintuan Mansion, explore places
+                that hold the city’s history.
+              </p>
+              <div className="flex flex-wrap gap-5">
+                <Link to="/about#heritage">Explore heritage places</Link>
+                <Link to="/about#heritage-quiz">
+                  Try the Angeles heritage quiz
+                </Link>
+              </div>
+            </section>
+            <section>
+              <Heading level={2}>Documented city projects</Heading>
+              <p className="text-sm text-gray-700 mb-4">
+                Dated reports; current construction progress is unverified.
+              </p>
+              {publicRecords
+                .filter(item => item.kind === 'Project')
+                .map(item => (
+                  <article
+                    key={item.id}
+                    className="py-3 border-b border-gray-200"
+                  >
+                    <Link
+                      to={`/transparency/${item.id}`}
+                      className="font-semibold"
+                    >
+                      {item.title}
+                    </Link>
+                    <p className="text-sm text-gray-700 mt-2">
+                      {item.referenceDate}
+                    </p>
+                  </article>
+                ))}
+            </section>
+          </div>
           <Heading level={2}>City information</Heading>
           <div className="grid md:grid-cols-3 gap-8">
             <div>
