@@ -1,5 +1,9 @@
 # Roadmap implementation status
 
+For the 20 November 2026 website build, see [Website build](WEBSITE-BUILD.md).
+The dated report below describes the earlier implementation; its quiz-removal,
+map, and bundle-size notes have been superseded by the new build.
+
 Updated 7 November 2026. This records implemented behavior and remaining work;
 it does not certify current government information or claim a production release.
 
