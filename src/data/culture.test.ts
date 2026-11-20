@@ -1,8 +1,23 @@
 import { describe, expect, it } from 'vitest';
-import { getEventStatus, getPhilippineDate } from './culture';
+import { canFeatureEvent, getEventStatus, getPhilippineDate } from './culture';
 import { hasMarkdownContent } from '../lib/markdownLoader';
 
 describe('dated event presentation', () => {
+  it('does not feature canceled, postponed, or expired events as upcoming', () => {
+    const now = new Date('2030-05-01T16:00:00Z');
+    expect(
+      canFeatureEvent({ end: '2030-05-02', sourceStatus: 'canceled' }, now)
+    ).toBe(false);
+    expect(
+      canFeatureEvent({ end: '2030-05-02', sourceStatus: 'postponed' }, now)
+    ).toBe(false);
+    expect(
+      canFeatureEvent({ end: '2030-05-01', sourceStatus: null }, now)
+    ).toBe(false);
+    expect(
+      canFeatureEvent({ end: '2030-05-02', sourceStatus: null }, now)
+    ).toBe(true);
+  });
   it('uses Philippine calendar days at a UTC boundary', () => {
     expect(
       getEventStatus(

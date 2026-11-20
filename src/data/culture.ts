@@ -17,3 +17,13 @@ export function getEventStatus(
   if (today < start) return 'Upcoming event';
   return 'Scheduled today';
 }
+
+export function canFeatureEvent(
+  event: { end: string; sourceStatus: string | null },
+  now = new Date()
+): boolean {
+  return (
+    event.end >= getPhilippineDate(now) &&
+    !/cancel|postpon/i.test(event.sourceStatus ?? '')
+  );
+}

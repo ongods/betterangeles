@@ -41,6 +41,14 @@ afterEach(() => {
 });
 
 describe('official calendar loading', () => {
+  it('preserves source-reported cancellation separately from published dates', async () => {
+    respond({ events: [event({ event_status: 'canceled' })] });
+    expect((await loadCityEvents(undefined, now)).items[0]).toMatchObject({
+      sourceStatus: 'canceled',
+      start: '2030-05-03',
+      end: '2030-05-03',
+    });
+  });
   it('requests current Philippine dates without cookies or browser-cache reuse', async () => {
     const fetch = respond({ events: [event()] });
     const result = await loadCityEvents(undefined, now);

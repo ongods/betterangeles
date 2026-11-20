@@ -113,6 +113,8 @@ export default function Culture() {
               <article key={event.id} className="py-5 max-w-3xl break-words">
                 <p className="text-sm text-gray-700 mb-2">
                   {getEventStatus(event.start, event.end)}
+                  {event.sourceStatus &&
+                    ` · Source status: ${event.sourceStatus}`}
                 </p>
                 <Heading level={3} className="text-xl md:text-2xl lg:text-2xl">
                   <a href={event.url}>{event.title}</a>

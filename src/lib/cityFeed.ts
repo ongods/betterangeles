@@ -16,6 +16,7 @@ export interface CityEvent {
   startTime: string | null;
   timezone: string | null;
   venue: string | null;
+  sourceStatus: string | null;
 }
 
 export interface CityNews {
@@ -132,6 +133,7 @@ function eventFromSource(value: unknown): CityEvent | null {
     startTime,
     timezone: plainText(value.timezone) || null,
     venue: venue.slice(0, 500) || null,
+    sourceStatus: plainText(value.event_status).slice(0, 100) || null,
   };
 }
 
