@@ -1,4 +1,6 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
+import { SlidersHorizontal, X } from 'lucide-react';
+import { useServiceCatalog } from '../hooks/useServiceCatalog';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import Section from '../components/ui/Section';
 import { Heading } from '../components/ui/Heading';
@@ -6,43 +8,44 @@ import { Text } from '../components/ui/Text';
 import Breadcrumbs from '../components/ui/Breadcrumbs';
 import SEO from '../components/SEO';
 import { serviceCategories } from '../data/yamlLoader';
-import {
-  loadServiceCatalog,
-  searchServices,
-  type ServiceEntry,
-} from '../data/serviceCatalog';
+import { searchServices } from '../data/serviceCatalog';
 import NotFound from './NotFound';
+import { serviceTopics } from '../data/serviceMetadata';
 
 export default function Services() {
   const { category } = useParams();
   const [params, setParams] = useSearchParams();
-  const [entries, setEntries] = useState<ServiceEntry[] | null>(null);
-  const [error, setError] = useState(false);
+  const { entries, error } = useServiceCatalog();
+  const [filtersOpen, setFiltersOpen] = useState(false);
   const selectedCategory = category ?? params.get('category') ?? '';
   const query = params.get('q') ?? '';
   const onlineOnly = params.get('online') === '1';
+  const access = params.get('access') ?? '';
+  const office = params.get('office') ?? '';
+  const audience = params.get('audience') ?? '';
+  const topic = params.get('topic') ?? '';
   const categoryData = serviceCategories.categories.find(
     item => item.slug === selectedCategory
   );
-  useEffect(() => {
-    let active = true;
-    loadServiceCatalog()
-      .then(result => {
-        if (active) setEntries(result);
-      })
-      .catch(() => {
-        if (active) setError(true);
-      });
-    return () => {
-      active = false;
-    };
-  }, []);
+  const filters = [
+    [
+      'category',
+      !category ? selectedCategory : '',
+      categoryData?.category ?? selectedCategory,
+    ],
+    ['topic', topic, topic],
+    ['access', access, access],
+    ['office', office, office],
+    ['audience', audience, audience],
+    ['online', onlineOnly ? '1' : '', 'Online application link'],
+  ].filter(([, value]) => value);
   if (category && !categoryData) return <NotFound />;
   const results = searchServices(
     entries ?? [],
     query,
     selectedCategory,
-    onlineOnly
+    onlineOnly,
+    { access, office, audience, topic }
   );
   const gaps = (entries ?? []).filter(
     item =>
@@ -70,6 +73,24 @@ export default function Services() {
             source dates; confirm current arrangements with the responsible
             office.
           </Text>
+          {!category && (
+            <div
+              className="topic-links mb-7"
+              aria-label="Browse service categories"
+            >
+              {serviceTopics.map(item => (
+                <button
+                  key={item.name}
+                  aria-pressed={topic === item.name}
+                  onClick={() =>
+                    update('topic', topic === item.name ? '' : item.name)
+                  }
+                >
+                  {item.name}
+                </button>
+              ))}
+            </div>
+          )}
           <form
             role="search"
             onSubmit={event => event.preventDefault()}
@@ -104,28 +125,131 @@ export default function Services() {
                 </div>
               )}
             </div>
-            <div className="mt-4 flex flex-wrap items-center gap-5">
-              <label className="inline-flex items-center gap-2 font-normal">
-                <input
-                  type="checkbox"
-                  checked={onlineOnly}
-                  onChange={event =>
-                    update('online', event.target.checked ? '1' : '')
-                  }
-                />
-                Has an online application link
-              </label>
-              {(query || onlineOnly || (!category && selectedCategory)) && (
+            <button
+              type="button"
+              className="mt-4 inline-flex items-center gap-2 font-semibold text-primary-700 md:hidden"
+              aria-expanded={filtersOpen}
+              aria-controls="service-filters"
+              onClick={() => setFiltersOpen(!filtersOpen)}
+            >
+              <SlidersHorizontal className="size-4" aria-hidden="true" />
+              More filters{filters.length ? ' (' + filters.length + ')' : ''}
+            </button>
+            <div
+              id="service-filters"
+              className={filtersOpen ? 'block' : 'hidden md:block'}
+            >
+              <div className="grid gap-5 md:grid-cols-3 mt-5">
+                <div>
+                  <label htmlFor="service-access">Access</label>
+                  <select
+                    id="service-access"
+                    value={access}
+                    onChange={event => update('access', event.target.value)}
+                  >
+                    <option value="">Any access mode</option>
+                    <option value="online">
+                      Online application / appointment
+                    </option>
+                    <option value="walk-in">Walk-in in dated guide</option>
+                    <option value="unknown">Access not confirmed</option>
+                  </select>
+                </div>
+                <div>
+                  <label htmlFor="service-office">Responsible office</label>
+                  <select
+                    id="service-office"
+                    value={office}
+                    onChange={event => update('office', event.target.value)}
+                  >
+                    <option value="">All offices</option>
+                    {[
+                      ...new Set(
+                        (entries ?? []).flatMap(entry =>
+                          entry.office ? [entry.office] : []
+                        )
+                      ),
+                    ]
+                      .sort()
+                      .map(name => (
+                        <option key={name}>{name}</option>
+                      ))}
+                  </select>
+                </div>
+                <div>
+                  <label htmlFor="service-audience">Who is it for?</label>
+                  <select
+                    id="service-audience"
+                    value={audience}
+                    onChange={event => update('audience', event.target.value)}
+                  >
+                    <option value="">Everyone</option>
+                    {[
+                      'Residents',
+                      'Businesses',
+                      'Seniors',
+                      'PWDs',
+                      'Students',
+                    ].map(name => (
+                      <option key={name}>{name}</option>
+                    ))}
+                  </select>
+                </div>
+              </div>
+              <p className="text-sm text-gray-700 mt-4">
+                Filters use documented information. Some guides do not yet have
+                a confirmed access mode, office, or audience.
+              </p>
+              <div className="mt-4 flex flex-wrap items-center gap-5">
+                <label className="inline-flex items-center gap-2 font-normal">
+                  <input
+                    type="checkbox"
+                    checked={onlineOnly}
+                    onChange={event =>
+                      update('online', event.target.checked ? '1' : '')
+                    }
+                  />
+                  Has an online application link
+                </label>
+              </div>
+            </div>
+            {(filters.length > 0 || query) && (
+              <div
+                className="mt-4 flex flex-wrap items-center gap-2"
+                aria-label="Selected filters"
+              >
+                {filters.map(([key, , label]) => (
+                  <button
+                    type="button"
+                    key={key}
+                    aria-label={'Remove ' + label + ' filter'}
+                    onClick={() => update(key, '')}
+                    className="filter-tag"
+                  >
+                    {label}
+                    <X className="size-3.5" aria-hidden="true" />
+                  </button>
+                ))}
                 <button
+                  className="text-link px-2"
                   type="button"
-                  className="text-link"
                   onClick={() => setParams({}, { replace: true })}
                 >
                   Clear filters
                 </button>
-              )}
-            </div>
+              </div>
+            )}
           </form>
+          {topic === 'Transportation' && (
+            <p className="notice mb-7">
+              The available transport permit guide is dated. Verified jeepney
+              routes and fares are pending.{' '}
+              <Link to="/map?layer=jeepney">
+                See transport map availability
+              </Link>{' '}
+              or <Link to="/contact">find official help</Link>.
+            </p>
+          )}
           {error ? (
             <div role="alert">
               <Heading level={2}>Service guides could not be loaded</Heading>
@@ -163,7 +287,19 @@ export default function Services() {
                       level={2}
                       className="text-xl md:text-xl lg:text-xl mb-2"
                     >
-                      <Link to={entry.href}>{entry.name}</Link>
+                      <Link
+                        to={entry.href}
+                        state={{
+                          serviceResults: {
+                            path: category
+                              ? '/services/' + category
+                              : '/services',
+                            search: params.toString(),
+                          },
+                        }}
+                      >
+                        {entry.name}
+                      </Link>
                     </Heading>
                     <Text className="text-gray-800">{entry.description}</Text>
                   </article>

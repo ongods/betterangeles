@@ -3,7 +3,7 @@ import {
   getCategorySubcategories,
   type Subcategory,
 } from './yamlLoader';
-import { serviceMetadata } from './serviceMetadata';
+import { serviceMetadata, serviceTopics } from './serviceMetadata';
 
 export interface ServiceEntry extends Subcategory {
   categorySlug: string;
@@ -12,6 +12,9 @@ export interface ServiceEntry extends Subcategory {
   available: boolean;
   onlineUrl?: string;
   synonyms: string[];
+  access: ('online' | 'walk-in')[] | null;
+  office: string | null;
+  audiences: string[] | null;
 }
 
 const serviceFiles = new Set(
@@ -38,6 +41,9 @@ export function loadServiceCatalog(): Promise<ServiceEntry[]> {
           available: hasServicePage(category.slug, page.slug),
           onlineUrl: metadata?.onlineUrl,
           synonyms: metadata?.synonyms ?? [],
+          access: metadata?.access ?? null,
+          office: metadata?.office ?? null,
+          audiences: metadata?.audiences ?? null,
         };
       });
     })
@@ -63,7 +69,13 @@ export function searchServices(
   entries: ServiceEntry[],
   query: string,
   category = '',
-  onlineOnly = false
+  onlineOnly = false,
+  filters: {
+    access?: string;
+    office?: string;
+    audience?: string;
+    topic?: string;
+  } = {}
 ): ServiceEntry[] {
   const words = normalizeSearch(query).split(' ').filter(Boolean);
   return entries.filter(entry => {
@@ -71,11 +83,29 @@ export function searchServices(
       return false;
     }
     if (onlineOnly && !entry.onlineUrl) return false;
+    if (filters.access === 'unknown' && entry.access !== null) return false;
+    if (
+      filters.access &&
+      filters.access !== 'unknown' &&
+      !entry.access?.some(mode => mode === filters.access)
+    )
+      return false;
+    if (filters.office && entry.office !== filters.office) return false;
+    if (filters.audience && !entry.audiences?.includes(filters.audience))
+      return false;
+    const topic = serviceTopics.find(item => item.name === filters.topic);
+    if (
+      filters.topic &&
+      !topic?.categories.includes(entry.categorySlug) &&
+      !topic?.serviceSlugs?.includes(entry.slug)
+    )
+      return false;
     const text = normalizeSearch(
       [
         entry.name,
         entry.description,
         entry.categoryName,
+        entry.office ?? '',
         ...entry.synonyms,
       ].join(' ')
     );

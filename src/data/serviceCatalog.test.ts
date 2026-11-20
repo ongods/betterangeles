@@ -7,6 +7,48 @@ import {
 import { searchDirectory } from './directory';
 
 describe('published service discovery', () => {
+  it('finds published guides by the responsible office typed into search', async () => {
+    const catalog = await loadServiceCatalog();
+    const matches = searchServices(catalog, 'Environmental Health Services');
+    expect(matches.map(item => item.slug)).toContain(
+      'apply-for-worker-health-certificate-cards'
+    );
+    expect(matches.every(item => item.available)).toBe(true);
+  });
+
+  it('combines access, office, and audience without assigning unknown modes', async () => {
+    const catalog = await loadServiceCatalog();
+    const office = 'Business Permit and Licensing Division';
+    const matches = searchServices(catalog, 'business', '', false, {
+      access: 'online',
+      office,
+      audience: 'Businesses',
+    });
+    expect(matches).toHaveLength(2);
+    expect(
+      matches.every(
+        item => item.onlineUrl === 'https://www.cityofangeles.ph/bpls/#services'
+      )
+    ).toBe(true);
+    expect(
+      searchServices(catalog, '', '', false, { access: 'walk-in', office })
+    ).toEqual([]);
+    const unknown = searchServices(catalog, '', '', false, {
+      access: 'unknown',
+    });
+    expect(unknown.length).toBeGreaterThan(0);
+    expect(unknown.every(item => item.access === null)).toBe(true);
+    expect(
+      searchServices(catalog, '', '', false, { topic: 'Transportation' }).map(
+        item => item.slug
+      )
+    ).toEqual(['apply-for-public-transport-mayors-permit']);
+    expect(
+      searchServices(catalog, '', '', false, { audience: 'Students' }).map(
+        item => item.slug
+      )
+    ).toContain('access-educational-support-programs-from-the-lgu');
+  });
   it('separates supported pages from indexed source gaps', async () => {
     const catalog = await loadServiceCatalog();
     expect(catalog.filter(item => item.available)).toHaveLength(42);

@@ -9,10 +9,20 @@ Prepare requirements for white, green, or pink health cards for workers in Angel
 ## Health ID appointments and current portal links
 
 The [official Healthcard appointment portal](https://cityofangeles.ph/healthcard/),
-checked November 7, 2026, offers account registration and appointment slots.
+checked November 19, 2026, offers account registration and appointment slots.
 Its published baseline requirements are chest X-ray result and film valid for
 six months, urinalysis and fecalysis valid for two weeks, a current-year cedula,
 and an appointment slip. The portal requests arrival 15 minutes before the slot.
+
+### Qualification for pregnant applicants
+
+[EHS Advisory No. 002, dated February 5, 2026](https://www.cityofangeles.ph/healthcard/documents/advisory-no-002-series-of-2026-chest-xray-requirements-for-pregnant-employees-securing-health-ids),
+checked November 19, 2026, allows pregnant applicants to present **either an
+OB-GYN medical clearance or a GeneXpert result from a DOH-accredited laboratory**
+instead of the chest X-ray at application. It also describes a chest X-ray
+requirement after delivery, subject to the applicable health rules. Confirm the
+administrative requirements with EHS; this summary does not advise which medical
+test an individual should have.
 
 Read the [Health ID application form](https://www.cityofangeles.ph/healthcard/documents/health-id-application-form)
 and the portal's category-specific advisories before booking. Additional

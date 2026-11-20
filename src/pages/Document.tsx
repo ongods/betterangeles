@@ -3,7 +3,7 @@ import Breadcrumbs from '../components/ui/Breadcrumbs';
 import { Heading } from '../components/ui/Heading';
 import { Text } from '../components/ui/Text';
 import { Banner } from '@bettergov/kapwa/banner';
-import { Link, useParams } from 'react-router-dom';
+import { Link, useLocation, useParams } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -13,7 +13,7 @@ import {
   type MarkdownContent,
 } from '../lib/markdownLoader';
 import { createMarkdownComponents } from '../lib/markdownComponents';
-import { Card, CardContent, CardHeader } from '@bettergov/kapwa/card';
+import { Card, CardContent } from '@bettergov/kapwa/card';
 import { getTypographyTheme } from '../lib/typographyThemes';
 import {
   serviceCategories,
@@ -25,6 +25,8 @@ import {
 } from '../data/yamlLoader';
 import SEO from '../components/SEO';
 import { hasServicePage } from '../data/serviceCatalog';
+import { serviceResultsUrl } from '../lib/serviceResultsUrl';
+import ServiceFacts from '../components/sections/ServiceFacts';
 
 interface DocumentProps {
   theme?: string;
@@ -40,6 +42,8 @@ export default function Document({
   slugOverride,
 }: DocumentProps) {
   const params = useParams();
+  const { state } = useLocation();
+  const returnLink = serviceResultsUrl(state);
   const documentSlug = slugOverride ?? params.documentSlug;
   const category = categoryOverride ?? params.category;
   const [missingGuide, setMissingGuide] = useState<Subcategory | null>(null);
@@ -69,6 +73,8 @@ export default function Document({
         setLoading(true);
         setError(null);
         setMissingGuide(null);
+        setNestedIndex(null);
+        setMarkdownContent(null);
 
         const isGovernment = categoryType === 'government';
         const categories = isGovernment
@@ -255,22 +261,31 @@ export default function Document({
         }
         keywords={`${documentSlug}, government services, public services, local government`}
       />
-      <Section className="p-3 mb-12">
-        <Breadcrumbs className="mb-8" items={breadcrumbs} />
-        <Card className="mb-8 markdown-content">
-          <CardHeader>
-            {markdownContent.description && (
-              <CardContent>{markdownContent.description}</CardContent>
+      <main id="main-content">
+        <Section className="document-section">
+          <Breadcrumbs className="mb-8" items={breadcrumbs} />
+          {categoryType === 'service' && returnLink && (
+            <Link className="mb-5 inline-block font-semibold" to={returnLink}>
+              Back to service results
+            </Link>
+          )}
+          <div className="document-layout">
+            <article className="markdown-content min-w-0">
+              <ReactMarkdown
+                remarkPlugins={[remarkGfm]}
+                components={markdownComponents}
+              >
+                {markdownContent.content}
+              </ReactMarkdown>
+            </article>
+            {categoryType === 'service' && (
+              <aside className="min-w-0">
+                <ServiceFacts serviceKey={`${category}/${documentSlug}`} />
+              </aside>
             )}
-            <ReactMarkdown
-              remarkPlugins={[remarkGfm]}
-              components={markdownComponents}
-            >
-              {markdownContent.content}
-            </ReactMarkdown>
-          </CardHeader>
-        </Card>
-      </Section>
+          </div>
+        </Section>
+      </main>
     </>
   );
 }
