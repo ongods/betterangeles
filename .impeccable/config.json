@@ -1,0 +1,22 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "inter",
+        "files": ["content/reference/figma-make/betterangeles/src/index.css"],
+        "createdAt": "2026-11-20T17:58:53.592Z",
+        "reason": "Agent review: Inter is part of the archived Figma source snapshot."
+      },
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": ["content/reference/figma-make/betterangeles/src/ui.tsx"],
+        "createdAt": "2026-11-20T17:58:58.187Z",
+        "reason": "Agent review: the archived page navigation uses this border to identify the current section, alongside aria-current."
+      }
+    ]
+  }
+}
